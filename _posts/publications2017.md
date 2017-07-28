@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publications
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: 2017
 bigimg: /img/path.jpg
 ---
 
