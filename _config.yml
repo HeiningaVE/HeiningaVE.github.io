@@ -24,11 +24,42 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Publications: "Publications"
+  CV: "CV"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Author's home: "title: Vera Ellen Heininga
+
+# Short description of your site
+description: A virtual proof that name is awesome!
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  Author's home: "title: Vera Ellen Heininga
+
+# Short description of your site
+description: A virtual proof that name is awesome!
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  Author's home: "http://www.rug.nl/staff/v.e.heininga/"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
