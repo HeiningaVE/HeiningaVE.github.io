@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://HeiningaVE.github.io"
-baseurl: ""
+baseurl: "HeiningaVE"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -17,7 +17,7 @@ baseurl: ""
 title: Vera Ellen Heininga
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: website Vera E. Heininga
 
 # --- Navigation bar options --- #
 
@@ -25,10 +25,10 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://www.rug.nl/staff/v.e.heininga/"
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  Author's home: "https://ppw.kuleuven.be/okp/people/Vera_Heininga/"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -45,37 +45,18 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Vera Ellen Heininga
-  email: "v.e.heininga@umcg.nl"
-  facebook: yourname  # eg. daattali
-  github: HeiningaVE    # eg. daattali
-  twitter: HeiningaVE   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  email: "Vera.heininga@kuleuven.be"
+  github: HeiningaVE    
+  twitter: HeiningaVE   
+  telephone: (+32) 16 327862   
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: false
   email: true
   twitter: true
-  google-plus: false
   github: true
-  reddit: false
   linkedin: false
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: false
-  youtube: false
-  spotify: false
   telephone: false
 
 # Select which share links to show in posts
