@@ -38,7 +38,7 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehink
 # Scientific awards and nominations
 
 * KNAW Ter Meulen grant; 06-2017; €21.900,-
-  Grant from The Royal Netherlands Academy of Arts and Sciences (KNAW in Dutch) for promising
+  \n  Grant from The Royal Netherlands Academy of Arts and Sciences (KNAW in Dutch) for promising
   young researchers in paediatric or related areas of medicine.
 
 * ECNP Travel bursary Bristol; 02-2017; €500,-
