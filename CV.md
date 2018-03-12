@@ -79,16 +79,14 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehink
   International Society for Research in Child and Adolescent Psychopathology (ISRCAP); Amsterdam, The Netherlands
 
 ## 2015
-2015 	Oral presentation
+- Oral presentation
 International Dutch Neuroscientific Meeting (DNM); Lunteren, The Netherlands
-
-2015 	Organized International Symposium + Poster presentation
+- Organized International Symposium + Poster presentation
 International Society for Research in Child and Adolescent Psychopathology(ISRCAP); Portland, USA
-
-2015 	Oral presentation
+- Oral presentation
 Research Foundation-Flanders (FWO) conference; Leuven, Belgium
 
-2013	Poster presentation
+- Poster presentation
 Gravitation programme Consortium on Individual Development (CID); Amsterdam, The Netherlands
 
 # Research stays
