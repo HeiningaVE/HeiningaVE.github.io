@@ -29,4 +29,6 @@ addresses two problems related to research reproducibility: Different
 operationalizations of the same construct (chapter 5) and chance capitalization
 (chapter 6). 
 
-Towards understanding altered reward function from a micro-level perspective
+Please download the whole thesis from the [University of Groningen](https://www.rug.nl/research/portal/publications/the-happy-the-sad-and-the-anhedonic(809469ab-4c9b-468b-a9b1-be97af42b493).html)
+
+Or from [ResearchGate](https://www.researchgate.net/profile/Vera_Heininga/publication/323695831_The_happy_the_sad_and_the_anhedonic/links/5aa645270f7e9badd9ab9c06/The-happy-the-sad-and-the-anhedonic.pdf?_sg%5B0%5D=kaRv4XwiEIeOaaSYjegXgMpKFvqZkl0-MbkcUoplKsAm44ndBf6m56PfROt7LlF_yYDXDnTfVJxJ_Q3uDt4NbQ.bO8rnaMCamuJIaQxKi3QqHKssvuyvK-HMI3JIrD2Qz_bFtdG46act9tfWyJVPz1DZoLDqbtQ-sUI2zrhCyF4Kw&_sg%5B1%5D=6cXptD7LYkG1wbrIJY4WfsD0Wwu_AKep4EZr9zNAHd9oVIbqMf2mvwtCfX3ujFcfH80cD4FOJPHWlqKFDjzneVgudcy8KGwQaV85xHoZb4FS.bO8rnaMCamuJIaQxKi3QqHKssvuyvK-HMI3JIrD2Qz_bFtdG46act9tfWyJVPz1DZoLDqbtQ-sUI2zrhCyF4Kw&_iepl=)
