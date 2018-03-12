@@ -21,14 +21,14 @@ a micro-level perspective. The perspective is provided by the use of recent
 technologies (e.g., smartphones) and Experience Sampling Methods (ESM). ESMs
 allow for reliable sampling of moment-to-moment experiences, and holds
 considerable promise for improving the current understanding of anhedonia. In Part I,
-we investigated anhedonic individuals´ ability to pursue pleasure (chapter 2), to
-experience pleasure (chapter 3), and to learn from pleasurable experiences (chapter 4).
+we investigated anhedonic individuals´ ability to pursue pleasure [chapter 2](https://www.rug.nl/research/portal/files/50536183/Chapter_2.pdf), to
+experience pleasure [chapter 3](https://www.rug.nl/research/portal/files/50536185/Chapter_3.pdf), and to learn from pleasurable experiences [chapter 4](https://www.rug.nl/research/portal/files/50536187/Chapter_4.pdf).
 Differences were found in some, but not all, aspects of reward function.
 
 Scientific studies often contradict each other, and Part II of this PhD thesis
 addresses two problems related to research reproducibility: Different
-operationalizations of the same construct (chapter 5) and chance capitalization
-(chapter 6). 
+operationalizations of the same construct (chapter 5; still under embargo) and chance capitalization
+[chapter 6](https://www.rug.nl/research/portal/files/50536191/Chapter_6.pdf). 
 
 Please download the whole thesis from the [University of Groningen](https://www.rug.nl/research/portal/publications/the-happy-the-sad-and-the-anhedonic(809469ab-4c9b-468b-a9b1-be97af42b493).html)
 
