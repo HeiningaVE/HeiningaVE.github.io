@@ -2,9 +2,9 @@
 layout: post
 title: PhD Thesis
 subtitle: The happy, the sad, and the anhedonic
-img: /img/Website proefschrift cover_edited_edited.png
 ---
 
+# bigimg: /img/Website proefschrift cover_edited_edited.png
 Anhedonia, the loss of pleasure, is highly prevalent in both clinical and non-clinical
 populations but far from fully understood. Anhedonia was recently reconceptualized
 into an impaired ability to pursue, experience, and learn about pleasure. Although
