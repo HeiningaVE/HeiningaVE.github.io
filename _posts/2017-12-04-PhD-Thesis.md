@@ -4,8 +4,8 @@ title: Procrastinating? Why not read my PhD thesis on anhedonia! 8)
 subtitle: The happy, the sad, and the anhedonic
 img: /img/Logo_thesis.png
 ---
-## The happy, the sad, and the anhedonic
-# Towards understanding altered reward function from a micro-level perspective
+# The happy, the sad, and the anhedonic
+## Towards understanding altered reward function from a micro-level perspective
 
 Anhedonia, the loss of pleasure, is highly prevalent in both clinical and non-clinical
 populations but far from fully understood. Anhedonia was recently reconceptualized
