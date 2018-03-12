@@ -26,8 +26,7 @@ navbar-links:
   About Me: "aboutme"
   CV: "CV"
   Projects: 
-    - No Fun,\newline
-      No Glory: "http://nofunnoglory.nl/en/"
+    - No Fun, No Glory: "http://nofunnoglory.nl/en/"
     - Current Postdoc: "https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H170397?hl=en&lang=en"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
