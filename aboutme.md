@@ -20,4 +20,4 @@ Currently, I am a postdoctoral research fellow in the at the University of Leuve
 
 For more information on what I do or have been doing, please see [a short description of my current project ](https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H170397?hl=en&lang=en), or [my full Curriculum Vitae](https://heiningave.github.io/CV/).
 
-In my research into anhedonia, I try to be as transparent by publishing in [open access journals](https://en.wikipedia.org/wiki/Open_access), [pre-registrating my analyses](https://osf.io/7n4qu/), and making[my data and syntaxes](https://osf.io/k7rfu/) publicly available.
+In my research, I try to be as transparent as I can be by publishing in [open access journals](https://en.wikipedia.org/wiki/Open_access), [pre-registrating my analyses](https://osf.io/7n4qu/), and making[my data and syntaxes](https://osf.io/k7rfu/) publicly available.
