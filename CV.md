@@ -50,11 +50,12 @@ Program established to support opportunities for early career researchers to pre
 #### ISRCAP Travel Scholarship; 06-2015; $750,-
 Scholarship awarded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP), based on a presentation judged to be of outstanding quality.
 
+#### Nomination Hannie Schaft Award; 08-2013
+Runner up for Hannie Schaft award, which isawarded every two years to students who have written a final paper which speaks of social engagement.
+
 #### STAND thesis Award; 09-2013; €250,-
 The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to theses that promote academic initiatives to improve social   work. My thesis involved a theoretical and practical integration of Forensic Social Network Analysis (FSNA) into social work practice.
 
-#### Nomination Hannie Schaft Award (2013)
-Runner up Hannie Schaft award, which isawarded every two years to students who have written a final paper which speaks of social engagement.
 
 # International conference experiences
 
