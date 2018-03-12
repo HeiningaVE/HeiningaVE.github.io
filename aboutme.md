@@ -10,7 +10,7 @@ My main research interests are mood and mood disorders, and the anhedonia sympto
 
 Between 2013 and 2017, as part of [the "No Fun, No Glory" project](https://nofunnoglory.nl/en), at the Interdisciplinary Center Psychopathology and Emotion regulation (ICPE) of the University Medical Center Groningen (UMCG) in the Netherlands, my collegues and I collected a large amount of awesome data on anhedonia. Please email me or one of [my collegues](https://nofunnoglory.nl/en/research-group) if you would be interested in using our data!
 
-Using the diary part of [the "No Fun, No Glory" project](http://nofunnoglory.nl/en/), I wrote [my PhD thesis](https://www.researchgate.net/api/literature/privateDownload?publicationUid=RhloCxMqNUXqhLKNiiZqR3Et42pzXcEW4kVIHrAjmUmBekCWMZIXRLBkFBpj7FcvGw&linkId=XG6cbxbTqlKNtWgnWpmZNAabf5GzAVnMO0PezZPg3EIbOxVVC6Doq4DFj0ZA32GhY-YSjQdqghSvuzk_Kz9RhA) on this fascinating topic. 
+Using the diary part of [the "No Fun, No Glory" project](http://nofunnoglory.nl/en/), I wrote [my PhD thesis](https://docs.wixstatic.com/ugd/c22377_f6d9d466111c42e8a75ce6c4cbced4a7.pdf) on this fascinating topic. 
 
 In my research into anhedonia, I try to be as transparent as I can be. I preferably publish open access, I [pre-registrate my data](https://osf.io/7n4qu/), and I make all [my used data and syntaxes](https://osf.io/k7rfu/) publicly accessible.
 
