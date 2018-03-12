@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Got some time to spare? 
-My thesis is out!
+title: Time to spare? My thesis is out!
 subtitle: The happy, the sad, and the anhedonic
-img: /img/Logo_thesis.png
+bigimg: /img/Logo_thesis.png
 ---
 # The happy, the sad, and the anhedonic
 ## Towards understanding altered reward function from a micro-level perspective
