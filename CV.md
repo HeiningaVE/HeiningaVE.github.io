@@ -39,27 +39,21 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehink
 # Scientific awards and nominations
 
 #### KNAW Ter Meulen grant; 06-2017; €21.900,-
-
 Grant from The Royal Netherlands Academy of Arts and Sciences (KNAW in Dutch) for promising young researchers in paediatric or related areas of medicine.
 
 #### ECNP Travel bursary Bristol; 02-2017; circa €450,-
-
 Selected by European College of Neuropsychopharmacology (ECNP) for support of attendance at the 5-day residential course on advanced methods for reproducible science.
   
 #### PLOS Early Career Travel Award; 01-2017; $500,-
-
 Program established to support opportunities for early career researchers to present their work and participate in the scientific dialogue.
 
 #### ISRCAP Travel Scholarship; 06-2015; $750,-
-
 Scholarship awarded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP), based on a presentation judged to be of outstanding quality.
 
 #### STAND thesis Award; 09-2013; €250,-
-
 The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to theses that promote academic initiatives to improve social   work. My thesis involved a theoretical and practical integration of Forensic Social Network Analysis (FSNA) into social work practice.
 
 #### Nomination Hannie Schaft Award (2013)
-
 Runner up Hannie Schaft award, which isawarded every two years to students who have written a final paper which speaks of social engagement.
 
 # International conference experiences
@@ -120,9 +114,9 @@ Masterclass John P.A. Ioannidis Amsterdam; 12-2016
   	Ioannidis.
   
 # Education
-2013 – onward	PhD candidate Psychiatry, University Medical Center Groningen (UMCG)
+2013 – 2017		PhD candidate Psychiatry, University Medical Center Groningen (UMCG)
 		
-2011 – 2013	  Research Master Behavioural and Social Science, Interuniversity Centre Social Sciences & Methodology (ICS); Specialization: Sociology
+2011 – 2013	 	Research Master Behavioural and Social Science, Interuniversity Centre Social Sciences & Methodology (ICS); 				Specialization: Sociology
 
 2010 – 2011		Pre-master programme BSc Sociology, University of Groningen (RUG)
 
