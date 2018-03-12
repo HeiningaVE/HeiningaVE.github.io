@@ -6,30 +6,30 @@ subtitle: Curriculum vitae
 
 # Articles in internationally reviewed academic journals
 
-van Roekel E., **Heininga V.E.**, Vrijen C., Snippe E., Odehinkel A. (2018). Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. Emotion, N/A (N/A), N/A-N/A.
+van Roekel E., **Heininga V.E.**, Vrijen C., Snippe E., Odehinkel A. (in press). Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*.
 
-**Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A. (2017). Reward and punishment learning in daily life: A replication study. PLoS One, 12 (10), 0-0.
+**Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A. (2017). Reward and punishment learning in daily life: A replication study. *PLoS One*, 12 (10), 0-0.
 
-**Heininga V.E.**, van Roekel E., Ahles J., Oldehinkel A., Mezulis A. (2017). Positive affective functioning in anhedonic individuals' daily life Anything but flat and blunted. Journal of Affective Disorders, 218, 437-445.
+**Heininga V.E.**, van Roekel E., Ahles J., Oldehinkel A., Mezulis A. (2017). Positive affective functioning in anhedonic individuals' daily life Anything but flat and blunted. *Journal of Affective Disorders*, 218, 437-445.
 
-van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96.
+van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. *Behavior Therapy*, 48 (1), 76-96.
 
-van Roekel E., Masselink M., Vrijen C., **Heininga V.E.**, Bak T., Nederhof E., Oldehinkel A. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC Psychiatry, 16 (182), 0-0.
+van Roekel E., Masselink M., Vrijen C., **Heininga V.E.**, Bak T., Nederhof E., Oldehinkel A. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. *BMC Psychiatry*, 16 (182), 0-0.
 
-Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. International Journal of Offender Therapy and Comparative Criminology, 1 (19), 0-0.
+Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0.
 
-**Heininga V.E.**, Oldehinkel A., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0.
+**Heininga V.E.**, Oldehinkel A., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. *PLoS One*, 10 (5), 0-0.
 
 
 # Article in other professionally oriented book
 	
-**Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , GGzet Wetenschappelijk, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
+**Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , *GGzet Wetenschappelijk*, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
 
-Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: GGzet Wetenschappelijk, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
+Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: *GGzet Wetenschappelijk*, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
 
 # Meeting abstracts
 
-van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehinkel A. (2016). The effects of a personalized lifestyle advice and tandem skydive on pleasure in anhedonic young adults. Bipolar Disorders: vol. 18. 18th Annual Conference of the International-Society-for-Bipolar-Disorders / 8th Biennial Conference of the International-Society-for-Affective-Disorders. Amsterdam: NETHERLANDS, JUL 13-16, 2016, 171-172.
+van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehinkel A. (2016). The effects of a personalized lifestyle advice and tandem skydive on pleasure in anhedonic young adults. *Bipolar Disorders*: vol. 18. 18th Annual Conference of the International-Society-for-Bipolar-Disorders / 8th Biennial Conference of the International-Society-for-Affective-Disorders. Amsterdam: NETHERLANDS, JUL 13-16, 2016, 171-172.
 
 # PhD Thesis
 
