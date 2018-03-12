@@ -16,7 +16,8 @@ In my research into anhedonia, I try to be as transparent as I can be. I prefera
 
 ## Field/ Discipline:
 
-- Psychiatry 
+- Psychiatry
+- Clinical Psychology
 
 ## Research interests/ Expertise:
 
