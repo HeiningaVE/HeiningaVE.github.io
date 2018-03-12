@@ -4,4 +4,147 @@ title: CV
 subtitle: Curriculum vitae
 ---
 
-Will be added soon! :)
+# Articles in internationally reviewed academic journals
+
+van Roekel E., **Heininga V.E.**, Vrijen C., Snippe E., Odehinkel A. (2018). Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. Emotion, N/A (N/A), N/A-N/A.
+
+**Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A. (2017). Reward and punishment learning in daily life: A replication study. PLoS One, 12 (10), 0-0.
+
+**Heininga V.E.**, van Roekel E., Ahles J., Oldehinkel A., Mezulis A. (2017). Positive affective functioning in anhedonic individuals' daily life Anything but flat and blunted. Journal of Affective Disorders, 218, 437-445.
+
+van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96.
+
+van Roekel E., Masselink M., Vrijen C., **Heininga V.E.**, Bak T., Nederhof E., Oldehinkel A. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC Psychiatry, 16 (182), 0-0.
+
+Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. International Journal of Offender Therapy and Comparative Criminology, 1 (19), 0-0.
+
+**Heininga V.E.**, Oldehinkel A., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0.
+
+
+# Article in other professionally oriented book
+	
+**Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , GGzet Wetenschappelijk, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
+
+Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: GGzet Wetenschappelijk, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
+
+# Meeting abstracts
+
+van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehinkel A. (2016). The effects of a personalized lifestyle advice and tandem skydive on pleasure in anhedonic young adults. Bipolar Disorders: vol. 18. 18th Annual Conference of the International-Society-for-Bipolar-Disorders / 8th Biennial Conference of the International-Society-for-Affective-Disorders. Amsterdam: NETHERLANDS, JUL 13-16, 2016, 171-172.
+
+# PhD Thesis
+
+**Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective [Groningen]: University of Groningen
+
+# Scientific awards and nominations
+
+* KNAW Ter Meulen grant; 06-2017; €21.900,-
+  Grant from The Royal Netherlands Academy of Arts and Sciences (KNAW in Dutch) for promising
+  young researchers in paediatric or related areas of medicine.
+
+* ECNP Travel bursary Bristol; 02-2017; €500,-
+  Selected by European College of Neuropsychopharmacology (ECNP) for support of attendance 
+  at the 5-day residential course on advanced methods for reproducible science.
+  
+* PLOS Early Career Travel Award; 01-2017; $500
+  Program established to support opportunities for early career researchers to present their work 
+  and participate in the scientific dialogue.
+
+* ISRCAP Travel Scholarship; 06-2015; $750
+  Scholarship awarded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP),
+  based on a presentation judged to be of outstanding quality.
+
+* STAND thesis Award; 09-2013; €250
+  The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to theses that promote academic initiatives to improve social   work. My thesis involved a theoretical and practical integration of Forensic Social Network Analysis (FSNA) into social work practice.
+
+* Nomination Hannie Schaft Award (2013)
+  Runner up Hannie Schaft award, which isawarded every two years to students who have written a final paper 
+  which speaks of social engagement.
+
+# International conference experiences
+
+## 2017 
+- Organized an International Symposium + Oral presentation + Poster presentation
+  Society Ambulatory Assessmemt (SAA) conference; Luxembourg, Luxembourg
+- Five day residential course on advanced methods for reproducible science
+	European College of Neuropsychopharmacology; Bristol, UK
+- Poster presentation
+  International Society for Research in Child and Adolescent Psychopathology (ISRCAP); Amsterdam, The Netherlands
+
+## 2016
+- Oral presentation
+  Research Foundation-Flanders (FWO) conference; Leuven, Belgium
+- Poster presentation
+  Life History Research Society (LHRS) Meeting; Amsterdam, The Netherlands
+- Poster presentation
+  International Society for Research in Child and Adolescent Psychopathology (ISRCAP); Amsterdam, The Netherlands
+
+## 2015
+2015 	Oral presentation
+International Dutch Neuroscientific Meeting (DNM); Lunteren, The Netherlands
+
+2015 	Organized International Symposium + Poster presentation
+International Society for Research in Child and Adolescent Psychopathology(ISRCAP); Portland, USA
+
+2015 	Oral presentation
+Research Foundation-Flanders (FWO) conference; Leuven, Belgium
+
+2013	Poster presentation
+Gravitation programme Consortium on Individual Development (CID); Amsterdam, The Netherlands
+
+# Research stays
+- One year research stay (2018)
+  At the lab of Prof. Kuppens; KU Leuven; Leuven, Belgium.
+- Three-week research stay (2015)
+  At the lab of Dr. Amy Mezulis; Seattle Pacific University (SPU); Seattle, USA
+  
+# Peer-review activities for academic journals
+- Journal of Child Psychology and Psychiatry (JCPP), together with Dr. G.H. van Roekel
+- Psychological Bulletin, together with Dr. E. Nederhof
+
+# Teaching experience
+- Co-teacher Statistics 6, KU Leuven, Belgium (2018)
+- Guest lecture Social studies, Hanze Hogeschool, The Netherlands (2017)
+- Guest lecture Nursing, Hanze Hogeschool, The Netherlands (2015)
+- Supervised teaching, Psychiatry Research 3rd year Medical Students, University Medical Centre Groningen (UMCG), The Netherland (2014)
+- Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands (2013)
+- Teaching assistent Statistics 1A, University of Groningen (RUG), The Netherlands (2012)
+
+# Additional relevant courses and workshops
+
+- Masterclass John P.A. Ioannidis Amsterdam; 12-2016; participation
+  Selected by the Netherlands Research Integrity Network as one of the 9 excellent young
+  researchers, to present their work at a masterclass hosted by the renowned Prof Dr. John P.A.
+  Ioannidis.
+  
+# Education
+2013 – onward	PhD candidate Psychiatry, University Medical Center Groningen (UMCG)
+		
+2011 – 2013	  Research Master Behavioural and Social Science, Interuniversity Centre Social Sciences & Methodology (ICS); Specialization: Sociology
+
+2010 – 2011		Pre-master programme BSc Sociology, University of Groningen (RUG)
+
+2009 – 2010		First year BA Psychology (30 ECTS), University of Groningen (RUG)
+
+2006 – 2010		BSc Social Work, Hanze University of Applied Sciences
+
+# Valorization
+## Media appearences of my research (first authored)
+04-12-2017, Mensen met anhedonie hebben best plezier, alleen niet zo vaak (NWO)
+
+## Media appearences of our "No Fun, No Glory"-Project
+17-01-2017, Maar jij lacht toch altijd? (AD)
+30-11-2016, Plezier van parachutesprong duurt maar kort (Volkskrant)
+19-11-2016, Parachutesprong maakt niet gelukkiger (Dagblad v/h Noorden)
+16-11-2016, UMCG zet parachutesprong in bij onderzoek (Nationale Zorggids)
+11-09-2015, Radio 1, Nieuwe Feiten, Belgische Openbare Omroep, MORGEN; Anhedonie is te genezen
+29-08-2015, Sprong voor vreugde (Volkskrant)
+01-09-2013, Pleasure research: An interview with Tineke Oldehinkel (BCN Newsletter 92)
+06-02-2013, Weer plezier door een bungeejump (KennisInZicht)
+
+# Language skills
+* English
+* Dutch
+* Swiss-German
+* SPSS
+* LaTeX
+* R
