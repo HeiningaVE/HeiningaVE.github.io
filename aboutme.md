@@ -4,7 +4,7 @@ title: About me
 subtitle: A short introduction
 ---
 
-I am a postdoctoral research fellow in the research group quantitative psychology and individual differences at the KU Leuven, University of Leuven, Belgium. Please find my CV [here](https://www.rug.nl/staff/v.e.heininga/cv).
+I am a postdoctoral research fellow in the research group quantitative psychology and individual differences at the KU Leuven, University of Leuven, Belgium. Please find my CV [here](https://heiningave.github.io/CV/).
 
 My main research interests are mood and mood disorders, and the anhedonia symptom in particular. Anhedonia is the loss of pleasure or interest in things that were previously found pleasurable, a detrimental experience, and a not yet fully understood core symptoms of depression.
 
