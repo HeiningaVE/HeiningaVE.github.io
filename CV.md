@@ -6,7 +6,7 @@ subtitle: Curriculum vitae
 
 # Articles in internationally reviewed academic journals
 
-van Roekel E., **Heininga V.E.**, Vrijen C., Snippe E., Odehinkel A. (in press). Reciprocal associations between positive emotions and \indent motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*.
+van Roekel E., **Heininga V.E.**, Vrijen C., Snippe E., Odehinkel A. (in press). Reciprocal associations between positive emotions and 		motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*.
 
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A. (2017). Reward and punishment learning in daily life: A replication study. *PLoS One*, 12 (10), 0-0.
 
