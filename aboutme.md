@@ -16,7 +16,7 @@ subtitle: A short introduction
 - Anhedonia
 
 
-Currently, I am a postdoctoral research fellow in the at the University of Leuven (KU Leuven), Belgium, where I investigate the fascinating anhedonia symptom. Anhedonia is the loss of pleasure or interest in things that were previously found pleasurable, and a not yet fully understood core symptom of Major Depressive Disorder (MDD).
+Currently, I am a postdoctoral research fellow in the at the University of Leuven, Belgium. As part of the research group on Quantitative Psychology and Individual Differences, I investigate anhedonia. Anhedonia is the loss of pleasure or interest in things that were previously found pleasurable, and a not yet fully understood core symptom of Major Depressive Disorder (MDD).
 
 For more information on what I do or have been doing, please see [a short description of my current project ](https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H170397?hl=en&lang=en), or [my full Curriculum Vitae](https://heiningave.github.io/CV/).
 
