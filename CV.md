@@ -4,7 +4,8 @@ title: CV
 subtitle: Curriculum vitae
 ---
 
-# Articles in internationally reviewed academic journals
+# Publications 
+### Articles in internationally reviewed academic journals
 
 van Roekel E., **Heininga V.E.**, Vrijen C., Snippe E., Odehinkel A. (in press). Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*.
 
@@ -21,44 +22,45 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 **Heininga V.E.**, Oldehinkel A., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. *PLoS One*, 10 (5), 0-0.
 
 
-# Article in other professionally oriented book
+### Article in other professionally oriented book
 	
 **Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , *GGzet Wetenschappelijk*, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
 
 Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: *GGzet Wetenschappelijk*, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
 
-# Meeting abstracts
+### Meeting abstracts
 
 van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehinkel A. (2016). The effects of a personalized lifestyle advice and tandem skydive on pleasure in anhedonic young adults. *Bipolar Disorders*: vol. 18. 18th Annual Conference of the International-Society-for-Bipolar-Disorders / 8th Biennial Conference of the International-Society-for-Affective-Disorders. Amsterdam: NETHERLANDS, JUL 13-16, 2016, 171-172.
 
-# PhD Thesis
+### PhD Thesis
 
 **Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective [Groningen]: University of Groningen
 
 # Scientific awards and nominations
 
-* KNAW Ter Meulen grant; 06-2017; €21.900,-
-  Grant from The Royal Netherlands Academy of Arts and Sciences (KNAW in Dutch) for promising
-  young researchers in paediatric or related areas of medicine.
+#### KNAW Ter Meulen grant; 06-2017; €21.900,-
 
-* ECNP Travel bursary Bristol; 02-2017; circa €450,-
-  Selected by European College of Neuropsychopharmacology (ECNP) for support of attendance 
-  at the 5-day residential course on advanced methods for reproducible science.
+Grant from The Royal Netherlands Academy of Arts and Sciences (KNAW in Dutch) for promising young researchers in paediatric or related areas of medicine.
+
+#### ECNP Travel bursary Bristol; 02-2017; circa €450,-
+
+Selected by European College of Neuropsychopharmacology (ECNP) for support of attendance at the 5-day residential course on advanced methods for reproducible science.
   
-* PLOS Early Career Travel Award; 01-2017; $500,-
-  Program established to support opportunities for early career researchers to present their work 
-  and participate in the scientific dialogue.
+#### PLOS Early Career Travel Award; 01-2017; $500,-
 
-* ISRCAP Travel Scholarship; 06-2015; $750,-
-  Scholarship awarded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP),
-  based on a presentation judged to be of outstanding quality.
+Program established to support opportunities for early career researchers to present their work and participate in the scientific dialogue.
 
-* STAND thesis Award; 09-2013; €250,-
-  The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to theses that promote academic initiatives to improve social   work. My thesis involved a theoretical and practical integration of Forensic Social Network Analysis (FSNA) into social work practice.
+#### ISRCAP Travel Scholarship; 06-2015; $750,-
 
-* Nomination Hannie Schaft Award (2013)
-  Runner up Hannie Schaft award, which isawarded every two years to students who have written a final paper 
-  which speaks of social engagement.
+Scholarship awarded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP), based on a presentation judged to be of outstanding quality.
+
+#### STAND thesis Award; 09-2013; €250,-
+
+The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to theses that promote academic initiatives to improve social   work. My thesis involved a theoretical and practical integration of Forensic Social Network Analysis (FSNA) into social work practice.
+
+#### Nomination Hannie Schaft Award (2013)
+
+Runner up Hannie Schaft award, which isawarded every two years to students who have written a final paper which speaks of social engagement.
 
 # International conference experiences
 
