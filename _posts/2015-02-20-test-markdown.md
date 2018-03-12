@@ -1,7 +1,7 @@
 ---
 layout: post
-title: WHoop Whoop; New publication!
-subtitle: 2017
+title: Whoop Whoop
+subtitle: New No Fun No Glory Publications!
 ---
 
 **Heininga, V. E.**, Van Roekel, E., Ahles, J. J., Oldehinkel, A. J., & Mezulis, A. H. (2017). Positive Affective Functioning in Anhedonic Individuals’ Daily Life: Anything but Flat and Blunted. Journal of Affective Disorders, 218, 437-445. DOI: 10.1016/j.jad.2017.04.029
