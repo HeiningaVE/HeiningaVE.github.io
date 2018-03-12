@@ -5,7 +5,7 @@ subtitle: Curriculum vitae
 ---
 
 # Publications 
-### Articles in internationally reviewed academic journals
+#### Articles in internationally reviewed academic journals
 
 van Roekel E., **Heininga V.E.**, Vrijen C., Snippe E., Odehinkel A. (in press). Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*.
 
@@ -22,17 +22,17 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 **Heininga V.E.**, Oldehinkel A., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. *PLoS One*, 10 (5), 0-0.
 
 
-### Article in other professionally oriented book
+#### Article in other professionally oriented book
 	
 **Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , *GGzet Wetenschappelijk*, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
 
 Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: *GGzet Wetenschappelijk*, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
 
-### Meeting abstracts
+#### Meeting abstracts
 
 van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehinkel A. (2016). The effects of a personalized lifestyle advice and tandem skydive on pleasure in anhedonic young adults. *Bipolar Disorders*: vol. 18. 18th Annual Conference of the International-Society-for-Bipolar-Disorders / 8th Biennial Conference of the International-Society-for-Affective-Disorders. Amsterdam: NETHERLANDS, JUL 13-16, 2016, 171-172.
 
-### PhD Thesis
+#### PhD Thesis
 
 **Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective [Groningen]: University of Groningen
 
@@ -64,15 +64,13 @@ Runner up Hannie Schaft award, which isawarded every two years to students who h
 
 # International conference experiences
 
-### 2017 
-- Organized an International Symposium + Oral presentation + Poster presentation
+#### 2017 
+- Organized an International Symposium + Oral presentation + Poster presentation; 
   Society Ambulatory Assessmemt (SAA) conference; Luxembourg, Luxembourg
-- Five day residential course on advanced methods for reproducible science
-	European College of Neuropsychopharmacology; Bristol, UK
-- Poster presentation
-  International Society for Research in Child and Adolescent Psychopathology (ISRCAP); Amsterdam, The Netherlands
+- Five day residential course on advanced methods for reproducible science, European College of Neuropsychopharmacology; Bristol, UK
+- Poster presentation; International Society for Research in Child and Adolescent Psychopathology (ISRCAP); Amsterdam, The Netherlands
 
-### 2016
+#### 2016
 - Oral presentation
   Research Foundation-Flanders (FWO) conference; Leuven, Belgium
 - Poster presentation
@@ -81,39 +79,37 @@ Runner up Hannie Schaft award, which isawarded every two years to students who h
   International Society for Research in Child and Adolescent Psychopathology (ISRCAP); Amsterdam, The Netherlands
 
 ### 2015
-- Oral presentation
+- Oral presentation; 
   International Dutch Neuroscientific Meeting (DNM); Lunteren, The Netherlands
-- Organized International Symposium + Poster presentation
+- Organized International Symposium + Poster presentation; 
   International Society for Research in Child and Adolescent Psychopathology(ISRCAP); Portland, USA
-- Oral presentation
+- Oral presentation; 
   Research Foundation-Flanders (FWO) conference; Leuven, Belgium
   
 ### 2013
-- Poster presentation
+- Poster presentation; 
   Gravitation programme Consortium on Individual Development (CID); Amsterdam, The Netherlands
 
 # Research stays
-- One year research stay (2018)
-  	At the lab of Prof. Kuppens; KU Leuven; Leuven, Belgium.
-- Three-week research stay (2015)
-  	At the lab of Dr. Amy Mezulis; Seattle Pacific University (SPU); Seattle, USA
+- One year research stay at the lab of Prof. Kuppens; KU Leuven; Leuven, Belgium, 2018.
+- Three-week research stay at the lab of Dr. Amy Mezulis; Seattle Pacific University (SPU); Seattle, USA, 2015.
   
 # Peer-review activities for academic journals
 - Journal of Child Psychology and Psychiatry (JCPP), together with Dr. G.H. van Roekel
 - Psychological Bulletin, together with Dr. E. Nederhof
 
 # Teaching experience
-2018 Co-teacher Statistics 6, KU Leuven, Belgium 
+2018 	Co-teacher Statistics 6, KU Leuven, Belgium 
 
-2017 Guest lecture Social studies, Hanze Hogeschool, The Netherlands 
+2017 	Guest lecture Social studies, Hanze Hogeschool, The Netherlands 
 
-2015 Guest lecture Nursing, Hanze Hogeschool, The Netherlands
+2015 	Guest lecture Nursing, Hanze Hogeschool, The Netherlands
 
-2014 Supervised teaching, Psychiatry Research 3rd year Medical Students, University Medical Centre Groningen (UMCG), The Netherland 
+2014 	Supervised teaching, Psychiatry Research 3rd year Medical Students, University Medical Centre Groningen (UMCG), The Netherland 
 
-2013 Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands
+2013 	Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands
 
-2012 Teaching assistent Statistics 1A, University of Groningen (RUG), The Netherlands
+2012 	Teaching assistent Statistics 1A, University of Groningen (RUG), The Netherlands
 
 # Additional relevant courses and workshops
 
@@ -134,10 +130,10 @@ Masterclass John P.A. Ioannidis Amsterdam; 12-2016
 2006 – 2010		BSc Social Work, Hanze University of Applied Sciences
 
 # Valorization
-## Media appearences of my research (first authored)
+#### Media appearences of my research (first authored)
 04-12-2017, Mensen met anhedonie hebben best plezier, alleen niet zo vaak (NWO)
 
-## Media appearences of our "No Fun, No Glory"-Project
+#### Media appearences of our "No Fun, No Glory"-Project
 17-01-2017, Maar jij lacht toch altijd? (AD)
 
 30-11-2016, Plezier van parachutesprong duurt maar kort (Volkskrant)
