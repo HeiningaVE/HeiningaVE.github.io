@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publications 
+title: WHoop Whoop; New publication!
 subtitle: 2017
 ---
 
