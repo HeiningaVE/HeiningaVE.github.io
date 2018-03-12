@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Procrastinating? Why not read my PhD thesis on anhedonia! 8)
+title: Got some time to spare? Why not read my thesis!
 subtitle: The happy, the sad, and the anhedonic
 img: /img/Logo_thesis.png
 ---
