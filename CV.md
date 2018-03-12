@@ -22,7 +22,7 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 **Heininga V.E.**, Oldehinkel A., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. *PLoS One*, 10 (5), 0-0.
 
 
-### Article in other professionally oriented book
+### Articles in other professionally oriented books
 	
 **Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , *GGzet Wetenschappelijk*, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
 
