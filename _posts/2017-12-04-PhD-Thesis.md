@@ -1,9 +1,11 @@
 ---
 layout: post
-title: PhD Thesis
+title: Procrastinating? Why not read my PhD thesis on anhedonia! 8)
 subtitle: The happy, the sad, and the anhedonic
-bigimg: /img/Logo_thesis.png
+img: /img/Logo_thesis.png
 ---
+## The happy, the sad, and the anhedonic
+# Towards understanding altered reward function from a micro-level perspective
 
 Anhedonia, the loss of pleasure, is highly prevalent in both clinical and non-clinical
 populations but far from fully understood. Anhedonia was recently reconceptualized
@@ -27,4 +29,4 @@ addresses two problems related to research reproducibility: Different
 operationalizations of the same construct (chapter 5) and chance capitalization
 (chapter 6). 
 
-https://www.rug.nl/research/portal/publications/the-happy-the-sad-and-the-anhedonic(809469ab-4c9b-468b-a9b1-be97af42b493).html
+Towards understanding altered reward function from a micro-level perspective
