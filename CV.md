@@ -100,19 +100,24 @@ Gravitation programme Consortium on Individual Development (CID); Amsterdam, The
 - Psychological Bulletin, together with Dr. E. Nederhof
 
 # Teaching experience
-- Co-teacher Statistics 6, KU Leuven, Belgium (2018)
-- Guest lecture Social studies, Hanze Hogeschool, The Netherlands (2017)
-- Guest lecture Nursing, Hanze Hogeschool, The Netherlands (2015)
-- Supervised teaching, Psychiatry Research 3rd year Medical Students, University Medical Centre Groningen (UMCG), The Netherland (2014)
-- Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands (2013)
-- Teaching assistent Statistics 1A, University of Groningen (RUG), The Netherlands (2012)
+2018 Co-teacher Statistics 6, KU Leuven, Belgium 
+
+2017 Guest lecture Social studies, Hanze Hogeschool, The Netherlands 
+
+2015 Guest lecture Nursing, Hanze Hogeschool, The Netherlands
+
+2014 Supervised teaching, Psychiatry Research 3rd year Medical Students, University Medical Centre Groningen (UMCG), The Netherland 
+
+2013 Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands
+
+2012 Teaching assistent Statistics 1A, University of Groningen (RUG), The Netherlands
 
 # Additional relevant courses and workshops
 
-- Masterclass John P.A. Ioannidis Amsterdam; 12-2016; participation
-  Selected by the Netherlands Research Integrity Network as one of the 9 excellent young
-  researchers, to present their work at a masterclass hosted by the renowned Prof Dr. John P.A.
-  Ioannidis.
+Masterclass John P.A. Ioannidis Amsterdam; 12-2016
+	Selected by the Netherlands Research Integrity Network as one of the 9 excellent young
+  	researchers, to present their work at a masterclass hosted by the renowned Prof Dr. John P.A.
+  	Ioannidis.
   
 # Education
 2013 – onward	PhD candidate Psychiatry, University Medical Center Groningen (UMCG)
@@ -131,12 +136,19 @@ Gravitation programme Consortium on Individual Development (CID); Amsterdam, The
 
 ## Media appearences of our "No Fun, No Glory"-Project
 17-01-2017, Maar jij lacht toch altijd? (AD)
+
 30-11-2016, Plezier van parachutesprong duurt maar kort (Volkskrant)
+
 19-11-2016, Parachutesprong maakt niet gelukkiger (Dagblad v/h Noorden)
+
 16-11-2016, UMCG zet parachutesprong in bij onderzoek (Nationale Zorggids)
-11-09-2015, Radio 1, Nieuwe Feiten, Belgische Openbare Omroep, MORGEN; Anhedonie is te genezen
+
+11-09-2015, Anhedonie is te genezen (Radio 1, Nieuwe Feiten, Belgische Openbare Omroep)
+
 29-08-2015, Sprong voor vreugde (Volkskrant)
+
 01-09-2013, Pleasure research: An interview with Tineke Oldehinkel (BCN Newsletter 92)
+
 06-02-2013, Weer plezier door een bungeejump (KennisInZicht)
 
 # Language skills
