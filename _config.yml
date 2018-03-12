@@ -24,6 +24,7 @@ description: website Vera E. Heininga
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  CV: "CV"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
