@@ -37,23 +37,23 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehink
 
 # Scientific awards and nominations
 
-* KNAW Ter Meulen grant; 06-2017; €21.900,-\s\s
+* KNAW Ter Meulen grant; 06-2017; €21.900,-
   Grant from The Royal Netherlands Academy of Arts and Sciences (KNAW in Dutch) for promising
   young researchers in paediatric or related areas of medicine.
 
-* ECNP Travel bursary Bristol; 02-2017; €500,-
+* ECNP Travel bursary Bristol; 02-2017; circa €450,-
   Selected by European College of Neuropsychopharmacology (ECNP) for support of attendance 
   at the 5-day residential course on advanced methods for reproducible science.
   
-* PLOS Early Career Travel Award; 01-2017; $500
+* PLOS Early Career Travel Award; 01-2017; $500,-
   Program established to support opportunities for early career researchers to present their work 
   and participate in the scientific dialogue.
 
-* ISRCAP Travel Scholarship; 06-2015; $750
+* ISRCAP Travel Scholarship; 06-2015; $750,-
   Scholarship awarded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP),
   based on a presentation judged to be of outstanding quality.
 
-* STAND thesis Award; 09-2013; €250
+* STAND thesis Award; 09-2013; €250,-
   The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to theses that promote academic initiatives to improve social   work. My thesis involved a theoretical and practical integration of Forensic Social Network Analysis (FSNA) into social work practice.
 
 * Nomination Hannie Schaft Award (2013)
@@ -62,7 +62,7 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehink
 
 # International conference experiences
 
-## 2017 
+### 2017 
 - Organized an International Symposium + Oral presentation + Poster presentation
   Society Ambulatory Assessmemt (SAA) conference; Luxembourg, Luxembourg
 - Five day residential course on advanced methods for reproducible science
@@ -70,7 +70,7 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehink
 - Poster presentation
   International Society for Research in Child and Adolescent Psychopathology (ISRCAP); Amsterdam, The Netherlands
 
-## 2016
+### 2016
 - Oral presentation
   Research Foundation-Flanders (FWO) conference; Leuven, Belgium
 - Poster presentation
@@ -78,22 +78,23 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehink
 - Poster presentation
   International Society for Research in Child and Adolescent Psychopathology (ISRCAP); Amsterdam, The Netherlands
 
-## 2015
+### 2015
 - Oral presentation
-International Dutch Neuroscientific Meeting (DNM); Lunteren, The Netherlands
+  International Dutch Neuroscientific Meeting (DNM); Lunteren, The Netherlands
 - Organized International Symposium + Poster presentation
-International Society for Research in Child and Adolescent Psychopathology(ISRCAP); Portland, USA
+  International Society for Research in Child and Adolescent Psychopathology(ISRCAP); Portland, USA
 - Oral presentation
-Research Foundation-Flanders (FWO) conference; Leuven, Belgium
-
+  Research Foundation-Flanders (FWO) conference; Leuven, Belgium
+  
+### 2013
 - Poster presentation
-Gravitation programme Consortium on Individual Development (CID); Amsterdam, The Netherlands
+  Gravitation programme Consortium on Individual Development (CID); Amsterdam, The Netherlands
 
 # Research stays
 - One year research stay (2018)
-  At the lab of Prof. Kuppens; KU Leuven; Leuven, Belgium.
+  	At the lab of Prof. Kuppens; KU Leuven; Leuven, Belgium.
 - Three-week research stay (2015)
-  At the lab of Dr. Amy Mezulis; Seattle Pacific University (SPU); Seattle, USA
+  	At the lab of Dr. Amy Mezulis; Seattle Pacific University (SPU); Seattle, USA
   
 # Peer-review activities for academic journals
 - Journal of Child Psychology and Psychiatry (JCPP), together with Dr. G.H. van Roekel
