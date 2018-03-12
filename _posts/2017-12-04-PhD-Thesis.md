@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Got some time to spare? Why not read my thesis!
+title: Got some time to spare? 
+\newline
+My thesis is out!
 subtitle: The happy, the sad, and the anhedonic
 img: /img/Logo_thesis.png
 ---
