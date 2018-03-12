@@ -100,17 +100,17 @@ Runner up Hannie Schaft award, which isawarded every two years to students who h
 
 # Teaching experience
 
-#### 2018: Co-teacher Statistics 6, KU Leuven, Belgium 
+2018	Co-teacher Statistics 6, KU Leuven, Belgium 
 
-#### 2017: Guest lecture Social studies, Hanze Hogeschool, The Netherlands 
+2017	Guest lecture Social studies, Hanze Hogeschool, The Netherlands 
 
-#### 2015: Guest lecture Nursing, Hanze Hogeschool, The Netherlands
+2015	Guest lecture Nursing, Hanze Hogeschool, The Netherlands
 
-#### 2014: Supervised teaching, Psychiatry Research 3rd year Medical Students, University Medical Centre Groningen (UMCG), The Netherland 
+2014	Supervised teaching, Psychiatry Research 3rd year Medical Students, University Medical Centre Groningen (UMCG), The Netherland 
 
-#### 2013: Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands
+2013	Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands
 
-#### 2012: Teaching assistent Statistics 1A, University of Groningen (RUG), The Netherlands
+2012	Teaching assistent Statistics 1A, University of Groningen (RUG), The Netherlands
 
 # Additional relevant courses and workshops
 
