@@ -12,8 +12,8 @@ subtitle: A short introduction
 ### Research interests/ Expertise:
 
 - Mood and mood disorders in daily life
-- Temporal dynamics of emotion
-- Anhedonia
+- Temporal dynamics of positive emotion
+- Anhedonia (pleasure loss)
 
 
 Currently, I am a postdoctoral research fellow in the at the University of Leuven, Belgium. As part of the research group Quantitative Psychology and Individual Differences, I investigate anhedonia. Anhedonia is the loss of pleasure or interest in things that were previously found pleasurable, and a not yet fully understood core symptom of Major Depressive Disorder (MDD).
