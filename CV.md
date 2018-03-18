@@ -101,7 +101,7 @@ The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to these
 
 2015	Guest lecture Nursing, Hanze Hogeschool, The Netherlands
 
-2014	Supervised teaching, Psychiatry Research 3rd year Medical Students, University Medical Centre Groningen (UMCG), The Netherland 
+2014	Teacher Psychiatry Research 3rd year Medical Students (supervised by E. van Roekel), University Medical Centre Groningen (UMCG), The Netherland 
 
 2013	Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands
 
