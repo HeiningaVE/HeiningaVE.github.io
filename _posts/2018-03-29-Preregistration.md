@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preregistration OSF is online
-subtitle: The dynamic nature of anhedonia in patients with Major Depressive Disorder (MDD)
+subtitle: Anhedonia in patients with Major Depressive Disorder (MDD)
 ---
 
 Anhedonia (loss of pleasure) is defined as loss of pleasure or experience of positive emotions.
