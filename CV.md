@@ -7,7 +7,7 @@ subtitle: Curriculum vitae
 # Publications 
 ### Articles in internationally reviewed academic journals
 
-van Roekel E., **Heininga V.E.**, Vrijen C., Snippe E., Odehinkel A. (in press). Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*.
+Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*. DOI: 10.1037/emo0000424
 
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A. (2017). Reward and punishment learning in daily life: A replication study. *PLoS One*, 12 (10), 0-0.
 
@@ -58,6 +58,10 @@ The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to these
 
 
 # International conference experiences
+
+#### 2018
+- Poster presentation
+  Consortium of European Research on Emotion (CERE), Glasgow, UK
 
 #### 2017 
 - Organized an International Symposium + Oral presentation + Poster presentation; 
@@ -128,6 +132,7 @@ Masterclass John P.A. Ioannidis Amsterdam; 12-2016
 # Valorization
 #### Media appearences of my research (first authored)
 04-12-2017, Mensen met anhedonie hebben best plezier, alleen niet zo vaak (NWO)
+09-12-2017, People with Anhedonia Do Experience Pleasure, Just Not As Often (Neuroscience news; https://neurosciencenews.com/ahedonia-pleasure-8150/)
 
 #### Media appearences of our "No Fun, No Glory"-Project
 17-01-2017, Maar jij lacht toch altijd? (AD)
