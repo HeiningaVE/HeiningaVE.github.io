@@ -94,6 +94,7 @@ The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to these
 - Three-week research stay at the lab of Dr. Amy Mezulis; Seattle Pacific University (SPU); Seattle, USA, 2015.
   
 # Peer-review activities for academic journals
+- PLoS ONE
 - Journal of Child Psychology and Psychiatry (JCPP), together with Dr. G.H. van Roekel
 - Psychological Bulletin, together with Dr. E. Nederhof
 
@@ -158,3 +159,4 @@ Masterclass John P.A. Ioannidis Amsterdam; 12-2016
 * SPSS
 * LaTeX
 * R
+* Rmarkdown
