@@ -4,7 +4,7 @@ title: About me
 subtitle: A short introduction
 ---
 
-OSF ID:	[osf.io/7n4qu](https://osf.io/7n4qu/)
+OSF ID:	[osf.io/7n4qu](https://osf.io/7n4qu/)  
 ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
   
 ### Field/ Discipline:
