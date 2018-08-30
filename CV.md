@@ -6,56 +6,48 @@ subtitle: Curriculum vitae
 # Preprints
 **Heininga V.E.**, Dejonckheere E., Houben M., Obbels J., Sienaert P., Leroy, B., Van Roy J., Kuppens P. (2018) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. 
 	
-Preprint DOI: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/)
-
-Data and materials: Not (yet) available
-
-Publication DOI: Not (yet) available
+- Preprint DOI: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/)
+- Data and materials: Not (yet) available
+- Publication DOI: Not (yet) available
 
 # Publications 
 ### Articles in internationally reviewed academic journals
 
 Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, http://psycnet.apa.org/doiLanding?doi=10.1037%2Femo0000424
 
-Preprint DOI: [10.31234/osf.io/tdnws](https://psyarxiv.com/tdnws/)
+- Preprint DOI: [10.31234/osf.io/tdnws](https://psyarxiv.com/tdnws/)
+- Data and materials DOI: Not (yet) available
 
-Data and materials DOI: Not (yet) available
 
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. PLoS ONE 12(10): e0180753. https://doi.org/10.1371/journal.pone.0180753
 
-Preprint DOI: Not available
-
-Data and materials DOI: [10.17605/OSF.IO/WDZS6](https://osf.io/wdzs6/)
+- Preprint DOI: Not available
+- Data and materials DOI: [10.17605/OSF.IO/WDZS6](https://osf.io/wdzs6/)
 
 **Heininga V.E.**, van Roekel E., Ahles J., Oldehinkel A., Mezulis A. (2017). Positive affective functioning in anhedonic individuals' daily life Anything but flat and blunted. *Journal of Affective Disorders*, 218, 437-445, https://doi.org/10.1016/j.jad.2017.04.029.
 
-Preprint DOI: Not available
-
-Data and materials: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/)
+- Preprint DOI: Not available
+- Data and materials: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/)
 
 van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. *Behavior Therapy*, 48 (1), 76-96. https://doi.org/10.1016/j.beth.2016.09.009
 
-Preprint DOI: [10.1186/s12888-016-0880-z](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-0880-z)
-
-Data and materials: [https://osf.io/k7rfu/](https://osf.io/k7rfu/)
+- Preprint DOI: [10.1186/s12888-016-0880-z](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-0880-z)
+- Data and materials: [https://osf.io/k7rfu/](https://osf.io/k7rfu/)
 
 van Roekel E., Masselink M., Vrijen C., **Heininga V.E.**, Bak T., Nederhof E., Oldehinkel A. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. *BMC Psychiatry*, 16 (182), 0-0.
 
-Preprint DOI: Not applicable
-
-Data and materials: Not applicable
+- Preprint DOI: Not applicable
+- Data and materials: Not applicable
 
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0.
 
-Preprint DOI: Not available
-
-Data and materials: Not available
+- Preprint DOI: Not available
+- Data and materials: Not available
 
 **Heininga V.E.**, Oldehinkel A., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. *PLoS One*, 10 (5), 0-0. https://doi.org/10.1371/journal.pone.0125383
 
-Preprint DOI: Not available
-
-Data and materials: [Supporting information of the article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125383#sec026)
+- Preprint DOI: Not available
+- Data and materials: [Supporting information of the article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125383#sec026)
 
 ### Articles in other professionally oriented books
 	
