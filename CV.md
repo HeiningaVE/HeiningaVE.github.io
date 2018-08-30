@@ -3,17 +3,37 @@ layout: page
 title: CV
 subtitle: Curriculum vitae
 ---
+# Preprints
+**Heininga V.E.**, Dejonckheere E., Houben M., Obbels J., Sienaert P., Leroy, B., Van Roy J., Kuppens P. (2018) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. 
+	
+	Preprint DOI: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/)
 
 # Publications 
 ### Articles in internationally reviewed academic journals
 
-Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*. DOI: 10.1037/emo0000424
+Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*.
+
+	Preprint DOI: [10.31234/osf.io/tdnws](https://psyarxiv.com/tdnws/)
+	Data and materials: 
+	Publication DOI: [10.1037/emo0000424](http://psycnet.apa.org/doiLanding?doi=10.1037%2Femo0000424)
 
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A. (2017). Reward and punishment learning in daily life: A replication study. *PLoS One*, 12 (10), 0-0.
 
+	Preprint DOI: [...](...)
+	Data and materials: [...](...)
+	Publication DOI: [...](...)
+
 **Heininga V.E.**, van Roekel E., Ahles J., Oldehinkel A., Mezulis A. (2017). Positive affective functioning in anhedonic individuals' daily life Anything but flat and blunted. *Journal of Affective Disorders*, 218, 437-445.
 
+	Preprint DOI: [...](...)
+	Data and materials: [...](...)
+	Publication DOI: [...](...)
+
 van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. *Behavior Therapy*, 48 (1), 76-96.
+
+	Preprint DOI: [...](...)
+	Data and materials: [...](...)
+	Publication DOI: [...](...)
 
 van Roekel E., Masselink M., Vrijen C., **Heininga V.E.**, Bak T., Nederhof E., Oldehinkel A. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. *BMC Psychiatry*, 16 (182), 0-0.
 
@@ -35,6 +55,8 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehink
 ### PhD Thesis
 
 **Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective [Groningen]: University of Groningen
+
+[Open publication](https://docs.wixstatic.com/ugd/c22377_f6d9d466111c42e8a75ce6c4cbced4a7.pdf)
 
 # Scientific awards and nominations
 
