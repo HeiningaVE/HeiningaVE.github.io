@@ -8,7 +8,6 @@ subtitle: Curriculum vitae
 	
 - Preprint DOI: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/)
 - Data and materials: Not (yet) available
-- Publication DOI: Not (yet) available
 
 # Publications 
 ### Articles in internationally reviewed academic journals
