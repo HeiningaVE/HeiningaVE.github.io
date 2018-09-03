@@ -159,7 +159,12 @@ Masterclass John P.A. Ioannidis Amsterdam; 12-2016
 # Valorization
 #### Media appearences of my research (first authored)
 04-12-2017, Mensen met anhedonie hebben best plezier, alleen niet zo vaak (NWO)
-09-12-2017, People with Anhedonia Do Experience Pleasure, Just Not As Often (Neuroscience news; https://neurosciencenews.com/ahedonia-pleasure-8150/)
+
+09-12-2017, [People with Anhedonia Do Experience Pleasure, Just Not As Often](https://neurosciencenews.com/ahedonia-pleasure-8150/) (Neuroscience news)
+
+22-05-2017, [Masterclass John Ioannidis](https://www.nrin.nl/news/masterclass-john-ioannidis/) (The Netherlands Research Integrity Network News)
+
+2018, Ziekten.nl, [Wetenschappelijk nieuws](https://www.ziekten.nl/mensen-met-anhedonie-ervaren-ook-plezier/)
 
 #### Media appearences of our "No Fun, No Glory"-Project
 17-01-2017, Maar jij lacht toch altijd? (AD)
