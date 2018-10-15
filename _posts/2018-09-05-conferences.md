@@ -3,6 +3,8 @@ layout: post
 title: Upcoming conferences 2018-2019
 ---
 
+**2018 Oct 29-30**      2^{nd} Perspectives on Scientific Error ([SPE](2nd Perspectives on Scientific Error Workshop)) Workshop, Groningen, NL
+
 **2018 Nov 29-30**      Belgian-Dutch expert network meeting on ESM and mental health, Heerlen, NL
 
 **2019 June 12-15**  	  Society for Ambulatory Assessment ([SAA](http://ambulatory-assessment.org/)), Syracuse University, USA 
