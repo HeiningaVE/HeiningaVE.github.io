@@ -7,6 +7,8 @@ title: Upcoming conferences 2018-2019
 
 **2018 Nov 29-30**      Belgian-Dutch expert network meeting on ESM and mental health, Heerlen, NL
 
+**2018 Dec 12-13**      7th International Research Meeting on “A multiple levels of analysis approach to typical and atypical development” in Leuven, Belgium
+
 **2019 June 12-15**  	  Society for Ambulatory Assessment ([SAA](http://ambulatory-assessment.org/)), Syracuse University, USA 
 
 **2019 July 7-9**  	    The Society for the Improvement of Psychological Science ([SIPS](https://improvingpsych.org/meetings/)), Rotterdam, NL
