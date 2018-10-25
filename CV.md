@@ -151,6 +151,13 @@ Masterclass John P.A. Ioannidis Amsterdam; 12-2016
   	researchers, to present their work at a masterclass hosted by the renowned Prof Dr. John P.A.
   	Ioannidis.
   
+# Membership board councils and committees
+  
+Sept 2018 - present 	Council of the Faculty of Psychology and Educational Sciences 
+
+Sept 2018 - present 	Educational Committee of the Master of Psychology: Theory and Research
+
+
 # Education
 2013 – 2017		PhD candidate Psychiatry, University Medical Center Groningen (UMCG)
 		
