@@ -24,6 +24,7 @@ description: Awesome that you are here - Welcome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Recent Projects: "projects"
   CV: "CV"
   No Fun, No Glory: "NFNG"
   Resources:
