@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Recent projects
-subtitle: Curriculum vitae
+title: Recent Projects
 ---
 
 * **Deficits, Distress, and Disorders**    
