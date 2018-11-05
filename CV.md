@@ -169,7 +169,7 @@ University of Groningen (RUG), The Netherlands
 The second Perspectives on Scientific Error workshop brought together an interdisciplinary group of researchers interested in issues of scientific error. Participants shared their views on how scientific errors can be detected and corrected, how they influence scientific communities, and the perception of science as a whole.
 
 Masterclass John P.A. Ioannidis Amsterdam    
-14-11-2016        
+18-11-2016        
 	Selected by the Netherlands Research Integrity Network as one of the 9 excellent young
   	researchers, to present their work at a masterclass hosted by the renowned Prof Dr. John P.A.
   	Ioannidis.
