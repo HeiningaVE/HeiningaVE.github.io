@@ -153,12 +153,12 @@ Masterclass John P.A. Ioannidis Amsterdam; 12-2016
   
 # Membership board councils and committees
   
-Sept 2018 - present 	Council of the Faculty of Psychology and Educational Sciences, KU Leuven - University of Leuven, Belgium
+Sept 2018 - present * * * Council of the Faculty of Psychology and Educational Sciences, KU Leuven - University of Leuven, Belgium
 
-Sept 2018 - present 	ABAP representative of the Research group quantitative psychology and individual differences,
+Sept 2018 - present * * * ABAP representative of the Research group quantitative psychology and individual differences,
 Faculty of psychology and educational sciences, KU Leuven - University of Leuven, Belgium (reserve)
 
-Sept 2018 - present 	Educational Committee of the Master of Psychology: Theory and Research, KU Leuven - University of Leuven, Belgium (reserve)
+Sept 2018 - present * * * Educational Committee of the Master of Psychology: Theory and Research, KU Leuven - University of Leuven, Belgium (reserve)
 
 # Education
 2013 – 2017		PhD candidate Psychiatry, University Medical Center Groningen (UMCG)
