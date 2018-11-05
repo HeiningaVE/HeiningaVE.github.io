@@ -86,44 +86,48 @@ The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to these
 # International conference experiences
 
 #### 2018
-- Poster presentation
+- Poster presentation  \s \s
   Consortium of European Research on Emotion (CERE), Glasgow, UK
-- Poster presentation
+- Poster presentation  \s \s
   2nd Perspectives on Scientific Error ([SPE](2nd Perspectives on Scientific Error Workshop)) Workshop, Groningen, NL
-- Poster presentation
+- Poster presentation \s \s
   Belgian-Dutch expert network meeting on ESM and mental health, Heerlen, NL
-- Poster presentation
+- Poster presentation  \s \s
   7th International Research Meeting on “A multiple levels of analysis approach to typical and atypical development” in Leuven, Belgium
 
 #### 2017 
-- Organized an International Symposium + Oral presentation + Poster presentation; 
+- Organized an International Symposium + Oral presentation + Poster presentation  \s \s
   Society Ambulatory Assessmemt (SAA) conference; Luxembourg, Luxembourg
-- Five day residential course on advanced methods for reproducible science, European College of Neuropsychopharmacology; Bristol, UK
-- Poster presentation; International Society for Research in Child and Adolescent Psychopathology (ISRCAP); Amsterdam, The Netherlands
+- Five day residential course on advanced methods for reproducible science  \s \s
+European College of Neuropsychopharmacology, istol, UK
+- Poster presentation \s \s
+International Society for Research in Child and Adolescent Psychopathology (ISRCAP),Amsterdam, The Netherlands
 
 #### 2016
-- Oral presentation
+- Oral presentation \s \s
   Research Foundation-Flanders (FWO) conference; Leuven, Belgium
-- Poster presentation
+- Poster presentation \s \s
   Life History Research Society (LHRS) Meeting; Amsterdam, The Netherlands
-- Poster presentation
+- Poster presentation \s \s
   International Society for Research in Child and Adolescent Psychopathology (ISRCAP); Amsterdam, The Netherlands
 
 #### 2015
-- Oral presentation; 
+- Oral presentation  \s \s
   International Dutch Neuroscientific Meeting (DNM); Lunteren, The Netherlands
-- Organized International Symposium + Poster presentation; 
+- Organized International Symposium + Poster presentation  \s \s
   International Society for Research in Child and Adolescent Psychopathology(ISRCAP); Portland, USA
-- Oral presentation; 
+- Oral presentation  \s \s
   Research Foundation-Flanders (FWO) conference; Leuven, Belgium
   
 #### 2013
-- Poster presentation; 
+- Poster presentation  \s \s
   Gravitation programme Consortium on Individual Development (CID); Amsterdam, The Netherlands
 
 # Research stays
-- One year research stay at the lab of Prof. Kuppens; KU Leuven; Leuven, Belgium, 2018.
-- Three-week research stay at the lab of Dr. Amy Mezulis; Seattle Pacific University (SPU); Seattle, USA, 2015.
+- One year research stay at the lab of Prof. Kuppens  \s \s
+Leuven,Leuven, Belgium, 2018.
+- Three-week research stay at the lab of Dr. Amy Mezulis  \s \s
+Seattle Pacific University (SPU); Seattle, USA, 2015.
   
 # Peer-review activities for academic journals
 - PLoS ONE
@@ -146,19 +150,25 @@ The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to these
 
 # Additional relevant courses and workshops
 
-Masterclass John P.A. Ioannidis Amsterdam; 12-2016
+Masterclass John P.A. Ioannidis Amsterdam; 12-2016  \s \s
 	Selected by the Netherlands Research Integrity Network as one of the 9 excellent young
   	researchers, to present their work at a masterclass hosted by the renowned Prof Dr. John P.A.
   	Ioannidis.
   
 # Membership board councils and committees
   
-Sept 2018 - present <hr />  Council of the Faculty of Psychology and Educational Sciences, KU Leuven - University of Leuven, Belgium
+Sept 2018 - present \s\s
+Council of the Faculty of Psychology and Educational Sciences, KU Leuven - University of Leuven, Belgium
 
-Sept 2018 - present <hr />  ABAP representative of the Research group quantitative psychology and individual differences,
-Faculty of psychology and educational sciences, KU Leuven - University of Leuven, Belgium (reserve)
+<hr /> 
 
-Sept 2018 - present <hr /> Educational Committee of the Master of Psychology: Theory and Research, KU Leuven - University of Leuven, Belgium (reserve)
+Sept 2018 - present \s\s
+ABAP representative of the Research group quantitative psychology and individual differences, Faculty of psychology and educational sciences, KU Leuven - University of Leuven, Belgium (reserve)
+
+ <hr />  
+
+Sept 2018 - present \s\s
+Educational Committee of the Master of Psychology: Theory and Research, KU Leuven - University of Leuven, Belgium (reserve)
 
 # Education
 2013 – 2017		PhD candidate Psychiatry, University Medical Center Groningen (UMCG)
