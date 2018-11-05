@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Recent Projects
+subtitle: A quick overview
 ---
 
 * **Deficits, Distress, and Disorders**    
