@@ -93,6 +93,8 @@ The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to these
 
 #### 2018
 - Poster presentation   
+  2nd Perspectives on Scientific Error Workshop (PSE 2), Groningen, The Netherlands
+- Poster presentation   
   Consortium of European Research on Emotion (CERE), Glasgow, UK
 - Poster presentation   
   2nd Perspectives on Scientific Error ([SPE](2nd Perspectives on Scientific Error Workshop)) Workshop, Groningen, NL
