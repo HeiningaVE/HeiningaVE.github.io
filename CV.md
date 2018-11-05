@@ -64,69 +64,75 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehink
 
 # Scientific awards and nominations
 
-#### KNAW Ter Meulen grant; 06-2017; €21.900,-
+#### KNAW Ter Meulen grant    
+06-2017; €21.900,-   
 Grant from The Royal Netherlands Academy of Arts and Sciences (KNAW in Dutch) for promising young researchers in paediatric or related areas of medicine.
 
-#### ECNP Travel bursary Bristol; 02-2017; circa €450,-
+#### ECNP Travel bursary Bristol
+02-2017; circa €450,-    
 Selected by European College of Neuropsychopharmacology (ECNP) for support of attendance at the 5-day residential course on advanced methods for reproducible science.
   
-#### PLOS Early Career Travel Award; 01-2017; $500,-
+#### PLOS Early Career Travel Award
+01-2017; $500,-    
 Program established to support opportunities for early career researchers to present their work and participate in the scientific dialogue.
 
-#### ISRCAP Travel Scholarship; 06-2015; $750,-
+#### ISRCAP Travel Scholarship
+06-2015; $750,-    
 Scholarship awarded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP), based on a presentation judged to be of outstanding quality.
 
-#### Nomination Hannie Schaft Award; 08-2013
+#### Nomination Hannie Schaft Award
+08-2013;-    
 Runner up for Hannie Schaft award, which isawarded every two years to students who have written a final paper which speaks of social engagement.
 
-#### STAND thesis Award; 09-2013; €250,-
+#### STAND thesis Award
+09-2013; €250,-     
 The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to theses that promote academic initiatives to improve social   work. My thesis involved a theoretical and practical integration of Forensic Social Network Analysis (FSNA) into social work practice.
 
 
 # International conference experiences
 
 #### 2018
-- Poster presentation  \s \s
+- Poster presentation   
   Consortium of European Research on Emotion (CERE), Glasgow, UK
-- Poster presentation  \s \s
+- Poster presentation   
   2nd Perspectives on Scientific Error ([SPE](2nd Perspectives on Scientific Error Workshop)) Workshop, Groningen, NL
-- Poster presentation \s \s
+- Poster presentation   
   Belgian-Dutch expert network meeting on ESM and mental health, Heerlen, NL
-- Poster presentation  \s \s
+- Poster presentation   
   7th International Research Meeting on “A multiple levels of analysis approach to typical and atypical development” in Leuven, Belgium
 
 #### 2017 
-- Organized an International Symposium + Oral presentation + Poster presentation  \s \s
+- Organized an International Symposium + Oral presentation + Poster presentation    
   Society Ambulatory Assessmemt (SAA) conference; Luxembourg, Luxembourg
-- Five day residential course on advanced methods for reproducible science  \s \s
-European College of Neuropsychopharmacology, istol, UK
-- Poster presentation \s \s
+- Five day residential course on advanced methods for reproducible science    
+European College of Neuropsychopharmacology, Bristol, UK
+- Poster presentation   
 International Society for Research in Child and Adolescent Psychopathology (ISRCAP),Amsterdam, The Netherlands
 
 #### 2016
-- Oral presentation \s \s
+- Oral presentation   
   Research Foundation-Flanders (FWO) conference; Leuven, Belgium
-- Poster presentation \s \s
+- Poster presentation   
   Life History Research Society (LHRS) Meeting; Amsterdam, The Netherlands
-- Poster presentation \s \s
+- Poster presentation    
   International Society for Research in Child and Adolescent Psychopathology (ISRCAP); Amsterdam, The Netherlands
 
 #### 2015
-- Oral presentation  \s \s
+- Oral presentation    
   International Dutch Neuroscientific Meeting (DNM); Lunteren, The Netherlands
-- Organized International Symposium + Poster presentation  \s \s
+- Organized International Symposium + Poster presentation    
   International Society for Research in Child and Adolescent Psychopathology(ISRCAP); Portland, USA
-- Oral presentation  \s \s
+- Oral presentation     
   Research Foundation-Flanders (FWO) conference; Leuven, Belgium
   
 #### 2013
-- Poster presentation  \s \s
+- Poster presentation     
   Gravitation programme Consortium on Individual Development (CID); Amsterdam, The Netherlands
 
 # Research stays
-- One year research stay at the lab of Prof. Kuppens  \s \s
+- One year research stay at the lab of Prof. Kuppens    
 Leuven,Leuven, Belgium, 2018.
-- Three-week research stay at the lab of Dr. Amy Mezulis  \s \s
+- Three-week research stay at the lab of Dr. Amy Mezulis    
 Seattle Pacific University (SPU); Seattle, USA, 2015.
   
 # Peer-review activities for academic journals
@@ -136,50 +142,62 @@ Seattle Pacific University (SPU); Seattle, USA, 2015.
 
 # Teaching experience
 
-2018	Co-teacher Statistics 6, KU Leuven, Belgium 
+2018	Co-teacher Statistics 6    
+KU Leuven, Belgium 
 
-2017	Guest lecture Social studies, Hanze Hogeschool, The Netherlands 
+2017	Guest lecture Social studies    
+Hanze Hogeschool, The Netherlands 
 
-2015	Guest lecture Nursing, Hanze Hogeschool, The Netherlands
+2015	Guest lecture Nursing    
+Hanze Hogeschool, The Netherlands
 
-2014	Teacher Psychiatry Research 3rd year Medical Students (supervised by E. van Roekel), University Medical Centre Groningen (UMCG), The Netherland 
+2014	Teacher Psychiatry Research 3rd year Medical Students (supervised by E. van Roekel)    
+University Medical Centre Groningen (UMCG), The Netherland 
 
-2013	Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands
+2013	Teaching assistent Statistics 1B    
+University of Groningen (RUG), The Netherlands
 
-2012	Teaching assistent Statistics 1A, University of Groningen (RUG), The Netherlands
+2012	Teaching assistent Statistics 1A    
+University of Groningen (RUG), The Netherlands
 
 # Additional relevant courses and workshops
 
-Masterclass John P.A. Ioannidis Amsterdam; 12-2016  \s \s
+Masterclass John P.A. Ioannidis Amsterdam; 12-2016     
 	Selected by the Netherlands Research Integrity Network as one of the 9 excellent young
   	researchers, to present their work at a masterclass hosted by the renowned Prof Dr. John P.A.
   	Ioannidis.
   
 # Membership board councils and committees
   
-Sept 2018 - present \s\s
+Sept 2018 - present     
 Council of the Faculty of Psychology and Educational Sciences, KU Leuven - University of Leuven, Belgium
 
 <hr /> 
 
-Sept 2018 - present \s\s
+Sept 2018 - present    
 ABAP representative of the Research group quantitative psychology and individual differences, Faculty of psychology and educational sciences, KU Leuven - University of Leuven, Belgium (reserve)
 
  <hr />  
 
-Sept 2018 - present \s\s
+Sept 2018 - present    
 Educational Committee of the Master of Psychology: Theory and Research, KU Leuven - University of Leuven, Belgium (reserve)
 
 # Education
-2013 – 2017		PhD candidate Psychiatry, University Medical Center Groningen (UMCG)
+2013 – 2017		PhD candidate Psychiatry    
+University Medical Center Groningen (UMCG)
 		
-2011 – 2013	 	Research Master Behavioural and Social Science, Interuniversity Centre Social Sciences & Methodology (ICS); 				Specialization: Sociology
+2011 – 2013	 	Research Master Behavioural and Social Science    
+Interuniversity Centre Social Sciences & Methodology (ICS)     	
+Specialization: Sociology
 
-2010 – 2011		Pre-master programme BSc Sociology, University of Groningen (RUG)
+2010 – 2011		Pre-master programme BSc Sociology    
+University of Groningen (RUG)
 
-2009 – 2010		First year BA Psychology (30 ECTS), University of Groningen (RUG)
+2009 – 2010		First year BA Psychology (30 ECTS)    
+University of Groningen (RUG)
 
-2006 – 2010		BSc Social Work, Hanze University of Applied Sciences
+2006 – 2010		BSc Social Work     
+Hanze University of Applied Sciences
 
 # Valorization
 #### Media appearences of my research (first authored)
