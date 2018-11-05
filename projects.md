@@ -4,7 +4,7 @@ title: Recent Projects
 subtitle: A quick overview
 ---
 
-* **Deficits, Distress, and Disorders**    
+* **Sparking interdiscplinary research on Deficits, Distress, and Disorders**    
 [BSS Interdisciplinary project](https://www.rug.nl/masters/behavioural-and-social-sciences-research/)   
 Gaining a better understanding of human deficits, psychological distress, and psychopathological disorders using a transdiagnostic and interdisciplinary approach? Challenge accepted! Within the focal area Deficits, Distress, and Disorders, we combine insights from among others, sociology, psychology, pedagogics, educational science, and psychometrics to investigate the causal mechanisms of psychopathological disorders, and their effects on everyday functioning.
 
