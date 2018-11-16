@@ -7,7 +7,7 @@ subtitle: Curriculum vitae
 **Heininga V.E.**, Dejonckheere E., Houben M., Obbels J., Sienaert P., Leroy, B., Van Roy J., Kuppens P. (2018) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. 
 	
 - Preprint DOI: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/)
-- Data and materials: Not (yet) available
+- Data and materials: [osf.io/8gxrw](https://osf.io/8gxrw)
 
 # Publications 
 ### Articles in internationally reviewed academic journals
@@ -97,8 +97,6 @@ The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to these
 - Poster presentation   
   Consortium of European Research on Emotion (CERE), Glasgow, UK
 - Poster presentation   
-  2nd Perspectives on Scientific Error ([SPE](2nd Perspectives on Scientific Error Workshop)) Workshop, Groningen, NL
-- Poster presentation   
   Belgian-Dutch expert network meeting on ESM and mental health, Heerlen, NL
 - Poster presentation   
   7th International Research Meeting on “A multiple levels of analysis approach to typical and atypical development” in Leuven, Belgium
@@ -139,8 +137,8 @@ Seattle Pacific University (SPU); Seattle, USA, 2015.
   
 # Peer-review activities for academic journals
 - PLoS ONE
-- Journal of Child Psychology and Psychiatry (JCPP), together with Dr. G.H. van Roekel
-- Psychological Bulletin, together with Dr. E. Nederhof
+- Journal of Child Psychology and Psychiatry (JCPP)
+- Psychological Bulletin
 
 # Teaching experience
 
@@ -156,10 +154,10 @@ Hanze Hogeschool, The Netherlands
 2014	Teacher Psychiatry Research 3rd year Medical Students (supervised by E. van Roekel)    
 University Medical Centre Groningen (UMCG), The Netherland 
 
-2013	Teaching assistent Statistics 1B    
+2013	Teaching assistant Statistics 1B    
 University of Groningen (RUG), The Netherlands
 
-2012	Teaching assistent Statistics 1A    
+2012	Teaching assistant Statistics 1A    
 University of Groningen (RUG), The Netherlands
 
 # Additional relevant courses and workshops
@@ -180,20 +178,16 @@ Sept 2018 - present
 Council of the Faculty of Psychology and Educational Sciences    
 KU Leuven - University of Leuven, Belgium
 
-<hr /> 
-
 Sept 2018 - present    
 Reserve ABAP representative of the Research group quantitative psychology and individual differences    
 Faculty of psychology and educational sciences, KU Leuven - University of Leuven, Belgium 
-
- <hr />  
 
 Sept 2018 - present    
 Reserve member of Educational Committee of the Master of Psychology: Theory and Research
 KU Leuven - University of Leuven, Belgium
 
 # Education
-2013 – 2017		PhD candidate Psychiatry    
+2013 – 2017		PhD student Psychiatry    
 University Medical Center Groningen (UMCG)
 		
 2011 – 2013	 	Research Master Behavioural and Social Science    
@@ -210,7 +204,7 @@ University of Groningen (RUG)
 Hanze University of Applied Sciences
 
 # Valorization
-#### Media appearences of my research (first authored)
+#### Media appearances of my research (first authored)
 04-12-2017, Mensen met anhedonie hebben best plezier, alleen niet zo vaak (NWO)
 
 09-12-2017, [People with Anhedonia Do Experience Pleasure, Just Not As Often](https://neurosciencenews.com/ahedonia-pleasure-8150/) (Neuroscience news)
@@ -219,7 +213,7 @@ Hanze University of Applied Sciences
 
 2018, Ziekten.nl, [Wetenschappelijk nieuws](https://www.ziekten.nl/mensen-met-anhedonie-ervaren-ook-plezier/)
 
-#### Media appearences of our "No Fun, No Glory"-Project
+#### Media appearances of our "No Fun, No Glory"-Project
 17-01-2017, Maar jij lacht toch altijd? (AD)
 
 30-11-2016, Plezier van parachutesprong duurt maar kort (Volkskrant)
