@@ -52,6 +52,10 @@ Selected by European College of Neuropsychopharmacology (ECNP) for support of at
 01-2017; $500,-    
 Program established to support opportunities for early career researchers to present their work and participate in the scientific dialogue.
 
+#### Masterclass John P.A. Ioannidis Amsterdam    
+18-11-2016; participation      
+Selected by the Netherlands Research Integrity Network as one of the 9 excellent young researchers, to present their work at a masterclass hosted by the renowned Prof Dr. John P.A. Ioannidis.
+
 #### ISRCAP Travel Scholarship
 06-2015; $750,-    
 Scholarship awarded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP), based on a presentation judged to be of outstanding quality.
@@ -64,14 +68,13 @@ Runner up for Hannie Schaft award, which isawarded every two years to students w
 09-2013; €250,-     
 The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to theses that promote academic initiatives to improve social   work. My thesis involved a theoretical and practical integration of Forensic Social Network Analysis (FSNA) into social work practice.
 
-
 # Academic activities 
 
 T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation (international conferences only); R=Research stays abroad
 
 |      |                                                                         | T | S | P | O | R |
 |------|-------------------------------------------------------------------------|---|---|---|---|---|
-| 2018 | One year research stay at the lab of Prof. Kuppen; Leuven, Belgium  |   |   |   |   |   |
+| 2018 | One year research stay at the lab of Prof. Kuppen; Leuven, Belgium 	 |   |   |   |   | x |
 |      | Teacher *statistics 6*; last year Research Master students (supervised) | x |   |   |   |   |
 |      | 2nd Perspectives Scientific Error Workshop (*PSE2*), Groningen, NL      |   |   | x |   |   |
 |      | The Consortium of European Research on emotion (CERE); Glasgow          |   |   | x |   |   |
@@ -84,7 +87,7 @@ T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation (international 
 |      | Life History Research Society (LHRS) Meeting; NL                        |   |   | x |   |   |
 |      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); NL       |   |   | x |   |   |
 |      |                                                                         |   |   |   |   |   |
-| 2015 | Three week research stay at the lab of dr. Mezulis; USA    	         |   |   |   |   | x |
+| 2015 | Three week research stay at the lab of dr. Mezulis of Seattle Pacific University (SPU); Seattle, USA  |   |   |   |   | x |
 |      | International Dutch Neuroscientific Meeting (DNM); NL  		 |   |   |   | x |   |
 |      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); USA      |   | x | x |   |   |
 |      | Guest lecture Nursing, Hanze Hogeschool; NL                             | x |   |   |   |   |
@@ -99,24 +102,12 @@ T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation (international 
 | 2012 | Teaching assistant Statistics 1A, first year psychology students        | x |   |   |   |   |
 |      |                                                                         |   |   |   |   |   |
 
-# Research stays
-- 
-- Three-week research stay at the lab of Dr. Amy Mezulis    
-Seattle Pacific University (SPU); Seattle, USA, 2015.
-  
+ 
 # Peer-review activities for academic journals
 - PLoS ONE
 - Journal of Child Psychology and Psychiatry (JCPP)
 - Psychological Bulletin
 
-# Additional relevant courses and workshops
-
-Masterclass John P.A. Ioannidis Amsterdam    
-18-11-2016        
-	Selected by the Netherlands Research Integrity Network as one of the 9 excellent young
-  	researchers, to present their work at a masterclass hosted by the renowned Prof Dr. John P.A.
-  	Ioannidis.
-  
 # Membership board councils and committees
   
 Sept 2018 - present     
