@@ -65,49 +65,42 @@ Runner up for Hannie Schaft award, which isawarded every two years to students w
 The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to theses that promote academic initiatives to improve social   work. My thesis involved a theoretical and practical integration of Forensic Social Network Analysis (FSNA) into social work practice.
 
 
-# International conference experiences
+# Academic activities 
 
-#### 2018
-- Poster presentation   
-  2nd Perspectives on Scientific Error Workshop (PSE 2), Groningen, The Netherlands
-- Poster presentation   
-  Consortium of European Research on Emotion (CERE), Glasgow, UK
-- Poster presentation   
-  Belgian-Dutch expert network meeting on ESM and mental health, Heerlen, NL
-- Poster presentation   
-  7th International Research Meeting on “A multiple levels of analysis approach to typical and atypical development” in Leuven, Belgium
+T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation (international conferences only); R=Research stays abroad
 
-#### 2017 
-- Organized an International Symposium + Oral presentation + Poster presentation    
-  Society Ambulatory Assessmemt (SAA) conference; Luxembourg, Luxembourg
-- Five day residential course on advanced methods for reproducible science    
-European College of Neuropsychopharmacology, Bristol, UK
-- Poster presentation   
-International Society for Research in Child and Adolescent Psychopathology (ISRCAP),Amsterdam, The Netherlands
-
-#### 2016
-- Oral presentation   
-  Research Foundation-Flanders (FWO) conference; Leuven, Belgium
-- Poster presentation   
-  Life History Research Society (LHRS) Meeting; Amsterdam, The Netherlands
-- Poster presentation    
-  International Society for Research in Child and Adolescent Psychopathology (ISRCAP); Amsterdam, The Netherlands
-
-#### 2015
-- Oral presentation    
-  International Dutch Neuroscientific Meeting (DNM); Lunteren, The Netherlands
-- Organized International Symposium + Poster presentation    
-  International Society for Research in Child and Adolescent Psychopathology(ISRCAP); Portland, USA
-- Oral presentation     
-  Research Foundation-Flanders (FWO) conference; Leuven, Belgium
-  
-#### 2013
-- Poster presentation     
-  Gravitation programme Consortium on Individual Development (CID); Amsterdam, The Netherlands
+|      |                                                                         | T | S | P | O | R |
+|------|-------------------------------------------------------------------------|---|---|---|---|---|
+| 2018 | One year research stay at the lab of Prof. Kuppen; Leuven, Belgium  |   |   |   |   |   |
+|      | Teacher *statistics 6*; last year Research Master students (supervised) | x |   |   |   |   |
+|      | 2nd Perspectives Scientific Error Workshop (*PSE2*), Groningen, NL      |   |   | x |   |   |
+|      | The Consortium of European Research on emotion (CERE); Glasgow          |   |   | x |   |   |
+|      |                                                                         |   |   |   |   |   |
+| 2017 | Society Ambulatory Assessment (SAA) conference; Luxembourg  	         |   | x | x | x |   |
+|      | Guest lecture Social studies, Hanze Hogeschool; NL	                 | x |   |   |   |   |
+|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); NL	  |   |   | x |   |   |
+|      |                                                                         |   |   |   |   |   |
+| 2016 | Research Found21ation-Flanders (FWO) conference; Leuven, Belgium        |   | x |   |   |   |
+|      | Life History Research Society (LHRS) Meeting; NL                        |   |   | x |   |   |
+|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); NL       |   |   | x |   |   |
+|      |                                                                         |   |   |   |   |   |
+| 2015 | Three week research stay at the lab of dr. Mezulis; USA    	         |   |   |   |   | x |
+|      | International Dutch Neuroscientific Meeting (DNM); NL  		 |   |   |   | x |   |
+|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); USA      |   | x | x |   |   |
+|      | Guest lecture Nursing, Hanze Hogeschool; NL                             | x |   |   |   |   |
+|      | Research Foundation-Flanders (FWO) conference; Belgium                  |   |   |   | x |   |
+|      |                                                                         |   |   |   |   |   |
+| 2014 | Teacher Psychiatry Research; 3rd year Medical Students (supervised)     | x |   |   |   |   |
+|      |                                                                         |   |   |   |   |   |
+|      |                                                                         |   |   |   |   |   |
+| 2013 | Gravitation program Consortium on Individual Development (CID); NL      |   |   | x |   |   |
+|      | Teaching assistant Statistics 1B, first year psychology students        | x |   |   |   |   |
+|      |                                                                         |   |   |   |   |   |
+| 2012 | Teaching assistant Statistics 1A, first year psychology students        | x |   |   |   |   |
+|      |                                                                         |   |   |   |   |   |
 
 # Research stays
-- One year research stay at the lab of Prof. Kuppens    
-Leuven,Leuven, Belgium, 2018.
+- 
 - Three-week research stay at the lab of Dr. Amy Mezulis    
 Seattle Pacific University (SPU); Seattle, USA, 2015.
   
@@ -116,31 +109,7 @@ Seattle Pacific University (SPU); Seattle, USA, 2015.
 - Journal of Child Psychology and Psychiatry (JCPP)
 - Psychological Bulletin
 
-# Teaching experience
-
-2018	Co-teacher Statistics 6    
-KU Leuven, Belgium 
-
-2017	Guest lecture Social studies    
-Hanze Hogeschool, The Netherlands 
-
-2015	Guest lecture Nursing    
-Hanze Hogeschool, The Netherlands
-
-2014	Teacher Psychiatry Research 3rd year Medical Students (supervised by E. van Roekel)    
-University Medical Centre Groningen (UMCG), The Netherland 
-
-2013	Teaching assistant Statistics 1B    
-University of Groningen (RUG), The Netherlands
-
-2012	Teaching assistant Statistics 1A    
-University of Groningen (RUG), The Netherlands
-
 # Additional relevant courses and workshops
-
-[Perspectives on Scientific Error Workshop (PSE2)](http://www.philos.rug.nl/scientificerror2018/)    
-29-11-2018     
-The second Perspectives on Scientific Error workshop brought together an interdisciplinary group of researchers interested in issues of scientific error. Participants shared their views on how scientific errors can be detected and corrected, how they influence scientific communities, and the perception of science as a whole.
 
 Masterclass John P.A. Ioannidis Amsterdam    
 18-11-2016        
