@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time to spare? My thesis is out!
+title: The happy, the sad, and the anhedonic
 subtitle: The happy, the sad, and the anhedonic
 bigimg: /img/Logo_thesis.png
 ---
