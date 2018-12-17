@@ -95,28 +95,28 @@ T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation (international 
 |      | The Consortium of European Research on emotion (CERE); Glasgow          |   |   | x |   |   |
 |      | Belgian-Dutch expert network meeting on ESM and mental health, Heerlen, NL |   |   | x |   |   |
 |      | 7th International Research Meeting in Leuven, Belgium        	         |   |   | x |   |   |
-|______|_________________________________________________________________________|   |   |   |   |   |
+|      |                                                                         |   |   |   |   |   |
 | **2017** | Society Ambulatory Assessment (SAA) conference; Luxembourg  	         |   | x | x | x |   |
 |      | Guest lecture Social studies, Hanze Hogeschool; NL	                 | x |   |   |   |   |
 |      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); NL	  |   |   | x |   |   |
-|______|_________________________________________________________________________|   |   |   |   |   |
+|      |                                                                         |   |   |   |   |   |
 | **2016** | Research Found21ation-Flanders (FWO) conference; Leuven, Belgium        |   | x |   |   |   |
 |      | Life History Research Society (LHRS) Meeting; NL                        |   |   | x |   |   |
 |      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); NL       |   |   | x |   |   |
-|______|_________________________________________________________________________|   |   |   |   |   |
+|      |                                                                         |   |   |   |   |   |
 | **2015** | Three week research stay at the lab of dr. Mezulis of Seattle Pacific University (SPU); Seattle, USA  |   |   |   |   | x |
 |      | International Dutch Neuroscientific Meeting (DNM); NL  		 |   |   |   | x |   |
 |      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); USA      |   | x | x |   |   |
 |      | Guest lecture Nursing, Hanze Hogeschool; NL                             | x |   |   |   |   |
 |      | Research Foundation-Flanders (FWO) conference; Belgium                  |   |   |   | x |   |
-|______|_________________________________________________________________________|   |   |   |   |   |
+|      |                                                                         |   |   |   |   |   |
 | **2014** | Teacher Psychiatry Research; 3rd year Medical Students (supervised)     | x |   |   |   |   |
-|______|_________________________________________________________________________|   |   |   |   |   |
+|      |                                                                         |   |   |   |   |   |
 | **2013** | Gravitation program Consortium on Individual Development (CID); NL      |   |   | x |   |   |
 |      | Teaching assistant Statistics 1B, first year psychology students        | x |   |   |   |   |
-|______|_________________________________________________________________________|   |   |   |   |   |
+|      |                                                                         |   |   |   |   |   |
 | **2012** | Teaching assistant Statistics 1A, first year psychology students        | x |   |   |   |   |
-|______|_________________________________________________________________________|   |   |   |   |   |
+|      |                                                                         |   |   |   |   |   |
 
  
 # Peer-review activities for academic journals
