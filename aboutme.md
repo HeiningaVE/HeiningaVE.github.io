@@ -4,7 +4,7 @@ title: About me
 subtitle: A short introduction
 ---
 
-![Me](/img/HeiningaVE.png "Me") { width: 20px; }
+![Me](/img/HeiningaVE.png "Me") { width: 10px; }
 
 OSF ID:	[osf.io/7n4qu](https://osf.io/7n4qu/)  
 ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
