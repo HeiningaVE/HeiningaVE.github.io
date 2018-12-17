@@ -86,7 +86,7 @@ Funded by the International Society for Research in Child and Adolescent Psychop
 
 # Academic activities 
 
-T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation (international conferences only)
+T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation. International conferences only.
 
 |      |                                                                         | T | S | P | O |
 |------|-------------------------------------------------------------------------|---|---|---|---|
