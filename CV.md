@@ -138,7 +138,7 @@ Reserve member of Educational Committee of the Master of Psychology: Theory and 
 KU Leuven - University of Leuven, Belgium
 
 # Education
-2013 – 2017		PhD student Psychiatry    
+2013 – 2017		PhD candidate Psychiatry    
 University Medical Center Groningen (UMCG)
 		
 2011 – 2013	 	Research Master Behavioural and Social Science    
