@@ -88,35 +88,34 @@ Funded by the International Society for Research in Child and Adolescent Psychop
 
 T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation (international conferences only); R=Research stays abroad
 
-|      |                                                                         | T | S | P | O | R |
-|------|-------------------------------------------------------------------------|---|---|---|---|---|
-| **2018** | Teacher *statistics 6*; last year Research Master students (supervised) | x |   |   |   |   |
-|      | 2nd Perspectives Scientific Error Workshop (*PSE2*), Groningen, NL      |   |   | x |   |   |
-|      | The Consortium of European Research on emotion (CERE); Glasgow          |   |   | x |   |   |
-|      | Belgian-Dutch expert network meeting on ESM and mental health, Heerlen, NL |   |   | x |   |   |
-|      | 7th International Research Meeting in Leuven, Belgium        	         |   |   | x |   |   |
-|      |                                                                         |   |   |   |   |   |
-| **2017** | Society Ambulatory Assessment (SAA) conference; Luxembourg  	         |   | x | x | x |   |
-|      | Guest lecture Social studies, Hanze Hogeschool; NL	                 | x |   |   |   |   |
-|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); NL	  |   |   | x |   |   |
-|      |                                                                         |   |   |   |   |   |
-| **2016** | Research Found21ation-Flanders (FWO) conference; Leuven, Belgium        |   | x |   |   |   |
-|      | Life History Research Society (LHRS) Meeting; NL                        |   |   | x |   |   |
-|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); NL       |   |   | x |   |   |
-|      |                                                                         |   |   |   |   |   |
-| **2015** | Three week research stay at the lab of dr. Mezulis of Seattle Pacific University (SPU); Seattle, USA  |   |   |   |   | x |
-|      | International Dutch Neuroscientific Meeting (DNM); NL  		 |   |   |   | x |   |
-|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); USA      |   | x | x |   |   |
-|      | Guest lecture Nursing, Hanze Hogeschool; NL                             | x |   |   |   |   |
-|      | Research Foundation-Flanders (FWO) conference; Belgium                  |   |   |   | x |   |
-|      |                                                                         |   |   |   |   |   |
-| **2014** | Teacher Psychiatry Research; 3rd year Medical Students (supervised)     | x |   |   |   |   |
-|      |                                                                         |   |   |   |   |   |
-| **2013** | Gravitation program Consortium on Individual Development (CID); NL      |   |   | x |   |   |
-|      | Teaching assistant Statistics 1B, first year psychology students        | x |   |   |   |   |
-|      |                                                                         |   |   |   |   |   |
-| **2012** | Teaching assistant Statistics 1A, first year psychology students        | x |   |   |   |   |
-|      |                                                                         |   |   |   |   |   |
+|      |                                                                         | T | S | P | O |
+|------|-------------------------------------------------------------------------|---|---|---|---|
+| **2018** | Teacher *statistics 6*; last year Research Master students (supervised) | x |   |   |   |
+|      | 2nd Perspectives Scientific Error Workshop (*PSE2*), Groningen, NL      |   |   | x |   |
+|      | The Consortium of European Research on emotion (CERE); Glasgow          |   |   | x |   |
+|      | Belgian-Dutch expert network meeting on ESM and mental health, Heerlen, NL |   |   | x |   |
+|      | 7th International Research Meeting in Leuven, Belgium        	         |   |   | x |   |
+|      |                                                                         |   |   |   |   |
+| **2017** | Society Ambulatory Assessment (SAA) conference; Luxembourg  	         |   | x | x | x |
+|      | Guest lecture Social studies, Hanze Hogeschool; NL	                 | x |   |   |   |
+|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); NL	  |   |   | x |   |
+|      |                                                                         |   |   |   |   |
+| **2016** | Research Found21ation-Flanders (FWO) conference; Leuven, Belgium        |   | x |   |   |
+|      | Life History Research Society (LHRS) Meeting; NL                        |   |   | x |   |
+|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); NL       |   |   | x |   |
+|      |                                                                         |   |   |   |   |
+|**2015**| International Dutch Neuroscientific Meeting (DNM); NL  		 |   |   |   | x |
+|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); USA      |   | x | x |   |
+|      | Guest lecture Nursing, Hanze Hogeschool; NL                             | x |   |   |   |
+|      | Research Foundation-Flanders (FWO) conference; Belgium                  |   |   |   | x |
+|      |                                                                         |   |   |   |   |
+| **2014** | Teacher Psychiatry Research; 3rd year Medical Students (supervised)     | x |   |   |   |
+|      |                                                                         |   |   |   |   |
+| **2013** | Gravitation program Consortium on Individual Development (CID); NL      |   |   | x |   |
+|      | Teaching assistant Statistics 1B, first year psychology students        | x |   |   |   |
+|      |                                                                         |   |   |   |   |
+| **2012** | Teaching assistant Statistics 1A, first year psychology students        | x |   |   |   |
+|      |                                                                         |   |   |   |   |
 
  
 # Peer-review activities for academic journals
