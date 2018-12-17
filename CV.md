@@ -4,7 +4,9 @@ title: CV
 subtitle: Curriculum vitae
 ---
 
-Research Fellow, OE Methoden-Verschillen-Affect-Gedrag, University of Leuven, Jan 2019 - Sep 2020
+# Current positions
+* Interdisciplinary postdoc, Faculty of Behavioural and Social Sciences, University of Groningen,  Jan 2019 - Jan 2021
+* Research Fellow, OE Methoden-Verschillen-Affect-Gedrag, University of Leuven, Jan 2018 - Sep 2020
 
 # Publications 
 
