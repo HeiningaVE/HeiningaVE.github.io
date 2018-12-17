@@ -14,10 +14,9 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 
 ### Research interests/ Expertise:
 
-- Mood and mood disorders in daily life
-- Temporal dynamics of positive emotion
-- Anhedonia (pleasure loss)
-
+- Deficits, distress, and disorders in daily life
+- Experience Sampling Methods (ESM)
+- Depression, and in particular the core symptom anhedonia (pleasure loss)
 
 Currently, I am a postdoctoral research fellow in the at the University of Leuven, Belgium. As part of the research group Quantitative Psychology and Individual Differences, I investigate anhedonia. Anhedonia is the loss of pleasure or interest in things that were previously found pleasurable, and a not yet fully understood core symptom of Major Depressive Disorder (MDD).
 
