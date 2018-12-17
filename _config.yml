@@ -28,8 +28,9 @@ navbar-links:
   CV: "CV"
   No Fun, No Glory: "NFNG"
   Resources:
+    - University page Netherlands: "https://www.rug.nl/staff/v.e.heininga/"
+    - University page Belgium: "https://www.kuleuven.be/wieiswie/en/person/00120263"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
