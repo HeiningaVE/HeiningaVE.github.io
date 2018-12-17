@@ -4,7 +4,7 @@ title: About me
 subtitle: A short introduction
 ---
 
-![alt text](/img/Heininga.png "Logo Title Text 1")
+![Me](/img/Heininga.png "Me")
 
 OSF ID:	[osf.io/7n4qu](https://osf.io/7n4qu/)  
 ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
