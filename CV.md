@@ -5,8 +5,8 @@ subtitle: Curriculum vitae
 ---
 
 # Current positions
-* Interdisciplinary postdoc, Faculty of Behavioural and Social Sciences, University of Groningen,  Jan 2019 - Jan 2021
-* Research Fellow, OE Methoden-Verschillen-Affect-Gedrag, University of Leuven, Jan 2018 - Sep 2020
+* Interdisciplinary postdoc on Deficits, Distress, and Disorders, University of Groningen
+* Postdoc, Quantitative Psychology and Individual Differences, University of Leuven
 
 # Publications 
 
