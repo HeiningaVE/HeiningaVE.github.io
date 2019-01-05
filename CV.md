@@ -40,7 +40,7 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehink
 
 ### PhD Thesis
 
-**Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective [Groningen]: University of Groningen. http://hdl.handle.net/11370/809469ab-4c9b-468b-a9b1-be97af42b493
+**Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective [Groningen]: [University of Groningen.](http://hdl.handle.net/11370/809469ab-4c9b-468b-a9b1-be97af42b493)
 
 # Scientific awards and nominations
 
@@ -124,6 +124,9 @@ T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation. International 
 - Psychological Bulletin
 
 # Membership board councils and committees
+Jan 2019 - present     
+Network of Young Enthusiastic Social Scientists - Behavioural and Social Sciences.
+University of Groningen
 
 Sept 2018 - present     
 Council of the Faculty of Psychology and Educational Sciences    
