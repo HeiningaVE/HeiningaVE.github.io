@@ -44,6 +44,10 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehink
 
 # Scientific awards and nominations
 
+#### Pre registration challenge award
+12-2018; €1.000,-   
+The Preregistration Challenge was an education campaign supported by the Laura and John Arnold Foundation. The campaign included $1000 prizes for researchers who published the results of preregistered work. 
+
 #### Post Doctoral Mandate
 03-2017; €32.350,-  
 One year postdoctoral scholarships provided by the KU Leuven Internal Funds. The Internal Funds are divided to researchers on the basis of competition. 
