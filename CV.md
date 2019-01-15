@@ -5,8 +5,11 @@ subtitle: Curriculum vitae
 ---
 
 # Current positions
+
 * Interdisciplinary postdoctoral researcher with a focus on Deficits, Distress, and Disorders, University of Groningen
-* Postdoc, Quantitative Psychology and Individual Differences, University of Leuven
+
+* Postdoctoral researcher, Quantitative Psychology and Individual Differences, University of Leuven
+
 
 # Publications 
 
