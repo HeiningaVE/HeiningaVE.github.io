@@ -9,6 +9,12 @@ subtitle: A short introduction
 OSF ID:	[osf.io/7n4qu](https://osf.io/7n4qu/)  
 ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 
+### Research interests/ Expertise:
+
+- Depression
+- Anhedonia (decreased ability to experience pleasure)
+- Reward deficits
+
 Between 2013 and 2017, Vera was part of the ‘No Fun No Glory’ research team investigating anhedonia. Anhedonia is derived from the Greek words “An” and “hedone”, literally meaning without pleasure. Whereas sad mood is the most prototypical (and arguably more often studied) symptom of MDD, we know comparably little about anhedonia, and how it can be remedied. 
 Together with ‘No Fun No Glory’ research team, she successfully 1) collected survey data among nearly 3000 late adolescents; 2) set out Ecological Momentary Assessment study (EMA) in which we sampled subjective experiences for multiple times a day for multiple days, and 3) developed an EMA-based intervention.
 
@@ -23,10 +29,6 @@ The societal potential of her work is evidenced by the large media coverage (e.g
 Vera is currently an interdisciplinary postdoc with a focus on Deficits, Distress, and Disorders in daily life. In her work, she aims for robust and reproducible research (e.g., by using R Markdown), and tries to be as transparent as she can be by publishing in open access journals, pre-registering her analyses apriori, and making her data and annotated syntaxes publicly available.
 
 
-### Research interests/ Expertise:
-
-- Depression
-- Anhedonia (decreased ability to experience pleasure)
-- Reward deficits
+### More info
 
 For more information on what Vera does or has been doing, please see [her recent projects](https://heiningave.github.io/projects/), or [her full Curriculum Vitae](https://heiningave.github.io/CV/).
