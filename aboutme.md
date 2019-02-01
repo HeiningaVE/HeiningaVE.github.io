@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Vera
-subtitle: A short introduction
+subtitle: A not-so-short introduction
 ---
 
 ![Me](/img/HeiningaVE_mini.png "Gosh - hate pictures, but also hate it when people have no pictures at all")
