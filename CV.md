@@ -10,12 +10,11 @@ subtitle: Curriculum vitae
 
 * Postdoctoral researcher, Quantitative Psychology and Individual Differences, University of Leuven
 
-
-# Publications 
-
+# Preregistrations
 **Heininga V.E.**, Dejonckheere E., Houben M., Kuppens P. (2018) Sociomarkers of anhedonia in Major Depressive Disorder. Preregistration DOI: https://osf.io/zbekw.
 
-**Heininga V.E.**, Dejonckheere E., Houben M., Obbels J., Sienaert P., Leroy, B., Van Roy J., Kuppens P. (2018) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. Preprint DOI: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/); Data and materials: [osf.io/8gxrw](https://osf.io/8gxrw); DOI: 10.1186/s12888-018-1983-5
+# Publications 
+**Heininga V.E.**, Dejonckheere E., Houben M., Obbels J., Sienaert P., Leroy, B., Van Roy J., Kuppens P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. Preprint DOI: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/); Data and materials: [osf.io/8gxrw](https://osf.io/8gxrw); DOI: 10.1186/s12888-018-1983-5
 
 Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, http://psycnet.apa.org/doiLanding?doi=10.1037%2Femo0000424; Preprint DOI: [10.31234/osf.io/tdnws](https://psyarxiv.com/tdnws/)
 
