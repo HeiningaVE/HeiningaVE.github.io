@@ -99,6 +99,7 @@ T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation. International 
 
 |      |                                                                         | T | S | P | O |
 |------|-------------------------------------------------------------------------|---|---|---|---|
+| **2019** | Winter School on Interdisciplinary Behavioural & Social Science |  |   |   |   |
 | **2018** | Teacher *statistics 6*; last year Research Master students (supervised) | x |   |   |   |
 |      | 2nd Perspectives Scientific Error Workshop (*PSE2*), Groningen, NL      |   |   | x |   |
 |      | The Consortium of European Research on emotion (CERE); Glasgow          |   |   | x |   |
