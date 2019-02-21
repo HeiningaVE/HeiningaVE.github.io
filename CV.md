@@ -88,6 +88,17 @@ The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to these
 Three week visit to United States of America (USA)  	 
 Funded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP) Travel Scholarship – affiliated with Journal of Abnormal Child Psychology, to visit the lab of associate professor Dr. Mezulis in Seattle, USA for a four week research stay. We had a very successful collaboration that led to a publication in Journal of Affective Disorders (JAD; CiteScore of 3.84; 12th best journal in the category of clinical psychology). 
 
+# Teaching experience
+- Teacher Statistics 6 last year Research Master students (supervised)  
+- Guest lecture Social studies, Hanze Hogeschool; NL  
+- Guest lecture Nursing, Hanze Hogeschool, The Netherlands 
+- Teacher Psychiatry Research; 3rd year Medical Students (supervised)  
+- Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands  
+- Teaching assistent Statistics 1A, University of Groningen (RUG), The Netherlands  
+
+# Supervision
+- 6 master students (master theses)
+
 # Academic activities 
 
 T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation. International conferences only.
