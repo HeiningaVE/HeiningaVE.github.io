@@ -83,8 +83,6 @@ Runner up for Hannie Schaft award, which isawarded every two years to students w
 The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to theses that promote academic initiatives to improve social   work. My thesis involved a theoretical and practical integration of Forensic Social Network Analysis (FSNA) into social work practice.
 
 # Research stays abroad 
-- Lab visit Fribourg University, Switzerland  
-
 - Lab visit Seattle Pacific University, United States of America (USA)  	 
 Funded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP) Travel Scholarship – affiliated with Journal of Abnormal Child Psychology, to visit the lab of associate professor Dr. Mezulis in Seattle, USA for a four week research stay. We had a very successful collaboration that led to a publication in Journal of Affective Disorders (JAD; CiteScore of 3.84; 12th best journal in the category of clinical psychology). 
 
