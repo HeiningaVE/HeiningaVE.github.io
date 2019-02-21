@@ -84,10 +84,6 @@ The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to these
 
 # Research stays abroad 
 
-2018  
-One year visit to Belgium  
-Funded by the KNAW and the KU Leuven internal fund, I am currently visiting the KU Leuven for a one year research stay at the lab of prof Peter Kuppens. Here, I not only have a successful collaboration on anhedonia in MDD with Peter Kuppens, but also with prof Wolf Vanpamel and prof Francis Tuerlinckx.
-
 2015  
 Three week visit to United States of America (USA)  	 
 Funded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP) Travel Scholarship – affiliated with Journal of Abnormal Child Psychology, to visit the lab of associate professor Dr. Mezulis in Seattle, USA for a four week research stay. We had a very successful collaboration that led to a publication in Journal of Affective Disorders (JAD; CiteScore of 3.84; 12th best journal in the category of clinical psychology). 
