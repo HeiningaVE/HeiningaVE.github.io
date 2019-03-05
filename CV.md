@@ -139,18 +139,22 @@ T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation. International 
 
 # Membership board councils and committees
 Jan 2019 - present     
+Work stress reduction committee - Department of Developmental psychology.
+University of Groningen
+
+Jan 2019 - present     
 Network of Young Enthusiastic Social Scientists - Behavioural and Social Sciences.
 University of Groningen
 
-Sept 2018 - present     
+Sept 2018 - 2019   
 Council of the Faculty of Psychology and Educational Sciences    
 KU Leuven - University of Leuven, Belgium
 
-Sept 2018 - present    
+Sept 2018 - 2019    
 Reserve ABAP representative of the Research group quantitative psychology and individual differences    
 Faculty of psychology and educational sciences, KU Leuven - University of Leuven, Belgium 
 
-Sept 2018 - present    
+Sept 2018 - 2019  
 Reserve member of Educational Committee of the Master of Psychology: Theory and Research
 KU Leuven - University of Leuven, Belgium
 
