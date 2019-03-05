@@ -139,11 +139,11 @@ T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation. International 
 
 # Membership board councils and committees
 Jan 2019 - present     
-Work stress reduction committee - Department of Developmental psychology.
+Work stress reduction committee - Department of Developmental psychology.  
 University of Groningen
 
 Jan 2019 - present     
-Network of Young Enthusiastic Social Scientists - Behavioural and Social Sciences.
+Network of Young Enthusiastic Social Scientists - Behavioural and Social Sciences.  
 University of Groningen
 
 Sept 2018 - 2019   
