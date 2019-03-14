@@ -138,6 +138,9 @@ T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation. International 
 - Psychological Bulletin
 
 # Membership board councils and committees
+March 2019 - present
+University of Groningen Open Access Ambassador (OAA)
+
 Jan 2019 - present     
 Work stress reduction committee - Department of Developmental psychology.  
 University of Groningen
