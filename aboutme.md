@@ -9,11 +9,15 @@ subtitle: A not-so-short introduction
 OSF ID:	[osf.io/7n4qu](https://osf.io/7n4qu/)  
 ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 
-### Research interests/ Expertise:
+### Research interests/ Expertise
 
 - Depression
 - Anhedonia (decreased ability to experience pleasure)
 - Reward deficits
+
+My primary research interest is anhedonia. Anhedonia is the loss of pleasure or interest in things that were previously found pleasurable, and a not yet fully understood core symptom of Major Depressive Disorder (MDD).
+
+### Carreer path
 
 Between 2013 and 2017, I was part of a biopsychosocial study into anhedonia. The word anhedonia is derived from the Greek words “An” and “hedone”, literally meaning without pleasure. Whereas sad mood is the most prototypical (and arguably more often studied) symptom of a Major Depressive Disorder (MDD), we know comparably little about anhedonia, and how it can be remedied. Depression has a high prevalence rate, and the burden that depressive disorders place on society is large. However, depression is also a very heterogeneous disorder that is hard to treat. It may well be that treatment efectiveness of depression can be improved by targeting its core symptoms instead of its syndrome. Together with the ‘No Fun No Glory’ research team, I collected survey data among nearly 3000 young adults; set out Ecological Momentary Assessment study (EMA) in which we sampled subjective experiences for multiple times a day for multiple days; and developed an EMA-based intervention.
 
@@ -25,7 +29,7 @@ Whereas in our intervention we focused on the mean levels of pleasure, tn my Ph.
 
 My Ph.D. work has been awarded several grants, awards, and travel bursaries, allowing me to gain international experience in the United States and Belgium. Whereas my first collaborative work on positive emotion dynamics in anhedonia was sparked during my research stay at the Seattle Pacific University in the United States, my KNAW Academy Ter Meulen Grant and the Post Doctoral Mandate of the KU Leuven internal fund allowed me to continue this line of research at the University of Leuven in the lab of professor Kuppens, a world-leading expert in emotion dynamics. So far my publications can be found in top 10% journals, and are cited by high-impact journal articles for which authors have to make a strict selection of their references such as Nature Reviews Neuroscience, and Nature Human Behaviour.
 
-Currently, I further investigate anhedonia using a interdiscplinary approach, as an interdisciplinary postdoc with a focus on Deficits, Distress, and Disorders in daily life at the University of Groningen. I am an advocate for open science, meaning that I do my research as transparent as I can be by pre-registering my analyses apriori, using reproducible tools (e.g., by using R Markdown), publishing in open access journals, and making my data and annotated syntaxes publicly available. I am also an ambassador for Open Access of the University of Groningen and University Medical Centre Groningen, which means that I stimulate and enable the implementation of open access in my faculty.
+Currently, I further investigate anhedonia using a interdiscplinary approach, as an interdisciplinary postdoc with a focus on Deficits, Distress, and Disorders in daily life at the University of Groningen. I am an advocate for open science, meaning that I: love research transparency; pre-register my confirmatory analyses apriori (e.g., on [OSF](https://osf.io/)); use reproducible tools (e.g., [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html); publish in [Open Access journals](https://doaj.org); make my data and annotated syntaxes publicly available (e.g., via [Code Ocean](https://codeocean.com). I am also an [ambassador for Open Access](https://libguides.rug.nl/umcg/openaccess/home) of the University of Groningen and University Medical Centre Groningen, which means that I stimulate and enable the implementation of open access in my faculty.
 
 
 ### More info
