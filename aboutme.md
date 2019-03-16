@@ -35,7 +35,7 @@ With a background in Social work, Psychology, Sociology, and Psychiatry, I am an
 
 ### Advocate of Open Science
 
-Finally, I am an advocate for [Open Science](https://www.fosteropenscience.eu/foster-taxonomy/open-science), meaning that I: love research transparency; pre-register my confirmatory analyses apriori (e.g., on [OSF](https://osf.io/)); use reproducible tools (e.g., [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html); publish in [Open Access journals](https://doaj.org); make my data and annotated syntaxes publicly available (e.g., via [Code Ocean](https://codeocean.com). I am also an [ambassador for Open Access](https://libguides.rug.nl/umcg/openaccess/home) of the University of Groningen and University Medical Centre Groningen, which means that I stimulate and enable the implementation of open access in my faculty.
+Finally, I am an advocate for [Open Science](https://www.fosteropenscience.eu/foster-taxonomy/open-science), meaning that I: love research transparency; pre-register my confirmatory analyses apriori (e.g., on [OSF](https://osf.io/)); use Open Workflow Tools (e.g., [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html); publish in [Open Access journals](https://doaj.org); make my data and annotated syntaxes publicly available (e.g., via [Code Ocean](https://codeocean.com). I am also an [ambassador for Open Access](https://libguides.rug.nl/umcg/openaccess/home) of the University of Groningen and University Medical Centre Groningen, which means that I stimulate and enable the implementation of open access in my faculty.
 
 
 ### More info
