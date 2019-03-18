@@ -161,6 +161,11 @@ Sept 2018 - 2019
 Reserve member of Educational Committee of the Master of Psychology: Theory and Research
 KU Leuven - University of Leuven, Belgium
 
+# Membership of networks
+
+2018 - present Society Ambulatory Assessment (SAA)
+2018 - present Society for the Improvement of Psychological Science (SIPS)
+
 # Education
 2013 – 2017		PhD candidate Psychiatry    
 University Medical Center Groningen (UMCG)
