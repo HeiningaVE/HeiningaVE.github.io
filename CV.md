@@ -150,15 +150,15 @@ Network of Young Enthusiastic Social Scientists - Behavioural and Social Science
 University of Groningen
 
 Sept 2018 - 2019   
-Council of the Faculty of Psychology and Educational Sciences    
+Member (as representative of the academic staff (AAP-BAP-OP1-OP2)) of the Council of the Faculty of Psychology and Educational Sciences  
 KU Leuven - University of Leuven, Belgium
 
 Sept 2018 - 2019    
-Reserve ABAP representative of the Research group quantitative psychology and individual differences    
+Reserve representative of the academic staff of the Research group quantitative psychology and individual differences      
 Faculty of psychology and educational sciences, KU Leuven - University of Leuven, Belgium 
 
-Sept 2018 - 2019  
-Reserve member of Educational Committee of the Master of Psychology: Theory and Research
+Sept 2018 - 2019 
+Member of the Educational Committee Master of Psychology: Theory and Research  
 KU Leuven - University of Leuven, Belgium
 
 # Membership of networks
