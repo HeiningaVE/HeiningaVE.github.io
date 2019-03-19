@@ -31,8 +31,9 @@ Currently, I am an interdiscplinary postdoc within the faculty of Behavioural an
 
 ### Advocate of Open Science
 
-Finally, I am an advocate for [Open Science](https://www.fosteropenscience.eu/foster-taxonomy/open-science), meaning that I: love research transparency; pre-register my confirmatory analyses apriori (e.g., on [OSF](https://osf.io/)); use Open Workflow Tools (e.g., [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html)); publish in [Open Access journals](https://doaj.org); make my data and annotated syntaxes publicly available (e.g., via [Code Ocean](https://codeocean.com)). I am also an [ambassador for Open Access](https://libguides.rug.nl/umcg/openaccess/home) of the University of Groningen and University Medical Centre Groningen, which means that I stimulate and enable the implementation of open access in my faculty.
+I am a great fan of [Open Science](https://www.fosteropenscience.eu/foster-taxonomy/open-science), meaning that I: love research transparency; pre-register my confirmatory analyses apriori (e.g., on [OSF](https://osf.io/)); use Open Workflow Tools (e.g., [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html)); publish in [Open Access journals](https://doaj.org); make my data and annotated syntaxes publicly available (e.g., via [Code Ocean](https://codeocean.com)), and stimulate the implementation of open access publishing within my faculty.
 
+My interest in Open Science arose while writing a paper called [“I just ran a thousand analyses”](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0125383&type=printable). In this paper, we showed that their were 2160 ways to opterationalize one single hypothesis within one dataset, and argued that transparantly testing them all could be a novel approach to address inconsistencies in a field of research.  
 
 ### More info
 
