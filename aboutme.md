@@ -17,7 +17,7 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 
 My primary research interest is anhedonia. Anhedonia is the loss of pleasure or interest in things that were previously found pleasurable, and a not yet fully understood core symptom of Major Depressive Disorder (MDD).
 
-### Carreer path
+### Research into anhedonia
 
 Between 2013 and 2017, I was part of a biopsychosocial study into anhedonia. The word anhedonia is derived from the Greek words “An” and “hedone”, literally meaning without pleasure. Whereas sad mood is the most prototypical (and arguably more often studied) symptom of MDD, we know comparably little about anhedonia, and how it can be remedied. MDD has a high prevalence rate, and its burden on society is large. However, MDD is also a very heterogeneous disorder that is hard to treat. It may well be that MDD treatment efectiveness can be improved by targeting its core symptoms instead of its syndrome. Together with the ‘No Fun No Glory’ research team, I collected survey data among nearly 3000 young adults; set out Ecological Momentary Assessment study (EMA) in which we sampled subjective experiences for multiple times a day for multiple days; and developed an EMA-based intervention.
 
@@ -29,7 +29,7 @@ In my Ph.D. thesis entitled: “The happy, the sad, and the anhedonic”, I comp
 
 Currently, I am an interdiscplinary postdoc within the faculty of Behavioural and Social Sciences of the University of Groningen. My focal areas are Deficits, Distress, and Disorders. That is, I combine insights from among others, sociology, psychology, pedagogics, educational science, and psychometrics to investigate the causal mechanisms of psychopathological disorders, and their effects on everyday functioning.
 
-### Advocate of Open Science
+### Open Science Awesomeness
 
 I am a great fan of [Open Science](https://www.fosteropenscience.eu/foster-taxonomy/open-science), meaning that I: love research transparency; pre-register my confirmatory analyses apriori (e.g., on [OSF](https://osf.io/)); use Open Workflow Tools (e.g., [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html)); publish in [Open Access journals](https://doaj.org); make my data and annotated syntaxes publicly available (e.g., via [Code Ocean](https://codeocean.com)), and stimulate the implementation of open access publishing within my faculty.
 
