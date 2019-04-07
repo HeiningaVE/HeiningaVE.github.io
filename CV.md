@@ -133,9 +133,10 @@ T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation. International 
 
  
 # Peer-review activities for academic journals
-- PLoS ONE
-- Journal of Child Psychology and Psychiatry (JCPP)
-- Psychological Bulletin
+- PLoS ONE . 
+- Journal of Child Psychology and Psychiatry (JCPP) . 
+- Psychological Bulletin . 
+- Anxiety, Stress, & Coping . 
 
 # Membership board councils and committees
 March 2019 - present
