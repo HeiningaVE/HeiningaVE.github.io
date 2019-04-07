@@ -139,7 +139,7 @@ T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation. International 
 - Anxiety, Stress, & Coping . 
 
 # Membership board councils and committees
-March 2019 - present
+March 2019 - present  
 University of Groningen Open Access Ambassador (OAA)
 
 Jan 2019 - present     
