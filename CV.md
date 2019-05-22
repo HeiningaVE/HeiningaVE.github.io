@@ -4,37 +4,57 @@ title: CV
 subtitle: Curriculum vitae
 ---
 
-# Current positions
+![Me](/img/HeiningaVE_mini.png "Me")
+
+## Contact information  
+Faculty of Behavioural and Social Sciences  
+Developmental Psychology — Department Developmental Psychology  
+Grote Kruisstraat 2/1  
+9712 TS Groningen  
+The Netherlands
+
+OSF ID:	[osf.io/7n4qu](https://osf.io/7n4qu/)  
+ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
+
+## Current positions
 
 * Interdisciplinary postdoctoral researcher with a focus on Deficits, Distress, and Disorders, University of Groningen
 
-* Postdoctoral researcher, Quantitative Psychology and Individual Differences, University of Leuven
+* Postdoctoral research fellow, Quantitative Psychology and Individual Differences, University of Leuven
 
-# Preregistrations
-**Heininga V.E.**, Dejonckheere E., Houben M., Kuppens P. (2018) Sociomarkers of anhedonia in Major Depressive Disorder. Preregistration DOI: https://osf.io/zbekw.
+## Publications (ordered by impact*)
+**Heininga V.E.**, Dejonckheere E., Houben M., Obbels J., Sienaert P., Leroy, B., Van Roy J., Kuppens P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. DOI: 10.1186/s12888-018-1983-5. **_Preprint DOI_**: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/); **_Data and materials_**: [osf.io/8gxrw](https://osf.io/8gxrw)  
 
-# Publications 
-**Heininga V.E.**, Dejonckheere E., Houben M., Obbels J., Sienaert P., Leroy, B., Van Roy J., Kuppens P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. Preprint DOI: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/); Data and materials: [osf.io/8gxrw](https://osf.io/8gxrw); DOI: 10.1186/s12888-018-1983-5
+**Heininga V.E.**, Oldehinkel A., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. *PLoS One*, 10 (5), 0-0. https://doi.org/10.1371/journal.pone.0125383; **_Data and materials_**: [Supporting information of the article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125383#sec026)
 
-Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, http://psycnet.apa.org/doiLanding?doi=10.1037%2Femo0000424; Preprint DOI: [10.31234/osf.io/tdnws](https://psyarxiv.com/tdnws/)
-
-**Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. PLoS ONE 12(10): e0180753. https://doi.org/10.1371/journal.pone.0180753; Data and materials DOI: [10.17605/OSF.IO/WDZS6](https://osf.io/wdzs6/)
-
-**Heininga V.E.**, van Roekel E., Ahles J., Oldehinkel A., Mezulis A. (2017). Positive affective functioning in anhedonic individuals' daily life Anything but flat and blunted. *Journal of Affective Disorders*, 218, 437-445, https://doi.org/10.1016/j.jad.2017.04.029; Data and materials: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/)
-
-van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. *Behavior Therapy*, 48 (1), 76-96. https://doi.org/10.1016/j.beth.2016.09.009; Preprint DOI: [10.1186/s12888-016-0880-z](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-0880-z); Data and materials: [https://osf.io/k7rfu/](https://osf.io/k7rfu/)
+Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, http://psycnet.apa.org/doiLanding?doi=10.1037%2Femo0000424; **_Preprint DOI_**: [10.31234/osf.io/tdnws](https://psyarxiv.com/tdnws/)
 
 van Roekel E., Masselink M., Vrijen C., **Heininga V.E.**, Bak T., Nederhof E., Oldehinkel A. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. *BMC Psychiatry*, 16 (182), 0-0.
 
+van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. *Behavior Therapy*, 48 (1), 76-96. https://doi.org/10.1016/j.beth.2016.09.009; **_Preprint DOI_**: [10.1186/s12888-016-0880-z](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-0880-z); **_Data and materials_**: [https://osf.io/k7rfu/](https://osf.io/k7rfu/)
+
+**Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. PLoS ONE 12(10): e0180753. https://doi.org/10.1371/journal.pone.0180753; **_Data and materials DOI_**: [10.17605/OSF.IO/WDZS6](https://osf.io/wdzs6/)
+
+**Heininga V.E.**, van Roekel E., Ahles J., Oldehinkel A., Mezulis A. (2017). Positive affective functioning in anhedonic individuals' daily life Anything but flat and blunted. *Journal of Affective Disorders*, 218, 437-445, https://doi.org/10.1016/j.jad.2017.04.029; **_Data and materials_**: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/)
+
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0.
 
-**Heininga V.E.**, Oldehinkel A., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. *PLoS One*, 10 (5), 0-0. https://doi.org/10.1371/journal.pone.0125383; Data and materials: [Supporting information of the article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125383#sec026)
+* Altmetrics data is provided by Altmetric.com, a research metrics company who track and collect the online conversations around millions of scholarly outputs. Altmetric continually monitors a variety of non-traditional [sources](https://www.altmetric.com/about-altmetrics/our-sources/) to provide real-time updates on new mentions and shares of individual research outputs, which are collated and presented to users via the Altmetric [details pages](https://www.altmetric.com/about-altmetrics/altmetric-details-page/) and [badge visualisations](https://www.altmetric.com/products/altmetric-badges/). Each research output that Altmetric finds attention for is also given a score; a weighted count of the online attention it has received. Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
+
+Altmetric Attention Score is a new way to measure impact that includes Likes, Tweets, and Shares. The score is compared to outputs of the same age, yielding a percentile. Dimensions citation data joins mentions from sources such as the mainstream media, patents and policy makers on Altmetric details pages, which provide a complete record of all of the online mentions found for an item.  
+
+Of all my publications, 50% of your research is free to read online. According to ImpactStory (i.e., total-impact.org), this level of availability puts me in the top 26% of researchers. Moreover, 41% of my papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). This important because Open Science is critical to accelerating the way we discover knowledge, and research funders are able to more quickly and efficiently maximize their return on investment.
+
+
+### Under review
+**Heininga V.E.**, Dejonckheere E., Houben M., Kuppens P. (_Clinical Psychological Science_) Sociomarkers of anhedonia in Major Depressive Disorder. **_Preregistration DOI_**: https://osf.io/zbekw. **_Preprint DOI_**: https://psyarxiv.com/t2j7p
 
 ### Articles in other professionally oriented books
 	
 **Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , *GGzet Wetenschappelijk*, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
 
 Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: *GGzet Wetenschappelijk*, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
+
 
 ### Meeting abstracts
 
@@ -44,7 +64,7 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehink
 
 **Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective [Groningen]: [University of Groningen.](http://hdl.handle.net/11370/809469ab-4c9b-468b-a9b1-be97af42b493)
 
-# Scientific awards and nominations
+## Scientific awards and nominations
 
 #### Pre registration challenge award
 12-2018; €1.000,-   
