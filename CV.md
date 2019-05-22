@@ -234,7 +234,7 @@ Hanze University of Applied Sciences
 
 09-12-2017, [People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch)](https://neurosciencenews.com/ahedonia-pleasure-8150/) (Neuroscience news)
 
-22-05-2017, [Masterclass John Ioannidis](https://www.nrin.nl/news/masterclass-john-ioannidis/) (The Netherlands Research Integrity Network News)
+22-05-2017, [The Netherlands Research Integrity Network News](https://www.nrin.nl/news/masterclass-john-ioannidis/)
 
 2018, Ziekten.nl, [Wetenschappelijk nieuws](https://www.ziekten.nl/mensen-met-anhedonie-ervaren-ook-plezier/)
 
