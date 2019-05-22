@@ -32,10 +32,10 @@ Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J.
 van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [https://doi.org/10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z)  
 **Top 10%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 13 (91st percentile)
 
-van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. *Behavior Therapy*, 48 (1), 76-96. DOI: https://doi.org/10.1016/j.beth.2016.09.009; **_Preprint DOI_**: [10.1186/s12888-016-0880-z](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-0880-z); **_Data and materials_**: [https://osf.io/k7rfu/](https://osf.io/k7rfu/)  
+van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. *Behavior Therapy*, 48 (1), 76-96. DOI: https://doi.org/10.1016/j.beth.2016.09.009; **_Preprint DOI_**: [10.1186/s12888-016-0880-z](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-0880-z); **_Data and materials_**: [https://osf.io/k7rfu/](https://osf.io/k7rfu/)  
 **Top 15%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 9 (86th percentile)
 
-**Heininga V.E.**, Oldehinkel A., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. *PLoS One*, 10 (5), 0-0. DOI: https://doi.org/10.1371/journal.pone.0125383; **_Data and materials_**: [Supporting information of the article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125383#sec026)  
+**Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. *PLoS One*, 10 (5), 0-0. DOI: https://doi.org/10.1371/journal.pone.0125383; **_Data and materials_**: [Supporting information of the article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125383#sec026)  
 **Top 20%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 8 (84th percentile)
 
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. PLoS ONE 12(10): e0180753. DOI: https://doi.org/10.1371/journal.pone.0180753; **_Data and materials DOI_**: [10.17605/OSF.IO/WDZS6](https://osf.io/wdzs6/)  
@@ -56,13 +56,18 @@ Altmetric Attention Score: 1 (1st percentile)
 ## Under review
 **Heininga V.E.**, Dejonckheere E., Houben M., Kuppens P. (_Clinical Psychological Science_) Sociomarkers of anhedonia in Major Depressive Disorder. **_Preregistration DOI_**: https://osf.io/zbekw. **_Preprint DOI_**: [10.31234/osf.io/t2j7p](https://psyarxiv.com/t2j7p)
 
+**Heininga V.E.**, van Roekel E., Vrijen C., Masselink M., Oldehinkel A.J. (_InMind_) Emotions, depression, and (loss of) pleasure in daily life [translated from Dutch].
+
 
 ## Work in prepration
-**Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (in preparation) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same?  
+**Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (in preparation) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion.  
 
-**Heininga, V. E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling.  
+**Heininga, V. E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.  
 
-**Heininga, V.E.**, de Jonge, P. (in preparation) Psychosocial well-being across adulthood.  
+**Heininga, V. E.**, van Roekel, E., & Oldehinkel, A. J. (in preparation) Loss of pleasure in daily life [translated from Dutch]. In preparation for submission in De Psycholoog.
+
+**Heininga, V.E.**, de Jonge, P. (in preparation) Psychosocial well-being across adulthood. In preparation for submission in Developmental Psychology.  
+
 
 
 ### Other academic output
@@ -115,10 +120,10 @@ Selected by the Netherlands Research Integrity Network as one of the 9 excellent
 08-2013; Runner up   
 The Hannie Schaft award is awarded every two years to students who have written a final paper which speaks of social engagement.
 
-# Research stays abroad 
+## Research stays abroad 
 - Four week visit to the lab of professor Dr. Mezulis at Seattle Pacific University, **United States of America (USA)**. 
 
-# Teaching an supervision
+## Teaching an supervision
 - Teacher Statistics 6 last year Research Master students
 - Teacher Psychiatry Research; 3rd year Medical Students
 - supervised 6 master students (master theses)
@@ -127,9 +132,13 @@ The Hannie Schaft award is awarded every two years to students who have written 
 - Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands  
 - Teaching assistent Statistics 1A, University of Groningen (RUG), The Netherlands  
 
-# Academic activities 
+## Academic activities 
 
-T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation. International conferences only.
+* Co-founder the Open Science Community Groningen   
+* Coordinator of a national crowdsourcing project  
+* Organizer of interdiscplinary events  
+
+T=Teaching; S=Organized Symposium; P=Poster; and O=Oral presentation. International conferences only.
 
 |      |                                                                         | T | S | P | O |
 |------|-------------------------------------------------------------------------|---|---|---|---|
@@ -162,26 +171,31 @@ T=Teaching; S=Organized Symposium; P=Poster; O=Oral presentation. International 
 |      |                                                                         |   |   |   |   |
 
  
-# Peer-review activities for academic journals
+## Peer-review activities for academic journals
 - PLoS ONE 
 - Journal of Child Psychology and Psychiatry (JCPP) 
 - Psychological Bulletin  
 - Anxiety, Stress, & Coping 
 
-# Membership board councils and committees
+## Membership board councils and committees
+April 2019 - Present  
+Board Member of the Open Science Community Groningen  
+University of Groningen  
+
 March 2019 - present  
-University of Groningen Open Access Ambassador (OAA)
+Open Access Ambassador   
+University of Groningen 
 
 Jan 2019 - present     
 Work stress reduction committee - Department of Developmental psychology.  
 University of Groningen
 
 Jan 2019 - present     
-Network of Young Enthusiastic Social Scientists - Behavioural and Social Sciences.  
+Member of the Network of Young Enthusiastic Social Scientists - Behavioural and Social Sciences (YESS-BSS), which is a collaboration with members of the Young Academy Groningen (The Royal Netherlands Academy of Arts and Sciences - KNAW in Dutch).
 University of Groningen
 
 Sept 2018 - 2019   
-Member (as representative of the academic staff (AAP-BAP-OP1-OP2)) of the Council of the Faculty of Psychology and Educational Sciences  
+Member of the Council of the Faculty of Psychology and Educational Sciences, as representative of the academic staff (AAP-BAP-OP1-OP2).  
 KU Leuven - University of Leuven, Belgium
 
 Sept 2018 - 2019    
@@ -192,12 +206,12 @@ Sept 2018 - 2019
 Member of the Educational Committee Master of Psychology: Theory and Research  
 KU Leuven - University of Leuven, Belgium
 
-# Membership of networks
+## Membership of networks
 
 2018 - present Society Ambulatory Assessment (SAA)
 2018 - present Society for the Improvement of Psychological Science (SIPS)
 
-# Education
+## Education
 2013 – 2017		PhD candidate Psychiatry    
 University Medical Center Groningen (UMCG)
 		
@@ -214,7 +228,7 @@ University of Groningen (RUG)
 2006 – 2010		BSc Social Work     
 Hanze University of Applied Sciences
 
-# Valorization
+## Valorization
 #### Media appearances of my research (first authored)
 04-12-2017, People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch) (NWO)
 
@@ -241,12 +255,12 @@ Hanze University of Applied Sciences
 
 06-02-2013, Weer plezier door een bungeejump (KennisInZicht)
 
-# Language skills
-* English
-* Dutch
-* Swiss-German
+## Language proficiencies
+* English: Full professional proficiency
+* Dutch: Native or bilingual proficiency
+* Swiss-German: Native or bilingual proficiency
 
-# Programming skills
+## Programming experience
 * LaTeX
 * SPSS
 * Mplus
