@@ -4,11 +4,6 @@ title: About Me
 subtitle: A not-so-short introduction
 ---
 
-![Me](/img/HeiningaVE_mini.png "Gosh - hate pictures, but also hate it when people have no pictures at all")
-
-OSF ID:	[osf.io/7n4qu](https://osf.io/7n4qu/)  
-ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
-
 ### Research interests/ Expertise
 
 - Depression
