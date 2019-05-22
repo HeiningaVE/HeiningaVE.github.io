@@ -82,7 +82,8 @@ Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het 
 
 
 
-## Scientific awards and nominations (ordered on size; total: ± €57.000,-)
+## Scientific awards and nominations 
+### ordered by size; total amount = €57.000,-
 
 #### Post Doctoral Mandate (personal grant)
 03-2017; **_€32.350,-_**
@@ -208,7 +209,7 @@ KU Leuven - University of Leuven, Belgium
 
 ## Membership of networks
 
-2018 - present Society Ambulatory Assessment (SAA)
+2018 - present Society Ambulatory Assessment (SAA)  
 2018 - present Society for the Improvement of Psychological Science (SIPS)
 
 ## Education
