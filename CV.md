@@ -83,7 +83,7 @@ Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het 
 
 
 ## Scientific awards and nominations 
-### ordered by size; total amount = €57.000,-
+### Ordered by size; total amount approximately €57.000,-
 
 #### Post Doctoral Mandate (personal grant)
 03-2017; **_€32.350,-_**
