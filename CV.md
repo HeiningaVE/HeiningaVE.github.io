@@ -6,11 +6,11 @@ subtitle: Curriculum vitae
 
 ![Me](/img/HeiningaVE_mini.png "Me")
 
-## Contact information  
+## Contact information 
+Dr. Vera E. Heininga  
 Faculty of Behavioural and Social Sciences  
 Developmental Psychology — Department Developmental Psychology  
-Grote Kruisstraat 2/1  
-9712 TS Groningen  
+Grote Kruisstraat 2/1, 9712 TS Groningen  
 The Netherlands
 
 OSF ID:	[osf.io/7n4qu](https://osf.io/7n4qu/)  
