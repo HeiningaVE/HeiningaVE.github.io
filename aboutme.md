@@ -6,8 +6,8 @@ subtitle: A not-so-short introduction
 
 ### Research interests/ Expertise
 
-- Pleasure
-- Well-being
+- Positive emotions
+- Psychosocial well-being
 - Anhedonia (decreased ability to experience pleasure)
 
 My primary research interest is anhedonia. Anhedonia is the loss of pleasure or interest in things that were previously found pleasurable, and a not yet fully understood core symptom of Major Depressive Disorder (MDD).
