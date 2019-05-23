@@ -70,9 +70,9 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 
 **Heininga, V.E.**, de Jonge, P. (in preparation) Psychosocial well-being across adulthood. In preparation for submission in Developmental Psychology.  
 
-Cohen-Woods, S., (...), **Heininga, V.E.**, (...) (in preparation) Meta-analysis childhood trauma by immunogetic SNPs on depression.
+> to be added: Meta-analysis childhood trauma by immunogetic SNPs on depression.
 
-> NFNG paper with student
+> to be added: NFNG paper with student
 
 
 ### Other academic output
