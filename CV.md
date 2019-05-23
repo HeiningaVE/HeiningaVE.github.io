@@ -72,7 +72,8 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 
 Cohen-Woods, S., (...), **Heininga, V.E.**, (...) (in preparation) Meta-analysis childhood trauma by immunogetic SNPs on depression.
 
-[.](paper student Eeske)
+> NFNG paper with student
+
 
 ### Other academic output
 **Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective [Groningen]: [University of Groningen.](http://hdl.handle.net/11370/809469ab-4c9b-468b-a9b1-be97af42b493)
