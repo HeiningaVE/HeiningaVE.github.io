@@ -129,6 +129,7 @@ The Hannie Schaft award is awarded every two years to students who have written 
 - Four week visit to the lab of prof. Mezulis at Seattle Pacific University, **United States of America (USA)**. 
 
 ## Teaching an supervision
+- Various guest lectures on Open Science (in courses on bachelor, master and PhD level)
 - Teacher Statistics 6 last year Research Master students
 - Teacher Psychiatry Research; 3rd year Medical Students
 - supervised 6 master students (master theses)
