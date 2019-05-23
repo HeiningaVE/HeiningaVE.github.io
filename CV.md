@@ -68,6 +68,7 @@ Altmetric Attention Score: 1 (1st percentile)
 
 **Heininga, V.E.**, de Jonge, P. (in preparation) Psychosocial well-being across adulthood. In preparation for submission in Developmental Psychology.  
 
+Cohen-Woods, S., (...), **Heininga, V.E.**, (...) (in preparation) Meta-analysis childhood trauma by immunogetic SNPs on depression.
 
 
 ### Other academic output
@@ -136,8 +137,9 @@ The Hannie Schaft award is awarded every two years to students who have written 
 ## Academic activities 
 
 * Co-founder the Open Science Community Groningen   
-* Coordinator of a national crowdsourcing project  
-* Organizer of interdiscplinary events  
+* Coordinator of a national crowdsourcing project "Every Child Is Different"
+* Organizer of interdiscplinary events with a focus on Deficits, Distress, and Disorders
+* Organizer of "Weekend van de Wetenschap" Groningen, "Weekend van de Wetenschap" is a popular, large-scale national event that is intended to introduce people to science and attract a large audience.
 
 T=Teaching; S=Organized Symposium; P=Poster; and O=Oral presentation. International conferences only.
 
