@@ -59,9 +59,10 @@ Altmetric Attention Score: 1 (1st percentile)
 
 **Heininga V.E.**, van Roekel E., Vrijen C., Masselink M., Oldehinkel A.J. (_InMind_) Emotions, depression, and (loss of) pleasure in daily life [translated from Dutch].
 
-
 ## Work in prepration
-**Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (in preparation) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion.  
+Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains
+
+**Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (Submitted) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion.  
 
 **Heininga, V. E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.  
 
@@ -71,9 +72,9 @@ Altmetric Attention Score: 1 (1st percentile)
 
 Cohen-Woods, S., (...), **Heininga, V.E.**, (...) (in preparation) Meta-analysis childhood trauma by immunogetic SNPs on depression.
 
+[.](paper student Eeske)
 
 ### Other academic output
-
 **Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective [Groningen]: [University of Groningen.](http://hdl.handle.net/11370/809469ab-4c9b-468b-a9b1-be97af42b493)
 
 **Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , *GGzet Wetenschappelijk*, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
