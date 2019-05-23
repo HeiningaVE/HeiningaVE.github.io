@@ -126,7 +126,7 @@ Selected by the Netherlands Research Integrity Network as one of the 9 excellent
 The Hannie Schaft award is awarded every two years to students who have written a final paper which speaks of social engagement.
 
 ## Research stays abroad 
-- Four week visit to the lab of professor Dr. Mezulis at Seattle Pacific University, **United States of America (USA)**. 
+- Four week visit to the lab of prof. Mezulis at Seattle Pacific University, **United States of America (USA)**. 
 
 ## Teaching an supervision
 - Teacher Statistics 6 last year Research Master students
