@@ -89,30 +89,30 @@ Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het 
 ## Scientific awards and nominations 
 ### Ordered by size; total amount approximately €57.000,-
 
-#### Post Doctoral Mandate (personal grant)
-03-2017; **_€32.350,-_**
+#### Post Doctoral Mandate (personal grant; main applicant)
+03-2017; **_€32.350,-_**  
 One year postdoctoral scholarships provided by the KU Leuven Internal Funds. The Internal Funds are divided to researchers on the basis of competition. 
 
-#### KNAW Ter Meulen grant (personal grant)
+#### KNAW Ter Meulen grant (personal grant; main applicant)
 06-2017; **_€21.900,-_**   
 Grant from The Royal Netherlands Academy of Arts and Sciences (KNAW in Dutch) for promising young researchers in paediatric or related areas of medicine. Divided on the basis op competition.
 
-#### Pre registration challenge award (personal grant)
-12-2018; €1.000,- 
+#### Pre registration challenge award (personal grant; main applicant)
+12-2018; €1.000,-   
 The Preregistration Challenge was an education campaign supported by the Laura and John Arnold Foundation. The campaign included $1000 prizes for researchers who published the results of preregistered work. 
 
-#### ISRCAP Travel Scholarship
+#### ISRCAP Travel Scholarship  
 06-2015; €650,-    
 Scholarship awarded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP), based on a presentation judged to be of outstanding quality.
 
-#### ECNP Travel bursary Bristol (personal grant)
-02-2017; €450,-    
-Selected by European College of Neuropsychopharmacology (ECNP) for support of attendance at the 5-day residential course on advanced methods for reproducible science.
-  
-#### PLOS Early Career Travel Award (personal grant)
+#### PLOS Early Career Travel Award (personal grant; main applicant)
 01-2017; €450,-    
 Program established to support opportunities for early career researchers to present their work and participate in the scientific dialogue.
 
+#### ECNP Travel bursary Bristol  
+02-2017; €450,-    
+Selected by European College of Neuropsychopharmacology (ECNP) for support of attendance at the 5-day residential course on advanced methods for reproducible science.
+  
 #### STAND thesis Award
 09-2013; €250,-     
 The Andragogic Social Care Foundation (STAND in Dutch) Award is awarded to theses that promote academic initiatives to improve social   work. My thesis involved a theoretical and practical integration of Forensic Social Network Analysis (FSNA) into social work practice.
@@ -124,6 +124,7 @@ Selected by the Netherlands Research Integrity Network as one of the 9 excellent
 #### Nomination Hannie Schaft Award
 08-2013; Runner up   
 The Hannie Schaft award is awarded every two years to students who have written a final paper which speaks of social engagement.
+
 
 ## Research stays abroad 
 - Four week visit to the lab of prof. Mezulis at Seattle Pacific University, **United States of America (USA)**. 
