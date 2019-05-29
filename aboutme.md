@@ -29,7 +29,7 @@ Currently, I am an interdisciplinary postdoc within the faculty of Behavioral an
 
 I am a great fan of [Open Science](https://www.fosteropenscience.eu/foster-taxonomy/open-science), meaning that I: love research transparency; pre-register my confirmatory analyses a priori (e.g., on [OSF](https://osf.io/)); use Open Workflow Tools (e.g., [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html)); publish in [Open Access journals](https://doaj.org); make my data and annotated syntaxes publicly available (e.g., via [Code Ocean](https://codeocean.com)), and stimulate the implementation of open access publishing within my faculty.
 
-My interest in Open Science arose while writing a paper called [“I just ran a thousand analyses”](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0125383&type=printable). In this paper, we showed that their were 2160 ways to operationalize one single hypothesis within one dataset, and argued that transparently testing them all could be a novel approach to address inconsistencies in a field of research.  
+My interest in Open Science arose while writing a paper called [“I just ran a thousand analyses”](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0125383&type=printable). In this paper, we showed that there were 2160 ways to operationalize one single hypothesis within one dataset, and argued that transparently testing them all could be a novel approach to address inconsistencies in a field of research.  
 
 ### More info
 
