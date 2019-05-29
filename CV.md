@@ -23,7 +23,7 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 * Postdoctoral research fellow, Quantitative Psychology and Individual Differences, University of Leuven
 
 ## Publications
-### > Ordered by impact*
+### Total of 8 peer-reviewed publications, ordered by impact*
 **Heininga V.E.**, Dejonckheere E., Houben M., Obbels J., Sienaert P., Leroy, B., Van Roy J., Kuppens P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. DOI [10.1186/s12888-018-1983-5](https://link.springer.com/article/10.1186/s12888-018-1983-5). **_Preprint DOI_**: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/); **_Data and materials_**: [osf.io/8gxrw](https://osf.io/8gxrw)   
 **Top 10%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 17 (93rd percentile)
 
@@ -47,7 +47,6 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A.
 
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0. DOI: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100)  
 Altmetric Attention Score: 1 (1st percentile)
-
 
 * *Altmetric Attention Score: Altmetrics data is provided by Altmetric.com, a research metrics company who track and collect the online conversations around millions of scholarly outputs. Altmetric continually monitors a variety of non-traditional [sources](https://www.altmetric.com/about-altmetrics/our-sources/) to provide real-time updates on new mentions and shares of individual research outputs, which are collated and presented to users via the Altmetric [details pages](https://www.altmetric.com/about-altmetrics/altmetric-details-page/) and [badge visualisations](https://www.altmetric.com/products/altmetric-badges/). Each research output that Altmetric finds attention for is also given a score; a weighted count of the online attention it has received. Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
 
