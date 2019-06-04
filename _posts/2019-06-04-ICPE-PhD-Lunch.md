@@ -1,1 +1,16 @@
 
+---
+layout: post
+title: Join me in one of my Open Science adventures!
+---
+
+Today, I had the honor to talk during the PhD lunch meeting of the Interdisciplinary Centre Psychopathology and Emotion regulation (ICPE) at the  University Medical Center Groningen (UMCG):
+
+[Let me see the slides!](https://osf.io/7e5nt)
+
+**From pre-registration to Open Access publication: An example**
+According to the FOSTER taxonomy, "Open science is the movement to make scientific research, data, and dissemination accessible to all levels of an inquiring society." In her presentation, Vera Heininga will show us the steps she took in one of her latest Open Science adventures. She will address elements such as Open Reproducible Research, Open Science Tools, and Open Access, together with more practical aspects of pre-registration on Open Science Framework (OSF), posting the preprint on PsyArXiv, choice in Open Licensing, and CodeOcean.
+
+Vera is an interdisciplinary postdoc at the Faculty of Behavioural and Social Sciences of the University of Groningen with a focus on deficits, distress, and disorders.
+
+
