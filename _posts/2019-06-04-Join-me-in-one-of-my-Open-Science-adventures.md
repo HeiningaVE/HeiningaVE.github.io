@@ -1,7 +1,7 @@
-
 ---
 layout: post
-title: Join me in one of my Open Science adventures!
+title: Slides of talk: 
+subtitle: Join me in one of my Open Science adventures! 
 ---
 
 Today, I had the honor to talk during the PhD lunch meeting of the Interdisciplinary Centre Psychopathology and Emotion regulation (ICPE) at the  University Medical Center Groningen (UMCG):
