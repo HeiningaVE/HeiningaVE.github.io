@@ -129,7 +129,8 @@ The Hannie Schaft award is awarded every two years to students who have written 
 - Four week visit to the lab of prof. Mezulis at Seattle Pacific University, **United States of America (USA)**. 
 
 ## Teaching an supervision
-- Various guest lectures on Open Science (in courses on bachelor, master and PhD level)
+- Teacher Research methods: theory and ethics (Guest lecture(s) on Open Science; PSBA2-08.2019-2020.2A; bachelor level)  
+- Technology and Ethics (Guest lecture on Open Science; MLBMTTER05.2018-2019.1B; bachelor, master and PhD level)
 - Teacher Statistics 6 last year Research Master students
 - Teacher Psychiatry Research; 3rd year Medical Students
 - supervised 6 master students (master theses)
@@ -149,8 +150,8 @@ T=Teaching; S=Organized Symposium; P=Poster; and O=Oral presentation. Internatio
 
 |      |                                                                         | T | S | P | O |
 |------|-------------------------------------------------------------------------|---|---|---|---|
-| **2019** | Winter School on Interdisciplinary Behavioural & Social Science |  |   |   |   |
-| **2018** | Teacher *statistics 6*; last year Research Master students (supervised) | x |   |   |   |
+| **2019** | Winter School on Interdisciplinary Behavioural & Social Science 	 |  |   |   |   |
+| **2018** | Teacher *statistics 6*; last year Research Master students 	 | x |   |   |   |
 |      | 2nd Perspectives Scientific Error Workshop (*PSE2*), Groningen, NL      |   |   | x |   |
 |      | The Consortium of European Research on emotion (CERE); Glasgow          |   |   | x |   |
 |      | Belgian-Dutch expert network meeting on ESM and mental health, Heerlen, NL |   |   | x |   |
