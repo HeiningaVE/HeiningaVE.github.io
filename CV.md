@@ -129,12 +129,12 @@ The Hannie Schaft award is awarded every two years to students who have written 
 ## Research stays abroad 
 - Four week visit to the lab of prof. Mezulis at Seattle Pacific University, **United States of America (USA)**. 
 
-## Teaching an supervision
+## Teaching and supervision
 - Teacher Research methods: theory and ethics (Guest lecture(s) on Open Science; PSBA2-08.2019-2020.2A; bachelor level)  
 - Technology and Ethics (Guest lecture on Open Science; MLBMTTER05.2018-2019.1B; bachelor, master and PhD level)
 - Teacher Statistics 6 last year Research Master students
 - Teacher Psychiatry Research; 3rd year Medical Students
-- supervised 6 master students (master theses)
+- Supervised 6 master students (master theses)
 - Guest lecture Social studies, Hanze Hogeschool; NL  
 - Guest lecture Nursing, Hanze Hogeschool, The Netherlands 
 - Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands  
