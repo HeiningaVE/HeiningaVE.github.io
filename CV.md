@@ -143,7 +143,6 @@ The Hannie Schaft award is awarded every two years to students who have written 
 ## Academic activities 
 
 * Co-founder the Open Science Community Groningen   
-* Coordinator of a national crowdsourcing project "Every Child Is Different"
 * Organizer of interdiscplinary events with a focus on Deficits, Distress, and Disorders
 * Organizer of "Weekend van de Wetenschap" Groningen, "Weekend van de Wetenschap" is a popular, large-scale national event that is intended to introduce people to science and attract a large audience.
 
