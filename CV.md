@@ -25,6 +25,11 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 
 ## Publications
 ### Total of 8 peer-reviewed publications, ordered by impact*
+
+\setlength{\parindent}{-1.24cm}
+\setlength{\leftskip}{1.24cm}
+\setlength{\parskip}{8pt}
+
 **Heininga V.E.**, Dejonckheere E., Houben M., Obbels J., Sienaert P., Leroy, B., Van Roy J., Kuppens P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. DOI [10.1186/s12888-018-1983-5](https://link.springer.com/article/10.1186/s12888-018-1983-5). **_Preprint DOI_**: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/); **_Data and materials_**: [osf.io/8gxrw](https://osf.io/8gxrw)   
 :arrow_right: **Top 10%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 17 (93rd percentile)
 
