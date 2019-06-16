@@ -30,7 +30,7 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 **DOI** [10.1186/s12888-018-1983-5](https://link.springer.com/article/10.1186/s12888-018-1983-5).  
 **DOI Preprint**: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/).
 **DOI Data and materials**: [osf.io/8gxrw](https://osf.io/8gxrw).  
-Altmetric Attention Score: 17 (93rd percentile)
+![](/img/altmetric.jpg =50x) Altmetric Attention Score: 17 (93rd percentile)
 
 Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292.  
 **DOI**: [http://dx.doi.org/10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
