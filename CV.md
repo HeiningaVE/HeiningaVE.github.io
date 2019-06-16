@@ -29,23 +29,23 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 **Heininga V.E.**, Dejonckheere E., Houben M., Obbels J., Sienaert P., Leroy, B., Van Roy J., Kuppens P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry.  
 **DOI** [10.1186/s12888-018-1983-5](https://link.springer.com/article/10.1186/s12888-018-1983-5).  
 **DOI Preprint**: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/).
-**DOI Data and materials**: [osf.io/8gxrw](https://osf.io/8gxrw).
-:arrow_right: **Top 10%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 17 (93rd percentile)
+**DOI Data and materials**: [osf.io/8gxrw](https://osf.io/8gxrw).  
+Altmetric Attention Score: 17 (93rd percentile)
 
 Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292.  
 **DOI**: [http://dx.doi.org/10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
 **DOI Preprint**: [10.31234/osf.io/tdnws](https://psyarxiv.com/tdnws/).  
-:arrow_right: **Top 10%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 13 (91st percentile)
+Altmetric Attention Score: 13 (91st percentile)
 
 van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182.  
 **DOI**: [https://doi.org/10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z).   
-:arrow_right: **Top 10%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 13 (91st percentile)
+Altmetric Attention Score: 13 (91st percentile)
 
 van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. *Behavior Therapy*, 48 (1), 76-96.  
 **DOI**: [https://doi.org/10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).  
 **DOI Preprint**: [10.1186/s12888-016-0880-z](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-0880-z).  
 **DOI Data and materials**: [https://osf.io/k7rfu/](https://osf.io/k7rfu/).  
-:arrow_right: **Top 15%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 9 (86th percentile)
+Altmetric Attention Score: 9 (86th percentile)
 
 **Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. *PLoS One*, 10 (5), 0-0.  
 **DOI**: [https://doi.org/10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).   
@@ -55,16 +55,16 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A.
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. PLoS ONE 12(10): e0180753.  
 **DOI**: [https://doi.org/10.1371/journal.pone.0180753](https://doi.org/10.1371/journal.pone.0180753).  
 **DOI Data and materials**: [10.17605/OSF.IO/WDZS6](https://osf.io/wdzs6/).  
-:arrow_right: **Top 20%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 8 (84th percentile)
+Altmetric Attention Score: 8 (84th percentile)
 
 **Heininga V.E.**, van Roekel E., Ahles J., Oldehinkel A., Mezulis A. (2017). Positive affective functioning in anhedonic individuals' daily life Anything but flat and blunted. *Journal of Affective Disorders*, 218, 437-445.  
 **DOI**: [https://doi.org/10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).  
 **_Data and materials_**: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/).  
-:arrow_right: **Top 25%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 6 (78th percentile)
+Altmetric Attention Score: 6 (78th percentile)
 
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0.  
 **DOI**: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100).  
-:arrow_right: Altmetric Attention Score: 1 (1st percentile)
+Altmetric Attention Score: 1 (1st percentile)
 
 > :information_source: Altmetric Attention Score: Altmetrics data is provided by Altmetric.com, a research metrics company who track and collect the online conversations around millions of scholarly outputs. Altmetric continually monitors a variety of non-traditional [sources](https://www.altmetric.com/about-altmetrics/our-sources/) to provide real-time updates on new mentions and shares of individual research outputs, which are collated and presented to users via the Altmetric [details pages](https://www.altmetric.com/about-altmetrics/altmetric-details-page/) and [badge visualisations](https://www.altmetric.com/products/altmetric-badges/). Each research output that Altmetric finds attention for is also given a score; a weighted count of the online attention it has received. Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
 
