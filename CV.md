@@ -95,8 +95,7 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 
 
 ### Other academic output
-**Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective.  
-[PhD Thesis: University of Groningen.](http://hdl.handle.net/11370/809469ab-4c9b-468b-a9b1-be97af42b493).
+**Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective. [PhD Thesis: University of Groningen](http://hdl.handle.net/11370/809469ab-4c9b-468b-a9b1-be97af42b493).
 
 **Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , *GGzet Wetenschappelijk*, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
 
@@ -150,7 +149,7 @@ The Hannie Schaft award is awarded every two years to students who have written 
 - Four week visit to the lab of associate prof. Mezulis at Seattle Pacific University.  
 :round_pushpin: **Seattle, United States of America (USA)** 
 
-## :school: Teaching and supervision
+## Teaching and supervision
 * Teacher Research methods: theory and ethics (Guest lecture(s) on Open Science; PSBA2-08.2019-2020.2A; bachelor level)  
 * Technology and Ethics (Guest lecture on Open Science; MLBMTTER05.2018-2019.1B; bachelor, master and PhD level)
 * Teacher Statistics 6 last year Research Master students
