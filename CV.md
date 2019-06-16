@@ -73,8 +73,8 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 
 ## :mag_right: Under review
 **Heininga V.E.**, Dejonckheere E., Houben M., Kuppens P. (_Clinical Psychological Science_) Sociomarkers of anhedonia in Major Depressive Disorder.  
-**DOI Preregistration**: https://osf.io/zbekw.  
-**DOI Preprint**: [10.31234/osf.io/t2j7p](https://psyarxiv.com/t2j7p).
+* **DOI Preregistration**: https://osf.io/zbekw.  
+* **DOI Preprint**: [10.31234/osf.io/t2j7p](https://psyarxiv.com/t2j7p).
 
 **Heininga V.E.**, van Roekel E., Vrijen C., Masselink M., Oldehinkel A.J. (_InMind_) Emotions, depression, and (loss of) pleasure in daily life [translated from Dutch].
 
@@ -151,20 +151,19 @@ The Hannie Schaft award is awarded every two years to students who have written 
 :round_pushpin: **Seattle, United States of America (USA)** 
 
 ## :school: Teaching and supervision
-- Teacher Research methods: theory and ethics (Guest lecture(s) on Open Science; PSBA2-08.2019-2020.2A; bachelor level)  
-- Technology and Ethics (Guest lecture on Open Science; MLBMTTER05.2018-2019.1B; bachelor, master and PhD level)
-- Teacher Statistics 6 last year Research Master students
-- Teacher Psychiatry Research; 3rd year Medical Students
-- Supervised 6 master students (master theses)
-- Guest lecture Social studies, Hanze Hogeschool; NL  
-- Guest lecture Nursing, Hanze Hogeschool, The Netherlands 
-- Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands  
-- Teaching assistent Statistics 1A, University of Groningen (RUG), The Netherlands  
+* Teacher Research methods: theory and ethics (Guest lecture(s) on Open Science; PSBA2-08.2019-2020.2A; bachelor level)  
+* Technology and Ethics (Guest lecture on Open Science; MLBMTTER05.2018-2019.1B; bachelor, master and PhD level)
+* Teacher Statistics 6 last year Research Master students
+* Teacher Psychiatry Research; 3rd year Medical Students
+* Supervised 6 master students (master theses)
+* Guest lecture Social studies, Hanze Hogeschool; NL  
+* Guest lecture Nursing, Hanze Hogeschool, The Netherlands 
+* Teaching assistent Statistics 1B, University of Groningen (RUG), The Netherlands  
+* Teaching assistent Statistics 1A, University of Groningen (RUG), The Netherlands  
 
 ## Academic activities 
-
-* Co-founder the Open Science Community Groningen   
-* Organizer of interdiscplinary events with a focus on Deficits, Distress, and Disorders
+* Co-founder the Open Science Community Groningen.  
+* Organizer of interdiscplinary events with a focus on Deficits, Distress, and Disorders.  
 * Organizer of "Weekend van de Wetenschap" Groningen, "Weekend van de Wetenschap" is a popular, large-scale national event that is intended to introduce people to science and attract a large audience.
 
 T=Teaching; S=Organized Symposium; P=Poster; and O=Oral presentation. International conferences only.
