@@ -59,7 +59,7 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A.
 
 **Heininga V.E.**, van Roekel E., Ahles J., Oldehinkel A., Mezulis A. (2017). Positive affective functioning in anhedonic individuals' daily life Anything but flat and blunted. *Journal of Affective Disorders*, 218, 437-445.  
 * **DOI**: [https://doi.org/10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).  
-* **_Data and materials_**: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/).  
+* **Data and materials**: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/).  
 * ![](/img/altmetric.jpg) Altmetric Attention Score: 6 (78th percentile)
 
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0.  
