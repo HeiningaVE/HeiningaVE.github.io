@@ -12,7 +12,7 @@ Faculty of Behavioural and Social Sciences
 Developmental Psychology — Department Developmental Psychology  
 Grote Kruisstraat 2/1, 9712 TS Groningen  
 The Netherlands  
-Email: v.e.heininga@rug.nl
+:e-mail: v.e.heininga@rug.nl
 
 OSF ID:	[osf.io/7n4qu](https://osf.io/7n4qu/)  
 ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
@@ -219,7 +219,7 @@ KU Leuven - University of Leuven, Belgium
 2018 - present Society Ambulatory Assessment (SAA)  
 2018 - present Society for the Improvement of Psychological Science (SIPS)
 
-## Education
+## :mortar_board: Education 
 2013 – 2017		PhD candidate Psychiatry    
 University Medical Center Groningen (UMCG)
 		
