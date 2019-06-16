@@ -150,8 +150,8 @@ The Hannie Schaft award is awarded every two years to students who have written 
 :round_pushpin: **Seattle, United States of America (USA)** 
 
 ## Teaching and supervision
-* Teacher Research methods: theory and ethics (Guest lecture(s) on Open Science; PSBA2-08.2019-2020.2A; bachelor level)  
-* Technology and Ethics (Guest lecture on Open Science; MLBMTTER05.2018-2019.1B; bachelor, master and PhD level)
+* Teacher Research methods: theory and ethics (Guest lecture(s) on Open Science; bachelor level)  
+* Technology and Ethics (Guest lecture on Open Science; bachelor, master and PhD level)
 * Teacher Statistics 6 last year Research Master students
 * Teacher Psychiatry Research; 3rd year Medical Students
 * Supervised 6 master students (master theses)
