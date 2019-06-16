@@ -26,13 +26,13 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 ## Publications
 ### Total of 8 peer-reviewed publications, ordered by impact*
 **Heininga V.E.**, Dejonckheere E., Houben M., Obbels J., Sienaert P., Leroy, B., Van Roy J., Kuppens P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. DOI [10.1186/s12888-018-1983-5](https://link.springer.com/article/10.1186/s12888-018-1983-5). **_Preprint DOI_**: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/); **_Data and materials_**: [osf.io/8gxrw](https://osf.io/8gxrw)   
-**Top 10%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 17 (93rd percentile)
+:arrow_right: **Top 10%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 17 (93rd percentile)
 
 Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [http://dx.doi.org/10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424); **_Preprint DOI_**: [10.31234/osf.io/tdnws](https://psyarxiv.com/tdnws/)  
-**Top 10%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 13 (91st percentile)
+:arrow_right: **Top 10%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 13 (91st percentile)
 
 van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [https://doi.org/10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z)  
-**Top 10%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 13 (91st percentile)
+:arrow_right: **Top 10%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 13 (91st percentile)
 
 van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. *Behavior Therapy*, 48 (1), 76-96. DOI: https://doi.org/10.1016/j.beth.2016.09.009; **_Preprint DOI_**: [10.1186/s12888-016-0880-z](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-0880-z); **_Data and materials_**: [https://osf.io/k7rfu/](https://osf.io/k7rfu/)  
 **Top 15%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 9 (86th percentile)
