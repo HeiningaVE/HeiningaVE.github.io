@@ -6,7 +6,7 @@ subtitle: Curriculum vitae
 
 ![Me](/img/HeiningaVE_mini.png "Me")
 
-## :octocat: Contact information 
+## Contact information 
 Dr. Vera E. Heininga  
 Faculty of Behavioural and Social Sciences  
 Developmental Psychology — Department Developmental Psychology  
