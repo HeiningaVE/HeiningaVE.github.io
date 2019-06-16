@@ -6,7 +6,7 @@ subtitle: Curriculum vitae
 
 ![Me](/img/HeiningaVE_mini.png "Me")
 
-## Contact information 
+## :octocat: Contact information 
 Dr. Vera E. Heininga  
 Faculty of Behavioural and Social Sciences  
 Developmental Psychology — Department Developmental Psychology  
@@ -35,23 +35,23 @@ van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof,
 :arrow_right: **Top 10%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 13 (91st percentile)
 
 van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. *Behavior Therapy*, 48 (1), 76-96. DOI: https://doi.org/10.1016/j.beth.2016.09.009; **_Preprint DOI_**: [10.1186/s12888-016-0880-z](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-0880-z); **_Data and materials_**: [https://osf.io/k7rfu/](https://osf.io/k7rfu/)  
-**Top 15%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 9 (86th percentile)
+:arrow_right: **Top 15%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 9 (86th percentile)
 
 **Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. *PLoS One*, 10 (5), 0-0. DOI: https://doi.org/10.1371/journal.pone.0125383; **_Data and materials_**: [Supporting information of the article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125383#sec026)  
-**Top 20%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 8 (84th percentile)
+:arrow_right: **Top 20%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 8 (84th percentile)
 
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. PLoS ONE 12(10): e0180753. DOI: https://doi.org/10.1371/journal.pone.0180753; **_Data and materials DOI_**: [10.17605/OSF.IO/WDZS6](https://osf.io/wdzs6/)  
-**Top 20%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 8 (84th percentile)
+:arrow_right: **Top 20%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 8 (84th percentile)
 
 **Heininga V.E.**, van Roekel E., Ahles J., Oldehinkel A., Mezulis A. (2017). Positive affective functioning in anhedonic individuals' daily life Anything but flat and blunted. *Journal of Affective Disorders*, 218, 437-445, https://doi.org/10.1016/j.jad.2017.04.029; **_Data and materials_**: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/)  
-**Top 25%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 6 (78th percentile)
+:arrow_right: **Top 25%** of all research outputs ever tracked by Altmetric; Altmetric Attention Score: 6 (78th percentile)
 
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0. DOI: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100)  
-Altmetric Attention Score: 1 (1st percentile)
+:arrow_right: Altmetric Attention Score: 1 (1st percentile)
 
-* *Altmetric Attention Score: Altmetrics data is provided by Altmetric.com, a research metrics company who track and collect the online conversations around millions of scholarly outputs. Altmetric continually monitors a variety of non-traditional [sources](https://www.altmetric.com/about-altmetrics/our-sources/) to provide real-time updates on new mentions and shares of individual research outputs, which are collated and presented to users via the Altmetric [details pages](https://www.altmetric.com/about-altmetrics/altmetric-details-page/) and [badge visualisations](https://www.altmetric.com/products/altmetric-badges/). Each research output that Altmetric finds attention for is also given a score; a weighted count of the online attention it has received. Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
+:information_source: Altmetric Attention Score: Altmetrics data is provided by Altmetric.com, a research metrics company who track and collect the online conversations around millions of scholarly outputs. Altmetric continually monitors a variety of non-traditional [sources](https://www.altmetric.com/about-altmetrics/our-sources/) to provide real-time updates on new mentions and shares of individual research outputs, which are collated and presented to users via the Altmetric [details pages](https://www.altmetric.com/about-altmetrics/altmetric-details-page/) and [badge visualisations](https://www.altmetric.com/products/altmetric-badges/). Each research output that Altmetric finds attention for is also given a score; a weighted count of the online attention it has received. Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
 
-* Open Science score: 50% of my research is free to read online. According to ImpactStory (i.e., [total-impact.org](www.total-impact.org), this level of availability puts me in the **top 26%** of openness by researchers. Moreover, 41% of my papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). This important because Open Science is critical to accelerating the way we discover knowledge, and research funders are able to more quickly and efficiently maximize their return on investment.
+:information_source: Open Science score: 50% of my research is free to read online. According to ImpactStory (i.e., [total-impact.org](www.total-impact.org), this level of availability puts me in the **top 26%** of openness by researchers. Moreover, 41% of my papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). This important because Open Science is critical to accelerating the way we discover knowledge, and research funders are able to more quickly and efficiently maximize their return on investment.
 
 
 ## Under review
@@ -72,7 +72,7 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 
 > to be added: Meta-analysis childhood trauma by immunogetic SNPs on depression.
 
-> to be added: NFNG paper with student
+> to be added: NFNG Tilburg 
 
 
 ### Other academic output
