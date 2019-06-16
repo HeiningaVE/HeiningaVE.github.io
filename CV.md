@@ -27,9 +27,9 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 ### Total of 8 peer-reviewed publications, ordered by impact*
 
 **Heininga V.E.**, Dejonckheere E., Houben M., Obbels J., Sienaert P., Leroy, B., Van Roy J., Kuppens P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry.  
-##### **DOI** [10.1186/s12888-018-1983-5](https://link.springer.com/article/10.1186/s12888-018-1983-5).  
-##### **DOI Preprint**: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/).
-##### **DOI Data and materials**: [osf.io/8gxrw](https://osf.io/8gxrw).  
+* **DOI** [10.1186/s12888-018-1983-5](https://link.springer.com/article/10.1186/s12888-018-1983-5).  
+* **DOI Preprint**: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/).
+* **DOI Data and materials**: [osf.io/8gxrw](https://osf.io/8gxrw).  
 ![](/img/altmetric.jpg) Altmetric Attention Score: 17 (93rd percentile)
 
 Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292.  
