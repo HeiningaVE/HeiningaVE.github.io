@@ -54,12 +54,12 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 :information_source: Open Science score: 50% of my research is free to read online. According to ImpactStory (i.e., [total-impact.org](www.total-impact.org), this level of availability puts me in the **top 26%** of openness by researchers. Moreover, 41% of my papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). This important because Open Science is critical to accelerating the way we discover knowledge, and research funders are able to more quickly and efficiently maximize their return on investment.
 
 
-## Under review
+## :mag_right: Under review
 **Heininga V.E.**, Dejonckheere E., Houben M., Kuppens P. (_Clinical Psychological Science_) Sociomarkers of anhedonia in Major Depressive Disorder. **_Preregistration DOI_**: https://osf.io/zbekw. **_Preprint DOI_**: [10.31234/osf.io/t2j7p](https://psyarxiv.com/t2j7p)
 
 **Heininga V.E.**, van Roekel E., Vrijen C., Masselink M., Oldehinkel A.J. (_InMind_) Emotions, depression, and (loss of) pleasure in daily life [translated from Dutch].
 
-## Work in prepration
+## :seedling: Work in prepration
 Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains
 
 **Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (Submitted) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion.  
@@ -86,7 +86,7 @@ Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het 
 
 
 
-## Scientific awards and nominations 
+## :trophy: Scientific awards and nominations 
 ### Ordered by size; total amount approximately €57.000,-
 
 #### Post Doctoral Mandate (personal grant; main applicant)
@@ -129,7 +129,7 @@ The Hannie Schaft award is awarded every two years to students who have written 
 ## Research stays abroad 
 - Four week visit to the lab of prof. Mezulis at Seattle Pacific University, **United States of America (USA)**. 
 
-## Teaching and supervision
+## :school: Teaching and supervision
 - Teacher Research methods: theory and ethics (Guest lecture(s) on Open Science; PSBA2-08.2019-2020.2A; bachelor level)  
 - Technology and Ethics (Guest lecture on Open Science; MLBMTTER05.2018-2019.1B; bachelor, master and PhD level)
 - Teacher Statistics 6 last year Research Master students
@@ -150,7 +150,10 @@ T=Teaching; S=Organized Symposium; P=Poster; and O=Oral presentation. Internatio
 
 |      |                                                                         | T | S | P | O |
 |------|-------------------------------------------------------------------------|---|---|---|---|
-| **2019** | Winter School on Interdisciplinary Behavioural & Social Science 	 |  |   |   |   |
+| **2019** |  Society Ambulatory Assessment (SAA) conference; Syracuse, NY	 |  |   | x | x |
+|      | Society for Improvement of Psychological Science (SIPS); NL	 	 |  |   |   |   |
+|      | Winter School on Interdisciplinary Behavioural & Social Science; NL	 |  |   |   |   |
+|      | Emotions Tilburg; NL							 |  |   |   |   |
 | **2018** | Teacher *statistics 6*; last year Research Master students 	 | x |   |   |   |
 |      | 2nd Perspectives Scientific Error Workshop (*PSE2*), Groningen, NL      |   |   | x |   |
 |      | The Consortium of European Research on emotion (CERE); Glasgow          |   |   | x |   |
