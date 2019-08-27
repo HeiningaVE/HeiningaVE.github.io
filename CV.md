@@ -159,11 +159,10 @@ The Hannie Schaft award is awarded every two years to students who have written 
 * 6 Psychology theses
 
 ### Undergraduate level
-* Co-Teacher "Research Methods": theory and ethics
+* Co-Teacher "Research Methods: theory and ethics"
 * Co-Teacher "Psychiatry Research" Medical Sciences
 * Guest lectures on Open Science
-* Guest Lecture on "Interventions in individual development" 
-* Guest Lecture on "Interventions in individual development" 
+* Guest Lecture on lifestyle interventions in young adults "Interventions in individual development" 
 * Guest Lecture on anhedonia at "Social studies"
 * Guest Lecture on anhedonia at "Nursing" 
 * Teaching Assistent for "Statistics 1B"
