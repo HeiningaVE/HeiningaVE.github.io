@@ -5,7 +5,7 @@ subtitle: Research on anhedonia
 ---
 
 
-Between 2013 and 2017, I collected a large amount of awesome data on anhedonia for a project called ["No Fun, No Glory"](https://nofunnoglory.nl/en). 
+Between 2013 and 2017, I collected a lot of awesome biopsychosocial data on anhedonia for a project called ["No Fun, No Glory"](https://nofunnoglory.nl/en). Want to know exactly what variables we collected? [Download our codebook!](https://osf.io/z4py5/)
 
 Using the part of the project in which data was obtained through experience sampling method, also referred to as a daily diary method, or ecological momentary assessment (EMA), I wrote [my PhD thesis](https://docs.wixstatic.com/ugd/c22377_f6d9d466111c42e8a75ce6c4cbced4a7.pdf) on anhedonia.
 
