@@ -6,11 +6,17 @@ subtitle: A not-so-short introduction
 
 ### Research interests/ Expertise
 
-- Positive emotions
 - Psychosocial well-being
+- Affective disorders/ mood disorders
 - Anhedonia (decreased ability to experience pleasure)
 
-My primary research interest is anhedonia. Anhedonia is the loss of pleasure or interest in things that were previously found pleasurable, and a not yet fully understood core symptom of Major Depressive Disorder (MDD).
+My long-term goal is to lead an independent research programme that draws together sociology, psychology, public health, pedagogy and epidemiology to unravel the psychosocial and behavioural mechanisms that underlie the promotion of mental health and wellbeing.
+
+I am a great fan of Open Science, meaning that I: love research transparency; pre-register my confirmatory analyses a priori (e.g., on OSF); use Open Workflow Tools (e.g., R Markdown); publish in Open Access journals; make my data and annotated syntaxes publicly available (e.g., via Code Ocean), and stimulate the implementation of open access publishing within my faculty.
+
+### Interdisciplinary
+
+Currently, I am an interdisciplinary postdoc with a focus on Deficits, Distress, and Disorders. That is, I combine insights from among others, sociology, psychology, pedagogics, educational science, and psychometrics to investigate the causal mechanisms of psychopathological disorders, and their effects on everyday functioning. In order to improve interdisciplinary cooperation within the faculty of social and behavioral sciences of the University of Groningen, I organize events. For example, I organized a hack-a-thon event during which I invited faculty staff to think along with the large interdisciplinary national crowdsourcing study among youth (aged 8-18) I am currently involved in (see also: [Recent Projects](https://heiningave.github.io/projects/).
 
 ### Research into anhedonia
 
@@ -19,11 +25,7 @@ Between 2013 and 2017, I was part of a biopsychosocial study into anhedonia. Tog
 In the EMA-based intervention, participants got personalized advice based on their daily life pleasure associations. For example, if the associations showed that more physical exercise was related to higher levels of levels of PA for that particular participants, and there was room for improvement, participants would be advised to become more physically active. How the behavioral changes were implemented in the participants' daily life was made more specific in close consultation with the participant, and tailored to their personal needs. In addition to lifestyle advice, we investigated whether an intense experience that would elicit strong positive responses could help to implement the recommended lifestyle changes (i.e., a skydive). In our Randomized Controlled Trial, the personalized lifestyle advice proved helpful, but a skydive did not amplify the intervention-effect
 (see: [van Roekel, Vrijen, Heininga, Masselink, Bos, & Oldehinkel, 2017](https://reader.elsevier.com/reader/sd/pii/S0005789416300843?token=4DB2AB00A05A0B08D18A5EC89899EFB039AE3038804A19F1AEAF15776D09D10B089602592A3D60E7C1B9DC258FFDEAF6)).
 
-In my Ph.D. thesis, I compared anhedonic to non-anhedonic individuals in their ability to 1) pursue, 3) experience, and 3) learn about pleasure in daily life. In clinical practice anhedonia is defined as the “markedly diminished interest or pleasure in all, or almost all, activities most of the day, nearly every day” (American Psychiatric Association, 2013a), but reward functioning in anhedonia is typically investigated in the laboratory (e.g., by using tasks or brain scanner in combination with a single time anhedonia questionnaire or anhedonia item in a depression scale). Using EMA, I re-examined the three above mentioned components of reward functioning in daily life. In confirmed some laboratory findings, but not all. For example, individuals with anhedonia typically show a blunted reaction to rewarding laboratory stimuli. Yet, using an EMA design, I was able to show that, in daily life, the reward reactivity in individuals with anhedonia was anything but blunted (i.e., pleasure experiences of anhedonic individuals were equal or increased *more* after experiencing a positive event). Intrigued by this conundrum, and passionate to solve it, I was awarded a KNAW Academy Ter Meulen Grant and the Post Doctoral Mandate of the KU Leuven internal fund to tackle this puzzle together with prof. dr. Peter Kuppens in Belgium.
-
-### Interdisciplinary
-
-Currently, I am an interdisciplinary postdoc within the faculty of Behavioral and Social Sciences of the University of Groningen. My focal areas are Deficits, Distress, and Disorders. That is, I combine insights from among others, sociology, psychology, pedagogics, educational science, and psychometrics to investigate the causal mechanisms of psychopathological disorders, and their effects on everyday functioning.
+In my Ph.D. thesis, I compared anhedonic to non-anhedonic individuals in their ability to 1) pursue, 3) experience, and 3) learn about pleasure in daily life. In clinical practice anhedonia is defined as the “markedly diminished interest or pleasure in all, or almost all, activities most of the day, nearly every day” (American Psychiatric Association), but reward functioning in anhedonia is typically investigated in the laboratory (e.g., by using tasks or brain scanner in combination with a single time anhedonia questionnaire or anhedonia item in a depression scale). Using EMA, I re-examined the three above mentioned components of reward functioning in daily life. In confirmed some laboratory findings, but not all. For example, individuals with anhedonia typically show a blunted reaction to rewarding laboratory stimuli. Yet, using an EMA design, I was able to show that the reward reactivity in individuals with anhedonia was anything but blunted. Intrigued by this conundrum, and passionate to solve it, I was awarded a KNAW Academy Ter Meulen Grant and the Post Doctoral Mandate of the KU Leuven internal fund to tackle this puzzle together with prof. Peter Kuppens in Belgium.
 
 ### Open Science Awesomeness
 
