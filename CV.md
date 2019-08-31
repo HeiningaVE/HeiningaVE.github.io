@@ -145,16 +145,12 @@ Selected by the Netherlands Research Integrity Network as one of the 9 excellent
 The Hannie Schaft award is awarded every two years to students who have written a final paper which speaks of social engagement.
 
 
-## Research stays abroad 
-- Four week visit to the lab of associate prof. Mezulis at Seattle Pacific University.  
-:round_pushpin: **Seattle, United States of America (USA)** 
-
 ## Teaching and supervision
 ### PhD level 
-* Guest lectures on Open Science 
+* Guest lectures, and workshops on Open Science
 
 ### Postgraduate level
-* Co-Teacher Statistics 6 
+* Teacher on responsible research practices Statistics 6 (Research Master level; co-developed the course)
 * Guest lectures on Open Science
 * 6 Psychology theses
 
@@ -168,11 +164,44 @@ The Hannie Schaft award is awarded every two years to students who have written 
 * Teaching Assistent for "Statistics 1B"
 * Teaching Assistent for "Statistics 1A"
 
+## Research stays abroad 
+- Four week visit to the lab of prof. Mezulis, Seattle Pacific University.  
+:round_pushpin: **Seattle, United States of America (USA)** 
 
-## Academic activities 
+## Membership board councils and committees
+April 2019 - Present  
+Board Member of the Open Science Community Groningen  
+University of Groningen  
+
+March 2019 - present  
+Open Access Ambassador   
+University of Groningen 
+
+Jan 2019 - present     
+Work stress reduction committee - Department of Developmental psychology.  
+University of Groningen
+
+Jan 2019 - present     
+Member of the Network of Young Enthusiastic Social Scientists - Behavioural and Social Sciences (YESS-BSS), which is a collaboration with members of the Young Academy Groningen (The Royal Netherlands Academy of Arts and Sciences - KNAW in Dutch).
+University of Groningen
+
+Sept 2018 - 2019   
+Member of the Council of the Faculty of Psychology and Educational Sciences, as representative of the academic staff (AAP-BAP-OP1-OP2).  
+KU Leuven - University of Leuven, Belgium
+
+Sept 2018 - 2019    
+Reserve representative of the academic staff of the Research group quantitative psychology and individual differences      
+Faculty of psychology and educational sciences, KU Leuven - University of Leuven, Belgium 
+
+Sept 2018 - 2019 
+Member of the Educational Committee Master of Psychology: Theory and Research  
+KU Leuven - University of Leuven, Belgium
+
+## Other academic activities 
 * Co-founder the Open Science Community Groningen.  
-* Organizer of interdiscplinary events with a focus on Deficits, Distress, and Disorders.  
+* Organizer of interdiscplinary events within the Behavioral and Social Sciences faculty Groningen.
 * Organizer of "Weekend van de Wetenschap" Groningen, "Weekend van de Wetenschap" is a popular, large-scale national event that is intended to introduce people to science and attract a large audience.
+* Performed peer-review activities for the following journals: Collabra; PLoS ONE; Journal of Child Psychology and Psychiatry (JCPP); Anxiety, Stress, & Coping; and Psychological Bulletin
 
 T=Teaching; S=Organized Symposium; P=Poster; and O=Oral presentation. International conferences only.
 
@@ -215,35 +244,6 @@ T=Teaching; S=Organized Symposium; P=Poster; and O=Oral presentation. Internatio
 - Journal of Child Psychology and Psychiatry (JCPP) 
 - Psychological Bulletin  
 - Anxiety, Stress, & Coping 
-
-## Membership board councils and committees
-April 2019 - Present  
-Board Member of the Open Science Community Groningen  
-University of Groningen  
-
-March 2019 - present  
-Open Access Ambassador   
-University of Groningen 
-
-Jan 2019 - present     
-Work stress reduction committee - Department of Developmental psychology.  
-University of Groningen
-
-Jan 2019 - present     
-Member of the Network of Young Enthusiastic Social Scientists - Behavioural and Social Sciences (YESS-BSS), which is a collaboration with members of the Young Academy Groningen (The Royal Netherlands Academy of Arts and Sciences - KNAW in Dutch).
-University of Groningen
-
-Sept 2018 - 2019   
-Member of the Council of the Faculty of Psychology and Educational Sciences, as representative of the academic staff (AAP-BAP-OP1-OP2).  
-KU Leuven - University of Leuven, Belgium
-
-Sept 2018 - 2019    
-Reserve representative of the academic staff of the Research group quantitative psychology and individual differences      
-Faculty of psychology and educational sciences, KU Leuven - University of Leuven, Belgium 
-
-Sept 2018 - 2019 
-Member of the Educational Committee Master of Psychology: Theory and Research  
-KU Leuven - University of Leuven, Belgium
 
 ## Membership of networks
 
@@ -295,9 +295,9 @@ Hanze University of Applied Sciences
 06-02-2013, Weer plezier door een bungeejump (KennisInZicht)
 
 ## Language proficiencies
-* English: Full professional proficiency
 * Dutch: Native or bilingual proficiency
 * Swiss-German: Native or bilingual proficiency
+* English: Full professional proficiency
 
 ## Programming experience
 * LaTeX
