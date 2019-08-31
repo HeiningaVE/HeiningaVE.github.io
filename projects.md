@@ -6,8 +6,8 @@ subtitle: A quick overview
 
 ### Ieder Kind Is Anders (every child is different) 
 #### [www.iederkindisanders.nl](https://www.iederkindisanders.nl)   
-This interdisciplinary national crowdsourcing study aims to examine mental health in
-parents and children/ adolescents (aged 8-18), characterized by both vulnerabilities and
+This interdisciplinary national crowdsourcing study aims to examine positive mental health and mental health problems in
+parents of children (aged 4-18) and children/ adolescents (aged 8-18), characterized by both vulnerabilities and
 strengths.
 
 ### Deficits, Distress, and Disorders   
