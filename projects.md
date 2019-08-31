@@ -4,6 +4,12 @@ title: Recent Projects
 subtitle: A quick overview
 ---
 
+### Ieder Kind Is Anders (every child is different) 
+#### [www.iederkindisanders.nl](https://www.iederkindisanders.nl)   
+This interdisciplinary national crowdsourcing study aims to examine mental health in
+parents and children/ adolescents (aged 8-18), characterized by both vulnerabilities and
+strengths.
+
 ### Deficits, Distress, and Disorders   
 #### [BSS Interdisciplinary project](https://www.rug.nl/masters/behavioural-and-social-sciences-research/)   
 Gaining a better understanding of human deficits, psychological distress, and psychopathological disorders using a transdiagnostic and interdisciplinary approach? Challenge accepted! Within the focal area Deficits, Distress, and Disorders, I combine insights from among others, sociology, psychology, pedagogics, educational science, and psychometrics to investigate the causal mechanisms of psychopathological disorders, and their effects on everyday functioning.
