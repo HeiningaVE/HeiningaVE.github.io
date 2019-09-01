@@ -15,9 +15,10 @@ strengths.
 Gaining a better understanding of human deficits, psychological distress, and psychopathological disorders using a transdiagnostic and interdisciplinary approach? Challenge accepted! Within the focal area Deficits, Distress, and Disorders, I combine insights from among others, sociology, psychology, pedagogics, educational science, and psychometrics to investigate the causal mechanisms of psychopathological disorders, and their effects on everyday functioning.
 
 ### Micro-mechanisms of anhedonia, and its consequences for future mental health    
-#### [Postdoctoral Mandate (PDM)](https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H170397) together with prof. dr. Kuppens   
+#### [Postdoctoral Mandate (PDM)](https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H170397)
+
 This study aims to investigate emotion dynamics in clinically depressed people and controls with the help of Experience Sampling Methods (ESM), in order to gain more insight into micro-mechanisms of anhedonia and its consequences for future well-being.
 
 ### 'No Fun, No Glory'    
-#### [VICI project](https://www.nwo.nl/en/research-and-results/research-projects/i/79/9579.html) supervised by prof. dr. Oldehinkel    
-This study is a biopsychosocial study of how young people lose the ability to experience pleasure and how they can regain it, looking, among other things, at whether pleasure could be recovered through a parachute jump.
+#### [PhD project](https://www.nwo.nl/en/research-and-results/research-projects/i/79/9579.html)
+This study is a biopsychosocial study into anhedonia (decreased capability to experience pleasure). Anhedonia is a core symptom of depression, yet not fully understood. This study was set out to 1) Better understand which lifestyle factors play a part in loss of pleasure; 2) Investigate whether personalized lifestyle advice can help people with anhedonia to regain pleasure; 3) See if a tandem skydive can help people with anhedonia to carry out the lifestyle advice in their daily lives.
