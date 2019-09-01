@@ -6,9 +6,11 @@ subtitle: A not-so-short introduction
 
 ### Research interests/ Expertise
 
-- Psychosocial well-being
+- Mental health
+- Well-being
 - Affective disorders/ mood disorders
 - Anhedonia (decreased ability to experience pleasure)
+- Experience Sampling Methods
 
 My long-term goal is to lead an independent research programme that draws together sociology, psychology, public health, pedagogy and epidemiology to unravel the psychosocial and behavioural mechanisms that underlie the promotion of mental health and wellbeing.
 
