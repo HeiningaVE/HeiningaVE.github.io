@@ -169,6 +169,10 @@ The Hannie Schaft award is awarded every two years to students who have written 
 :round_pushpin: **Seattle, United States of America (USA)** 
 
 ## Membership board councils and committees
+September 2019 - Present  
+Steering group ORCID
+University of Groningen / University Medical Centre Groningen
+
 April 2019 - Present  
 Board Member of the Open Science Community Groningen  
 University of Groningen  
