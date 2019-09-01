@@ -12,7 +12,7 @@ subtitle: A not-so-short introduction
 - Anhedonia (decreased ability to experience pleasure)
 - Experience Sampling Methods
 
-My long-term goal is to lead an independent research programme that draws together sociology, psychology, public health, pedagogy and epidemiology to unravel the psychosocial and behavioural mechanisms that underlie the promotion of mental health and wellbeing.
+My long-term goal is to draw together sociology, psychology, public health, pedagogy and epidemiology to unravel the psychosocial and behavioural mechanisms that underlie the promotion of mental health and wellbeing.
 
 I am a great fan of Open Science, meaning that I: love research transparency; pre-register my confirmatory analyses a priori (e.g., on OSF); use Open Workflow Tools (e.g., R Markdown); publish in Open Access journals; make my data and annotated syntaxes publicly available (e.g., via Code Ocean), and stimulate the implementation of open access publishing within my faculty.
 
