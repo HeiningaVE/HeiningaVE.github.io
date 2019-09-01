@@ -18,7 +18,7 @@ I am a great fan of Open Science, meaning that I: love research transparency; pr
 
 ### Interdisciplinary
 
-Currently, I am an interdisciplinary postdoc with a focus on Deficits, Distress, and Disorders. That is, I combine insights from among others, sociology, psychology, pedagogics, educational science, and psychometrics to investigate the causal mechanisms of psychopathological disorders, and their effects on everyday functioning. In order to improve interdisciplinary cooperation within the faculty of social and behavioral sciences of the University of Groningen, I organize events. For example, I organized a hack-a-thon event during which I invited faculty staff to think along with the large interdisciplinary national crowdsourcing study among youth (aged 8-18) I am currently involved in (see also: [Recent Projects](https://heiningave.github.io/projects/).
+Currently, I am an interdisciplinary postdoc with a focus on Deficits, Distress, and Disorders. That is, I combine insights from among others, sociology, psychology, pedagogics, educational science, and psychometrics to investigate the causal mechanisms of psychopathological disorders, and their effects on everyday functioning. In order to improve interdisciplinary cooperation within the faculty of social and behavioral sciences of the University of Groningen, I organize events. For example, I organized a hack-a-thon event during which I invited faculty staff to think along with the large interdisciplinary national crowdsourcing study among youth (aged 8-18) I am currently involved in (see also: [Recent Projects](https://heiningave.github.io/projects/)).
 
 ### Research into anhedonia
 
