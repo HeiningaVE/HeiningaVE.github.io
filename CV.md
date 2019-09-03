@@ -72,17 +72,17 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 
 
 ## Work in prepration (4)
-Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains 
-
 **Heininga, V. E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.  
 
 **Heininga, V. E.**, van Roekel, E., & Oldehinkel, A. J. (in preparation) Loss of pleasure in daily life [translated from Dutch]. In preparation for submission in De Psycholoog.
 
 **Heininga, V.E.**, de Jonge, P. (in preparation) Psychosocial well-being across adulthood. In preparation for submission in Developmental Psychology.  
 
+Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains
+
 > to be added: Meta-analysis childhood trauma by immunogetic SNPs on depression.
 
-> to be added: NFNG Tilburg? 
+> to be added: NFNG Tilburg?
 
 
 ## Valorization
