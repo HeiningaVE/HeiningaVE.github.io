@@ -23,7 +23,7 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 
 * Postdoctoral research fellow, Quantitative Psychology and Individual Differences, University of Leuven
 
-## Publications (8) and preprints (2); chronological order
+## Peer-reviewed Publications (8) and preprints (2); chronological order
 
 **Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (preprint) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion. 
 * DOI Preprint: [10.31234/osf.io/3nkfj](https://psyarxiv.com/3nkfj/)
