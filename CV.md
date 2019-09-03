@@ -68,7 +68,7 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 > :information_source: Open Science score: 50% of my research is free to read online. According to ImpactStory (i.e., [total-impact.org](www.total-impact.org), this level of availability puts me in the **top 26%** of openness by researchers. Moreover, 41% of my papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). This important because Open Science is critical to accelerating the way we discover knowledge, and research funders are able to more quickly and efficiently maximize their return on investment.
 
 
-## :seedling: Work in prepration
+## :seedling: Work in prepration (4)
 Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains 
 
 **Heininga, V. E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.  
@@ -79,10 +79,10 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 
 > to be added: Meta-analysis childhood trauma by immunogetic SNPs on depression.
 
-> to be added: NFNG Tilburg 
+> to be added: NFNG Tilburg? 
 
 
-### Other academic output
+### Other academic output (5)
 
 **Heininga, V.E.**, van Roekel, E., Vrijen, C., Masselink, M., Oldehinkel, A.J. (accepted). Emotions, depression and (loss of) pleasure in daily life [translated from Dutch]. In-Mind. https://nl.in-mind.org/ 
 
