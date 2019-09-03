@@ -89,8 +89,9 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 **Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , *GGzet Wetenschappelijk*, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
 
 Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: *GGzet Wetenschappelijk*, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
-
-#### Media appearances of my research (first authored)
+  
+  
+#### Media appearances of my research (first authored; 4)
 04-12-2017, People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch) (NWO)
 
 09-12-2017, [People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch)](https://neurosciencenews.com/ahedonia-pleasure-8150/) (Neuroscience news)
@@ -98,8 +99,9 @@ Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het 
 22-05-2017, [The Netherlands Research Integrity Network News](https://www.nrin.nl/news/masterclass-john-ioannidis/)
 
 2018, Ziekten.nl, [Wetenschappelijk nieuws](https://www.ziekten.nl/mensen-met-anhedonie-ervaren-ook-plezier/)
-
-#### Media appearances of our "No Fun, No Glory"-Project
+  
+  
+#### Media appearances of our "No Fun, No Glory"-Project (8)
 17-01-2017, Maar jij lacht toch altijd? (AD)
 
 30-11-2016, Plezier van parachutesprong duurt maar kort (Volkskrant)
@@ -115,8 +117,8 @@ Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het 
 01-09-2013, Pleasure research: An interview with Tineke Oldehinkel (BCN Newsletter 92)
 
 06-02-2013, Weer plezier door een bungeejump (KennisInZicht)
-
-
+  
+  
 ## Scientific awards and nominations 
 ### All personal, main applicant grants; Ordered by size; total amount approximately €57.000,-
 
@@ -129,19 +131,19 @@ One year postdoctoral scholarships provided by the KU Leuven Internal Funds. The
 Grant from The Royal Netherlands Academy of Arts and Sciences (KNAW in Dutch) for promising young researchers in paediatric or related areas of medicine. Divided on the basis op competition.
 
 #### Pre registration challenge award
-12-2018; **_€1.000,-_** 
+12-2018; **_$1.000,-_** (circa €910,-)
 The Preregistration Challenge was an education campaign supported by the Laura and John Arnold Foundation. The campaign included $1000 prizes for researchers who published the results of preregistered work. 
 
 #### ISRCAP Travel Scholarship  
-06-2015; **_€650,-_**   
+06-2015; **_$750,-_** (circa €650,-)
 Scholarship awarded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP), based on a presentation judged to be of outstanding quality.
 
 #### PLOS Early Career Travel Award
-01-2017; **_€450,-_**   
+01-2017; **_$500,-_** (circa €450,-) 
 Program established to support opportunities for early career researchers to present their work and participate in the scientific dialogue.
 
 #### ECNP Travel bursary Bristol  
-02-2017; **_€450,-_**    
+02-2017; **_£400,-_** (circa €450,-)   
 Selected by European College of Neuropsychopharmacology (ECNP) for support of attendance at the 5-day residential course on advanced methods for reproducible science.
   
 #### STAND thesis Award
