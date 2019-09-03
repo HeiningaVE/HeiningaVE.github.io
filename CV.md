@@ -23,17 +23,7 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 
 * Postdoctoral research fellow, Quantitative Psychology and Individual Differences, University of Leuven
 
-## Peer-reviewed publications (8) and preprints (2); chronological order
-
-**Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (preprint) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion. 
-* DOI Preprint: [10.31234/osf.io/3nkfj](https://psyarxiv.com/3nkfj/)
-
-**Heininga V.E.**, Dejonckheere E., Houben M., Kuppens P. (preprint) Sociomarkers of anhedonia in Major Depressive Disorder.  
-* DOI Preregistration: https://osf.io/zbekw.  
-* DOI Preprint: [10.31234/osf.io/t2j7p](https://psyarxiv.com/t2j7p).
-
-Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains
-* DOI Preprint: [10.31219/osf.io/bu7z5](https://doi.org/10.31219/osf.io/bu7z5)
+## Peer-reviewed publications (8); chronological order
 
 **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5); 
 * DOI Preprint: [10.31234/osf.io/cfkts](https://doi.org/10.31234/osf.io/cfkts) 
@@ -65,13 +55,24 @@ van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof,
 * High Attention Score compared to outputs of the same age (80th percentile), calculated on Sept 3 (2019).
 
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0. DOI: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100).  
-  
+ 
   
 
 > *Altmetric Attention Score*: compares the attention score with other output of the same age. A score in the 93rd percentile, for example, means that 93% of its publications scored the same or lower than it. Altmetrics data is provided by Altmetric.com, a research metrics company who track and collect the online conversations around millions of scholarly outputs.  
 ![](/img/altmetric.jpg) Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
 
 > *Open Science score*: 50% of my research is free to read online. According to ImpactStory (i.e., [total-impact.org](www.total-impact.org), this level of availability puts me in the **top 26%** of openness by researchers. Moreover, 41% of my papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). This important because Open Science is critical to accelerating the way we discover knowledge, and research funders are able to more quickly and efficiently maximize their return on investment.
+
+##  Preprints (3)
+**Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (preprint) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion. 
+* DOI Preprint: [10.31234/osf.io/3nkfj](https://psyarxiv.com/3nkfj/)
+
+**Heininga V.E.**, Dejonckheere E., Houben M., Kuppens P. (preprint) Sociomarkers of anhedonia in Major Depressive Disorder.  
+* DOI Preregistration: https://osf.io/zbekw.  
+* DOI Preprint: [10.31234/osf.io/t2j7p](https://psyarxiv.com/t2j7p).
+
+Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains
+* DOI Preprint: [10.31219/osf.io/bu7z5](https://doi.org/10.31219/osf.io/bu7z5)
 
 
 ## Work in prepration (4)
