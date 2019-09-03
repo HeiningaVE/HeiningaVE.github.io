@@ -68,7 +68,7 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 > :information_source: Open Science score: 50% of my research is free to read online. According to ImpactStory (i.e., [total-impact.org](www.total-impact.org), this level of availability puts me in the **top 26%** of openness by researchers. Moreover, 41% of my papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). This important because Open Science is critical to accelerating the way we discover knowledge, and research funders are able to more quickly and efficiently maximize their return on investment.
 
 
-## :seedling: Work in prepration (4)
+## Work in prepration (4)
 Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains 
 
 **Heininga, V. E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.  
@@ -82,21 +82,42 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 > to be added: NFNG Tilburg? 
 
 
-### Other academic output (5)
-
+## Valorization
+#### Popular science articles (3)
 **Heininga, V.E.**, van Roekel, E., Vrijen, C., Masselink, M., Oldehinkel, A.J. (accepted). Emotions, depression and (loss of) pleasure in daily life [translated from Dutch]. In-Mind. https://nl.in-mind.org/ 
-
-**Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective. [PhD Thesis: University of Groningen](http://hdl.handle.net/11370/809469ab-4c9b-468b-a9b1-be97af42b493).
 
 **Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , *GGzet Wetenschappelijk*, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
 
-van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Nederhof E., Oldehinkel A. (2016). The effects of a personalized lifestyle advice and tandem skydive on pleasure in anhedonic young adults (Vol. 18). Wiley-Blackwell Publishing.
-
 Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: *GGzet Wetenschappelijk*, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
 
+#### Media appearances of my research (first authored)
+04-12-2017, People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch) (NWO)
+
+09-12-2017, [People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch)](https://neurosciencenews.com/ahedonia-pleasure-8150/) (Neuroscience news)
+
+22-05-2017, [The Netherlands Research Integrity Network News](https://www.nrin.nl/news/masterclass-john-ioannidis/)
+
+2018, Ziekten.nl, [Wetenschappelijk nieuws](https://www.ziekten.nl/mensen-met-anhedonie-ervaren-ook-plezier/)
+
+#### Media appearances of our "No Fun, No Glory"-Project
+17-01-2017, Maar jij lacht toch altijd? (AD)
+
+30-11-2016, Plezier van parachutesprong duurt maar kort (Volkskrant)
+
+19-11-2016, Parachutesprong maakt niet gelukkiger (Dagblad v/h Noorden)
+
+16-11-2016, UMCG zet parachutesprong in bij onderzoek (Nationale Zorggids)
+
+11-09-2015, Anhedonie is te genezen (Radio 1, Nieuwe Feiten, Belgische Openbare Omroep)
+
+29-08-2015, Sprong voor vreugde (Volkskrant)
+
+01-09-2013, Pleasure research: An interview with Tineke Oldehinkel (BCN Newsletter 92)
+
+06-02-2013, Weer plezier door een bungeejump (KennisInZicht)
 
 
-## :trophy: Scientific awards and nominations 
+## Scientific awards and nominations 
 ### All personal, main applicant grants; Ordered by size; total amount approximately €57.000,-
 
 #### Post Doctoral Mandate
@@ -146,12 +167,12 @@ The Hannie Schaft award is awarded every two years to students who have written 
 * 6 Psychology theses
 
 ### Undergraduate level
-* Co-Teacher "Research Methods: theory and ethics"
-* Co-Teacher "Psychiatry Research" Medical Sciences
+* Teacher "Research Methods: theory and ethics"
+* Teacher "Psychiatry Research" Medical Sciences 2014
 * Guest lectures on Open Science
 * Guest Lecture on lifestyle interventions in young adults "Interventions in individual development" 
-* Guest Lecture on anhedonia at "Social studies"
-* Guest Lecture on anhedonia at "Nursing" 
+* Guest Lecture on anhedonia at "Social studies" 2017
+* Guest Lecture on anhedonia at "Nursing" 2017
 * Teaching Assistent for "Statistics 1B"
 * Teaching Assistent for "Statistics 1A"
 
@@ -193,61 +214,58 @@ Member of the Educational Committee Master of Psychology: Theory and Research
 KU Leuven - University of Leuven, Belgium
 
 ## Other academic activities 
-* Co-founder the Open Science Community Groningen.  
+* Main founder the Open Science Community Groningen.  
 * Organizer of interdiscplinary events within the Behavioral and Social Sciences faculty Groningen.
 * Organizer of "Weekend van de Wetenschap" Groningen, "Weekend van de Wetenschap" is a popular, large-scale national event that is intended to introduce people to science and attract a large audience.
-* Performed peer-review activities for the following journals: Collabra; PLoS ONE; Journal of Child Psychology and Psychiatry (JCPP); Anxiety, Stress, & Coping; and Psychological Bulletin
 
-T=Teaching; S=Organized Symposium; P=Poster; and O=Oral presentation. International conferences only.
-
-|      |                                                                         | T | S | P | O |
-|------|-------------------------------------------------------------------------|---|---|---|---|
-| **2019** |  Society Ambulatory Assessment (SAA) conference; Syracuse, NY	 |  |   | x | x |
-|      | Society for Improvement of Psychological Science (SIPS); NL	 	 |  |   |   |   |
-|      | Winter School on Interdisciplinary Behavioural & Social Science; NL	 |  |   |   |   |
-|      | Emotions Tilburg; NL							 |  |   |   |   |
-| **2018** | Teacher *statistics 6*; last year Research Master students 	 | x |   |   |   |
-|      | 2nd Perspectives Scientific Error Workshop (*PSE2*), Groningen, NL      |   |   | x |   |
-|      | The Consortium of European Research on emotion (CERE); Glasgow          |   |   | x |   |
-|      | Belgian-Dutch expert network meeting on ESM and mental health, Heerlen, NL |   |   | x |   |
-|      | 7th International Research Meeting in Leuven, Belgium        	         |   |   | x |   |
-|      |                                                                         |   |   |   |   |
-| **2017** | Society Ambulatory Assessment (SAA) conference; Luxembourg  	         |   | x | x | x |
-|      | Guest lecture Social studies, Hanze Hogeschool; NL	                 | x |   |   |   |
-|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); NL	  |   |   | x |   |
-|      |                                                                         |   |   |   |   |
-| **2016** | Research Found21ation-Flanders (FWO) conference; Leuven, Belgium        |   | x |   |   |
-|      | Life History Research Society (LHRS) Meeting; NL                        |   |   | x |   |
-|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); NL       |   |   | x |   |
-|      |                                                                         |   |   |   |   |
-|**2015**| International Dutch Neuroscientific Meeting (DNM); NL  		 |   |   |   | x |
-|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); USA      |   | x | x |   |
-|      | Guest lecture Nursing, Hanze Hogeschool; NL                             | x |   |   |   |
-|      | Research Foundation-Flanders (FWO) conference; Belgium                  |   |   |   | x |
-|      |                                                                         |   |   |   |   |
-| **2014** | Teacher Psychiatry Research; 3rd year Medical Students (supervised)     | x |   |   |   |
-|      |                                                                         |   |   |   |   |
-| **2013** | Gravitation program Consortium on Individual Development (CID); NL      |   |   | x |   |
-|      | Teaching assistant Statistics 1B, first year psychology students        | x |   |   |   |
-|      |                                                                         |   |   |   |   |
-| **2012** | Teaching assistant Statistics 1A, first year psychology students        | x |   |   |   |
-|      |                                                                         |   |   |   |   |
-
- 
 ## Peer-review activities for academic journals
-- PLoS ONE 
-- Journal of Child Psychology and Psychiatry (JCPP) 
-- Psychological Bulletin  
-- Anxiety, Stress, & Coping 
+I performed review activities for the following journals: 
+* Collabra
+* PLoS ONE
+* Journal of Child Psychology and Psychiatry (JCPP)
+* Anxiety, Stress, & Coping; and Psychological Bulletin
+
+## Conferences
+S=Organized Symposium; P=Poster; and O=Oral presentation. International conferences only.
+
+|      |                                                                         | S | P | O |
+|------|-------------------------------------------------------------------------|---|---|---|
+| **2019** |  Society Ambulatory Assessment (SAA) conference; Syracuse, NY	 |   | x | x |
+|      | Society for Improvement of Psychological Science (SIPS); NL	 	 |   |   |   |
+|      | Winter School on Interdisciplinary Behavioural & Social Science; NL	 |   |   |   |
+|      | Emotions Tilburg; NL							 |   |   |   |
+|      | 									 |   |   |   |
+|**2018**| 2nd Perspectives Scientific Error Workshop (*PSE2*), Groningen, NL    |   |   | x |
+|      | The Consortium of European Research on emotion (CERE); Glasgow          |   | x |   |
+|      | Belgian-Dutch expert network meeting on ESM and mental health, Heerlen, NL |   | x |   |
+|      | 7th International Research Meeting in Leuven, Belgium        	         |   | x |   |
+|      |                                                                         |   |   |   |
+| **2017** | Society Ambulatory Assessment (SAA) conference; Luxembourg  	 | x | x | x |
+|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); NL	  |   | x |   |
+|      |                                                                         |   |   |   |
+| **2016** | Research Found21ation-Flanders (FWO) conference; Leuven, Belgium    | x |   |   |
+|      | Life History Research Society (LHRS) Meeting; NL                        |   | x |   |
+|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); NL       |   | x |   |
+|      |                                                                         |   |   |   |
+|**2015**| International Dutch Neuroscientific Meeting (DNM); NL  		 |   |   | x |
+|      | International Society for Research in Child and Adolescent Psychopathology (ISRCAP); USA      | x | x |   |
+|      | Guest lecture Nursing, Hanze Hogeschool; NL                             |   |   |   |
+|      | Research Foundation-Flanders (FWO) conference; Belgium                  |   |   | x |
+|      |                                                                         |   |   |   |
+| **2013** | Gravitation program Consortium on Individual Development (CID); NL  |   | x |   |
+|      | 									 |   |   |   |
 
 ## Membership of networks
 
 2018 - present Society Ambulatory Assessment (SAA)  
 2018 - present Society for the Improvement of Psychological Science (SIPS)
 
-## :mortar_board: Education 
+## Education 
 2013 – 2017		PhD candidate Psychiatry    
 University Medical Center Groningen (UMCG)
+
+PhD Thesis:  
+**Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective. [PhD Thesis: University of Groningen](http://hdl.handle.net/11370/809469ab-4c9b-468b-a9b1-be97af42b493).
 		
 2011 – 2013	 	Research Master Behavioural and Social Science    
 Interuniversity Centre Social Sciences & Methodology (ICS)     	
@@ -261,33 +279,6 @@ University of Groningen (RUG)
 
 2006 – 2010		BSc Social Work     
 Hanze University of Applied Sciences
-
-## Valorization
-#### Media appearances of my research (first authored)
-04-12-2017, People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch) (NWO)
-
-09-12-2017, [People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch)](https://neurosciencenews.com/ahedonia-pleasure-8150/) (Neuroscience news)
-
-22-05-2017, [The Netherlands Research Integrity Network News](https://www.nrin.nl/news/masterclass-john-ioannidis/)
-
-2018, Ziekten.nl, [Wetenschappelijk nieuws](https://www.ziekten.nl/mensen-met-anhedonie-ervaren-ook-plezier/)
-
-#### Media appearances of our "No Fun, No Glory"-Project
-17-01-2017, Maar jij lacht toch altijd? (AD)
-
-30-11-2016, Plezier van parachutesprong duurt maar kort (Volkskrant)
-
-19-11-2016, Parachutesprong maakt niet gelukkiger (Dagblad v/h Noorden)
-
-16-11-2016, UMCG zet parachutesprong in bij onderzoek (Nationale Zorggids)
-
-11-09-2015, Anhedonie is te genezen (Radio 1, Nieuwe Feiten, Belgische Openbare Omroep)
-
-29-08-2015, Sprong voor vreugde (Volkskrant)
-
-01-09-2013, Pleasure research: An interview with Tineke Oldehinkel (BCN Newsletter 92)
-
-06-02-2013, Weer plezier door een bungeejump (KennisInZicht)
 
 ## Language proficiencies
 * Dutch: Native or bilingual proficiency
