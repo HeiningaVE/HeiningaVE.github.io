@@ -66,8 +66,7 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 
 
 
-## Work in prepration 
-### Preprints (3)
+## Preprints (3)
 **Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (preprint) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion. 
 * DOI Preprint: [10.31234/osf.io/3nkfj](https://psyarxiv.com/3nkfj/)
 
@@ -78,7 +77,7 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains
 * DOI Preprint: [10.31219/osf.io/bu7z5](https://doi.org/10.31219/osf.io/bu7z5)
 
-### Work in preparation (5)
+## Work in preparation, but not yet submitted/preprint (5)
 **Heininga, V. E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.  
 
 **Heininga, V. E.**, van Roekel, E., & Oldehinkel, A. J. (in preparation) Loss of pleasure in daily life [translated from Dutch]. In preparation for submission in De Psycholoog.
