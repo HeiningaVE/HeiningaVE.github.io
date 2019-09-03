@@ -180,7 +180,7 @@ The Hannie Schaft award is awarded every two years to students who have written 
 
 ## Research stays abroad 
 - Four week visit to the [Adolescent Cognition and Emotion (A.C.E.)](https://spu.edu/academics/school-of-psychology-family-community/labs-and-research/faculty-research-lab-programs/ace-lab) lab of prof. [Mezulis](https://spu.edu/academics/school-of-psychology-family-community/faculty-and-staff/amy-mezulis-profile), Seattle Pacific University.  
-:round_pushpin: **Seattle, United States of America (USA)** 
+**Seattle, United States of America (USA)** 
 
 ## Membership board councils and committees
 September 2019 - Present  
