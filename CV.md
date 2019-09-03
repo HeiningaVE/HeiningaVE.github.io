@@ -23,31 +23,33 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 
 * Postdoctoral research fellow, Quantitative Psychology and Individual Differences, University of Leuven
 
-## Publications
-### Total of 8 peer-reviewed publications, ordered by Altmetric Attention Score
+## Publications (8) and preprints (2)
 
-**Heininga V.E.**, Dejonckheere E., Houben M., Obbels J., Sienaert P., Leroy, B., Van Roy J., Kuppens P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry.  
-* **DOI** [10.1186/s12888-018-1983-5](https://link.springer.com/article/10.1186/s12888-018-1983-5).  
-* **DOI Preprint**: [10.31234/osf.io/cfkts](https://psyarxiv.com/cfkts/).
-* **DOI Data and materials**: [osf.io/8gxrw](https://osf.io/8gxrw).  
+**Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (preprint) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion. 
+* **DOI Preprint**: [10.31234/osf.io/3nkfj](https://psyarxiv.com/3nkfj/)
+
+**Heininga V.E.**, Dejonckheere E., Houben M., Kuppens P. (preprint) Sociomarkers of anhedonia in Major Depressive Disorder.  
+* **DOI Preregistration**: https://osf.io/zbekw.  
+* **DOI Preprint**: [10.31234/osf.io/t2j7p](https://psyarxiv.com/t2j7p).
+
+**Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5); 
+* **DOI Preprint: [10.31234/osf.io/cfkts](https://doi.org/10.31234/osf.io/cfkts) 
+* **DOI Data and Code: [10.17605/OSF.IO/8GXRW](https://doi.org/10.17605/OSF.IO/8GXRW)
 * ![](/img/altmetric.jpg) Altmetric Attention Score: 17 (93rd percentile)
 
-Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292.  
-* **DOI**: [http://dx.doi.org/10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
+Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [http://dx.doi.org/10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
 * **DOI Preprint**: [10.31234/osf.io/tdnws](https://psyarxiv.com/tdnws/).  
 * ![](/img/altmetric.jpg) Altmetric Attention Score: 13 (91st percentile)
 
-van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182.  
-* **DOI**: [https://doi.org/10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z).   
+van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [https://doi.org/10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z).   
 * ![](/img/altmetric.jpg) Altmetric Attention Score: 13 (91st percentile)
 
-van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. *Behavior Therapy*, 48 (1), 76-96.  
-* **DOI**: [https://doi.org/10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).  
-* **DOI Preprint**: [10.1186/s12888-016-0880-z](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-0880-z).  
-* **DOI Data and materials**: [https://osf.io/k7rfu/](https://osf.io/k7rfu/).  
+van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehinkel, A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96. DOI: [10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).
+* **DOI Preprint**: [10.31234/osf.io/b94sy](https://doi.org/10.31234/osf.io/b94sy).  
+* **DOI Data and Code**: [https://osf.io/k7rfu/](https://osf.io/k7rfu/).  
 * ![](/img/altmetric.jpg) Altmetric Attention Score: 9 (86th percentile)
 
-**Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. *PLoS One*, 10 (5), 0-0.  
+**Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0.  
 * **DOI**: [https://doi.org/10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).   
 * **DOI Data and materials**: [Supporting information of the article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125383#sec026).  
 * ![](/img/altmetric.jpg) Altmetric Attention Score: 8 (84th percentile)
@@ -57,9 +59,8 @@ van Roekel E., Vrijen C., **Heininga V.E.**, Masselink M., Bos E., Oldehinkel A.
 * **DOI Data and materials**: [10.17605/OSF.IO/WDZS6](https://osf.io/wdzs6/).  
 * ![](/img/altmetric.jpg) Altmetric Attention Score: 8 (84th percentile)
 
-**Heininga V.E.**, van Roekel E., Ahles J., Oldehinkel A., Mezulis A. (2017). Positive affective functioning in anhedonic individuals' daily life Anything but flat and blunted. *Journal of Affective Disorders*, 218, 437-445.  
-* **DOI**: [https://doi.org/10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).  
-* **Data and materials**: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/).  
+**Heininga, V.E.**, van Roekel, E., Ahles J., Oldehinkel A., Mezulis, A. (2017). Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted. Journal of Affective Disorders, 218, 437445. DOI [10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).
+* **Data and Code**: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/).  
 * ![](/img/altmetric.jpg) Altmetric Attention Score: 6 (78th percentile)
 
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0.  
@@ -71,17 +72,8 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 > :information_source: Open Science score: 50% of my research is free to read online. According to ImpactStory (i.e., [total-impact.org](www.total-impact.org), this level of availability puts me in the **top 26%** of openness by researchers. Moreover, 41% of my papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). This important because Open Science is critical to accelerating the way we discover knowledge, and research funders are able to more quickly and efficiently maximize their return on investment.
 
 
-## :mag_right: Under review
-**Heininga V.E.**, Dejonckheere E., Houben M., Kuppens P. (_Clinical Psychological Science_) Sociomarkers of anhedonia in Major Depressive Disorder.  
-* **DOI Preregistration**: https://osf.io/zbekw.  
-* **DOI Preprint**: [10.31234/osf.io/t2j7p](https://psyarxiv.com/t2j7p).
-
-**Heininga V.E.**, van Roekel E., Vrijen C., Masselink M., Oldehinkel A.J. (_InMind_) Emotions, depression, and (loss of) pleasure in daily life [translated from Dutch].
-
 ## :seedling: Work in prepration
-Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains
-
-**Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (Submitted) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion.  
+Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains 
 
 **Heininga, V. E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.  
 
@@ -95,6 +87,9 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 
 
 ### Other academic output
+
+**Heininga, V.E.**, van Roekel, E., Vrijen, C., Masselink, M., Oldehinkel, A.J. (accepted). Emotions, depression and (loss of) pleasure in daily life [translated from Dutch]. In-Mind. https://nl.in-mind.org/ 
+
 **Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective. [PhD Thesis: University of Groningen](http://hdl.handle.net/11370/809469ab-4c9b-468b-a9b1-be97af42b493).
 
 **Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , *GGzet Wetenschappelijk*, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
