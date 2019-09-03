@@ -23,7 +23,7 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 
 * Postdoctoral research fellow, Quantitative Psychology and Individual Differences, University of Leuven
 
-## Publications (8) and preprints (2)
+## Publications (8) and preprints (2); chronological order
 
 **Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (preprint) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion. 
 * DOI Preprint: [10.31234/osf.io/3nkfj](https://psyarxiv.com/3nkfj/)
@@ -37,20 +37,9 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 * DOI Data and Code: [10.17605/OSF.IO/8GXRW](https://doi.org/10.17605/OSF.IO/8GXRW)
 * High Altmetric Attention Score compared to outputs of the same age (90th percentile) 
 
-Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
+Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. (2019) Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
 * DOI Preprint: [10.31234/osf.io/tdnws](https://psyarxiv.com/tdnws/).  
 * High Altmetric Attention Score compared to outputs of the same age (84th percentile) 
-
-van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z).   
-* High Altmetric Attention Score compared to outputs of the same age (87th percentile) 
-
-van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehinkel, A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96. DOI: [10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).
-* DOI Preprint: [10.31234/osf.io/b94sy](https://doi.org/10.31234/osf.io/b94sy).  
-* DOI Data and Code: [https://osf.io/k7rfu/](https://osf.io/k7rfu/).  
-* High Altmetric Attention Score compared to outputs of the same age (81st percentile) 
-
-**Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0. DOI:[10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).   
-* High Attention Score compared to outputs of the same age (80th percentile) 
 
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. PLoS ONE 12(10): e0180753.  
 * DOI: [10.1371/journal.pone.0180753](https://doi.org/10.1371/journal.pone.0180753).  
@@ -60,6 +49,17 @@ van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehink
 **Heininga, V.E.**, van Roekel, E., Ahles J., Oldehinkel A., Mezulis, A. (2017). Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted. Journal of Affective Disorders, 218, 437445. DOI [10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).
 * Data and Code: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/).  
 * High Attention Score compared to outputs of the same age and source (82nd percentile) 
+
+van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehinkel, A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96. DOI: [10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).
+* DOI Preprint: [10.31234/osf.io/b94sy](https://doi.org/10.31234/osf.io/b94sy).  
+* DOI Data and Code: [https://osf.io/k7rfu/](https://osf.io/k7rfu/).  
+* High Altmetric Attention Score compared to outputs of the same age (81st percentile) 
+
+van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z).   
+* High Altmetric Attention Score compared to outputs of the same age (87th percentile) 
+
+**Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0. DOI:[10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).   
+* High Attention Score compared to outputs of the same age (80th percentile) 
 
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0. DOI: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100).  
 
