@@ -93,7 +93,8 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: *GGzet Wetenschappelijk*, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
   
   
-### Media appearances of my research (first authored; 4)
+### Media appearances 
+#### Regarding to first authored work (4)
 04-12-2017, People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch) (NWO)
 
 09-12-2017, [People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch)](https://neurosciencenews.com/ahedonia-pleasure-8150/) (Neuroscience news)
@@ -103,7 +104,7 @@ Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het 
 2018, Ziekten.nl, [Wetenschappelijk nieuws](https://www.ziekten.nl/mensen-met-anhedonie-ervaren-ook-plezier/)
   
   
-### Media appearances of our "No Fun, No Glory"-Project (8)
+#### Regarding the "No Fun, No Glory"-Project I was part of (8)
 17-01-2017, Maar jij lacht toch altijd? (AD)
 
 30-11-2016, Plezier van parachutesprong duurt maar kort (Volkskrant)
