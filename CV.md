@@ -35,35 +35,35 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5); 
 * DOI Preprint: [10.31234/osf.io/cfkts](https://doi.org/10.31234/osf.io/cfkts) 
 * DOI Data and Code: [10.17605/OSF.IO/8GXRW](https://doi.org/10.17605/OSF.IO/8GXRW)
-* High Altmetric Attention Score compared to outputs of the same age (90th percentile) 
+* High Altmetric Attention Score compared to outputs of the same age (90th percentile), calculated on September 3 (2019).
 
 Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. (2019) Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
 * DOI Preprint: [10.31234/osf.io/tdnws](https://psyarxiv.com/tdnws/).  
-* High Altmetric Attention Score compared to outputs of the same age (84th percentile) 
+* High Altmetric Attention Score compared to outputs of the same age (84th percentile), calculated on September 3 (2019).
 
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. PLoS ONE 12(10): e0180753.  
 * DOI: [10.1371/journal.pone.0180753](https://doi.org/10.1371/journal.pone.0180753).  
 * DOI Data and Code [10.17605/OSF.IO/WDZS6](https://osf.io/wdzs6/).  
-* Good Attention Score compared to outputs of the same age (79th percentile) 
+* Good Attention Score compared to outputs of the same age (79th percentile), calculated on September 3 (2019).
 
 **Heininga, V.E.**, van Roekel, E., Ahles J., Oldehinkel A., Mezulis, A. (2017). Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted. Journal of Affective Disorders, 218, 437445. DOI [10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).
 * Data and Code: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/).  
-* High Attention Score compared to outputs of the same age and source (82nd percentile) 
+* High Attention Score compared to outputs of the same age and source (82nd percentile), calculated on September 3 (2019).
 
 van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehinkel, A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96. DOI: [10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).
 * DOI Preprint: [10.31234/osf.io/b94sy](https://doi.org/10.31234/osf.io/b94sy).  
 * DOI Data and Code: [https://osf.io/k7rfu/](https://osf.io/k7rfu/).  
-* High Altmetric Attention Score compared to outputs of the same age (81st percentile) 
+* High Altmetric Attention Score compared to outputs of the same age (81st percentile), calculated on September 3 (2019).
 
 van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z).   
-* High Altmetric Attention Score compared to outputs of the same age (87th percentile) 
+* High Altmetric Attention Score compared to outputs of the same age (87th percentile), calculated on September 3 (2019).
 
 **Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0. DOI:[10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).   
-* High Attention Score compared to outputs of the same age (80th percentile) 
+* High Attention Score compared to outputs of the same age (80th percentile), calculated on September 3 (2019).
 
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0. DOI: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100).  
 
-> ![](/img/altmetric.jpg) Altmetric Attention Score: compares the attention score with other output of the same age. A score in the 93rd percentile, for example, means that the score belongs to the top 7% ever tracked by Altmetrics. Altmetrics data is provided by Altmetric.com, a research metrics company who track and collect the online conversations around millions of scholarly outputs. Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
+> ![](/img/altmetric.jpg) Altmetric Attention Score: compares the attention score with other output of the same age. A score in the 93rd percentile, for example, means that 93% of its publications scored the same or lower than it. Altmetrics data is provided by Altmetric.com, a research metrics company who track and collect the online conversations around millions of scholarly outputs. Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
 
 > :information_source: Open Science score: 50% of my research is free to read online. According to ImpactStory (i.e., [total-impact.org](www.total-impact.org), this level of availability puts me in the **top 26%** of openness by researchers. Moreover, 41% of my papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). This important because Open Science is critical to accelerating the way we discover knowledge, and research funders are able to more quickly and efficiently maximize their return on investment.
 
