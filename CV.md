@@ -33,41 +33,37 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 * **DOI Preprint**: [10.31234/osf.io/t2j7p](https://psyarxiv.com/t2j7p).
 
 **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5); 
-* **DOI Preprint: [10.31234/osf.io/cfkts](https://doi.org/10.31234/osf.io/cfkts) 
-* **DOI Data and Code: [10.17605/OSF.IO/8GXRW](https://doi.org/10.17605/OSF.IO/8GXRW)
-* ![](/img/altmetric.jpg) Altmetric Attention Score: 17 (93rd percentile)
+* **DOI Preprint**: [10.31234/osf.io/cfkts](https://doi.org/10.31234/osf.io/cfkts) 
+* **DOI Data and Code**: [10.17605/OSF.IO/8GXRW](https://doi.org/10.17605/OSF.IO/8GXRW)
+* High Altmetric Attention Score compared to outputs of the same age (90th percentile) ![](/img/altmetric.jpg)
 
-Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [http://dx.doi.org/10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
+Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
 * **DOI Preprint**: [10.31234/osf.io/tdnws](https://psyarxiv.com/tdnws/).  
-* ![](/img/altmetric.jpg) Altmetric Attention Score: 13 (91st percentile)
+* High Altmetric Attention Score compared to outputs of the same age (84th percentile) ![](/img/altmetric.jpg)
 
-van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [https://doi.org/10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z).   
-* ![](/img/altmetric.jpg) Altmetric Attention Score: 13 (91st percentile)
+van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z).   
+* High Altmetric Attention Score compared to outputs of the same age (87th percentile) ![](/img/altmetric.jpg) 
 
 van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehinkel, A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96. DOI: [10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).
 * **DOI Preprint**: [10.31234/osf.io/b94sy](https://doi.org/10.31234/osf.io/b94sy).  
 * **DOI Data and Code**: [https://osf.io/k7rfu/](https://osf.io/k7rfu/).  
-* ![](/img/altmetric.jpg) Altmetric Attention Score: 9 (86th percentile)
+* High Altmetric Attention Score compared to outputs of the same age (81st percentile) ![](/img/altmetric.jpg)
 
-**Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0.  
-* **DOI**: [https://doi.org/10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).   
-* **DOI Data and materials**: [Supporting information of the article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125383#sec026).  
-* ![](/img/altmetric.jpg) Altmetric Attention Score: 8 (84th percentile)
+**Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0. DOI:[10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).   
+* High Attention Score compared to outputs of the same age (80th percentile) ![](/img/altmetric.jpg) 
 
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. PLoS ONE 12(10): e0180753.  
-* **DOI**: [https://doi.org/10.1371/journal.pone.0180753](https://doi.org/10.1371/journal.pone.0180753).  
+* **DOI**: [10.1371/journal.pone.0180753](https://doi.org/10.1371/journal.pone.0180753).  
 * **DOI Data and materials**: [10.17605/OSF.IO/WDZS6](https://osf.io/wdzs6/).  
-* ![](/img/altmetric.jpg) Altmetric Attention Score: 8 (84th percentile)
+* Good Attention Score compared to outputs of the same age (79th percentile) ![](/img/altmetric.jpg) 
 
 **Heininga, V.E.**, van Roekel, E., Ahles J., Oldehinkel A., Mezulis, A. (2017). Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted. Journal of Affective Disorders, 218, 437445. DOI [10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).
 * **Data and Code**: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/).  
-* ![](/img/altmetric.jpg) Altmetric Attention Score: 6 (78th percentile)
+* High Attention Score compared to outputs of the same age and source (82nd percentile) ![](/img/altmetric.jpg)
 
-Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0.  
-* **DOI**: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100).  
-* ![](/img/altmetric.jpg) Altmetric Attention Score: 1 (1st percentile)
+Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0. DOI: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100).  
 
-> :information_source: Altmetric Attention Score: compares the attention score with other output of the same age. A score in the 93rd percentile, for example, means that the score belongs to the top 7% ever tracked by Altmetrics. Altmetrics data is provided by Altmetric.com, a research metrics company who track and collect the online conversations around millions of scholarly outputs. Altmetric continually monitors a variety of non-traditional [sources](https://www.altmetric.com/about-altmetrics/our-sources/) to provide real-time updates on new mentions and shares of individual research outputs, which are collated and presented to users via the Altmetric [details pages](https://www.altmetric.com/about-altmetrics/altmetric-details-page/) and [badge visualisations](https://www.altmetric.com/products/altmetric-badges/). Each research output that Altmetric finds attention for is also given a score; a weighted count of the online attention it has received. Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
+> :information_source: Altmetric Attention Score: compares the attention score with other output of the same age. A score in the 93rd percentile, for example, means that the score belongs to the top 7% ever tracked by Altmetrics. Altmetrics data is provided by Altmetric.com, a research metrics company who track and collect the online conversations around millions of scholarly outputs. Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
 
 > :information_source: Open Science score: 50% of my research is free to read online. According to ImpactStory (i.e., [total-impact.org](www.total-impact.org), this level of availability puts me in the **top 26%** of openness by researchers. Moreover, 41% of my papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). This important because Open Science is critical to accelerating the way we discover knowledge, and research funders are able to more quickly and efficiently maximize their return on investment.
 
@@ -101,17 +97,17 @@ Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het 
 
 
 ## :trophy: Scientific awards and nominations 
-### Ordered by size; total amount approximately €57.000,-
+### All personal, main applicant grants; Ordered by size; total amount approximately €57.000,-
 
-#### Post Doctoral Mandate (personal grant; main applicant)
+#### Post Doctoral Mandate
 03-2017; **_€32.350,-_**  
 One year postdoctoral scholarships provided by the KU Leuven Internal Funds. The Internal Funds are divided to researchers on the basis of competition. 
 
-#### KNAW Ter Meulen grant (personal grant; main applicant)
+#### KNAW Ter Meulen grant
 06-2017; **_€21.900,-_**   
 Grant from The Royal Netherlands Academy of Arts and Sciences (KNAW in Dutch) for promising young researchers in paediatric or related areas of medicine. Divided on the basis op competition.
 
-#### Pre registration challenge award (personal grant; main applicant)
+#### Pre registration challenge award
 12-2018; **_€1.000,-_** 
 The Preregistration Challenge was an education campaign supported by the Laura and John Arnold Foundation. The campaign included $1000 prizes for researchers who published the results of preregistered work. 
 
@@ -119,7 +115,7 @@ The Preregistration Challenge was an education campaign supported by the Laura a
 06-2015; **_€650,-_**   
 Scholarship awarded by the International Society for Research in Child and Adolescent Psychopathology (ISRCAP), based on a presentation judged to be of outstanding quality.
 
-#### PLOS Early Career Travel Award (personal grant; main applicant)
+#### PLOS Early Career Travel Award
 01-2017; **_€450,-_**   
 Program established to support opportunities for early career researchers to present their work and participate in the scientific dialogue.
 
@@ -160,7 +156,7 @@ The Hannie Schaft award is awarded every two years to students who have written 
 * Teaching Assistent for "Statistics 1A"
 
 ## Research stays abroad 
-- Four week visit to the lab of prof. Mezulis, Seattle Pacific University.  
+- Four week visit to the [Adolescent Cognition and Emotion (A.C.E.)](https://spu.edu/academics/school-of-psychology-family-community/labs-and-research/faculty-research-lab-programs/ace-lab) lab of prof. [Mezulis](https://spu.edu/academics/school-of-psychology-family-community/faculty-and-staff/amy-mezulis-profile), Seattle Pacific University.  
 :round_pushpin: **Seattle, United States of America (USA)** 
 
 ## Membership board councils and committees
