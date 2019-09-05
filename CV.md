@@ -248,8 +248,8 @@ I performed review activities for the following journals:
 
 
 
-## Conferences
-S=Organized Symposium; P=Poster; and O=Oral presentation. International conferences only.
+## International Conferences
+S=Organized Symposium; P=Poster; and O=Oral presentation.
 
 |      |                                                                         | S | P | O |
 |------|-------------------------------------------------------------------------|---|---|---|
