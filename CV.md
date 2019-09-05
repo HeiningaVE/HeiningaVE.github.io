@@ -89,6 +89,9 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 
 > to be added: NFNG Tilburg?
 
+## Research stays abroad 
+- Four week visit to the [Adolescent Cognition and Emotion (A.C.E.)](https://spu.edu/academics/school-of-psychology-family-community/labs-and-research/faculty-research-lab-programs/ace-lab) lab of prof. [Mezulis](https://spu.edu/academics/school-of-psychology-family-community/faculty-and-staff/amy-mezulis-profile), Seattle Pacific University.  
+**Seattle, United States of America (USA)** 
 
 ## Valorization
 ### Popular science articles (3)
@@ -168,9 +171,6 @@ Selected by the Netherlands Research Integrity Network as one of the 9 excellent
 08-2013; Runner up   
 The Hannie Schaft award is awarded every two years to students who have written a final paper which speaks of social engagement.
 
-## Research stays abroad 
-- Four week visit to the [Adolescent Cognition and Emotion (A.C.E.)](https://spu.edu/academics/school-of-psychology-family-community/labs-and-research/faculty-research-lab-programs/ace-lab) lab of prof. [Mezulis](https://spu.edu/academics/school-of-psychology-family-community/faculty-and-staff/amy-mezulis-profile), Seattle Pacific University.  
-**Seattle, United States of America (USA)** 
 
 ## Teaching and supervision
 ### PhD level 
