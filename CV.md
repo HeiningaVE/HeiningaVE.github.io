@@ -89,11 +89,11 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 
 > to be added: NFNG Tilburg?
 
-## Research stays abroad 
+## Research stays abroad (1)
 - Four week visit to the [Adolescent Cognition and Emotion (A.C.E.)](https://spu.edu/academics/school-of-psychology-family-community/labs-and-research/faculty-research-lab-programs/ace-lab) lab of prof. [Mezulis](https://spu.edu/academics/school-of-psychology-family-community/faculty-and-staff/amy-mezulis-profile), Seattle Pacific University.  
 **Seattle, United States of America (USA)** 
 
-## Invited talks
+## Invited talks (8)
 * Interdisciplinary Center Psychopathology and Emotion regulation (ICPE) - University Medical Centre Groningen, on Rmarkdown, June 6 2019 
 * Department of Developmental Psychology - Tilburg University, every child is different project, February 12 2019
 * Contextual Psychiatry - Leuven University, on the signature of anhedonia, April 23 2018
@@ -104,7 +104,7 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 * Adolescent Cognition and Emotion (ACE) Lab - Seattle Pacific University (USA), on anhedoniaand the No Fun No Glory Project, July 2015
 
   
-## Scientific awards and nominations 
+## Scientific awards and nominations (9)
 ### Total amount approximately €57.000,-
 ### All personal, main applicant grants; Ordered by size
 
