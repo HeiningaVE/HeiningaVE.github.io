@@ -168,6 +168,9 @@ Selected by the Netherlands Research Integrity Network as one of the 9 excellent
 08-2013; Runner up   
 The Hannie Schaft award is awarded every two years to students who have written a final paper which speaks of social engagement.
 
+## Research stays abroad 
+- Four week visit to the [Adolescent Cognition and Emotion (A.C.E.)](https://spu.edu/academics/school-of-psychology-family-community/labs-and-research/faculty-research-lab-programs/ace-lab) lab of prof. [Mezulis](https://spu.edu/academics/school-of-psychology-family-community/faculty-and-staff/amy-mezulis-profile), Seattle Pacific University.  
+**Seattle, United States of America (USA)** 
 
 ## Teaching and supervision
 ### PhD level 
@@ -181,16 +184,20 @@ The Hannie Schaft award is awarded every two years to students who have written 
 ### Undergraduate level
 * Teacher "Research Methods: theory and ethics"
 * Teacher "Psychiatry Research" Medical Sciences 2014
-* Guest lectures on Open Science
 * Guest Lecture on lifestyle interventions in young adults "Interventions in individual development" 
-* Guest Lecture on anhedonia at "Social studies" 2017
-* Guest Lecture on anhedonia at "Nursing" 2017
 * Teaching Assistent for "Statistics 1B"
 * Teaching Assistent for "Statistics 1A"
 
-## Research stays abroad 
-- Four week visit to the [Adolescent Cognition and Emotion (A.C.E.)](https://spu.edu/academics/school-of-psychology-family-community/labs-and-research/faculty-research-lab-programs/ace-lab) lab of prof. [Mezulis](https://spu.edu/academics/school-of-psychology-family-community/faculty-and-staff/amy-mezulis-profile), Seattle Pacific University.  
-**Seattle, United States of America (USA)** 
+## Invited talks
+* Interdisciplinary Center Psychopathology and Emotion regulation (ICPE) - University Medical Centre Groningen, on Rmarkdown, June 6 2019 
+* Department of Developmental Psychology - Tilburg University, every child is different project, February 12 2019
+* Contextual Psychiatry - Leuven University, on the signature of anhedonia, April 23 2018
+* Quantitative Psychology and Individual Differences - Leuven University, on anhedonia and the No Fun No Glory Project, April 17 2018
+* Department of Developmental Psychology - Tilburg University, Sociomarker paper, April 16 2018
+* Social studies - Hanze University of Applied Sciences, on anhedonia and the No Fun No Glory Project, 2017
+* Nursing - Hanze University of Applied Sciences, on anhedonia and the No Fun No Glory Project, 2017
+* Adolescent Cognition and Emotion (ACE) Lab - Seattle Pacific University (USA), on anhedoniaand the No Fun No Glory Project, July 2015
+
 
 ## Membership board councils and committees
 September 2019 - Present  
