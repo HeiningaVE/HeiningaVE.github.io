@@ -93,43 +93,16 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 - Four week visit to the [Adolescent Cognition and Emotion (A.C.E.)](https://spu.edu/academics/school-of-psychology-family-community/labs-and-research/faculty-research-lab-programs/ace-lab) lab of prof. [Mezulis](https://spu.edu/academics/school-of-psychology-family-community/faculty-and-staff/amy-mezulis-profile), Seattle Pacific University.  
 **Seattle, United States of America (USA)** 
 
-## Valorization
-### Popular science articles (3)
-**Heininga, V.E.**, van Roekel, E., Vrijen, C., Masselink, M., Oldehinkel, A.J. (accepted). Emotions, depression and (loss of) pleasure in daily life [translated from Dutch]. In-Mind. https://nl.in-mind.org/ 
+## Invited talks
+* Interdisciplinary Center Psychopathology and Emotion regulation (ICPE) - University Medical Centre Groningen, on Rmarkdown, June 6 2019 
+* Department of Developmental Psychology - Tilburg University, every child is different project, February 12 2019
+* Contextual Psychiatry - Leuven University, on the signature of anhedonia, April 23 2018
+* Quantitative Psychology and Individual Differences - Leuven University, on anhedonia and the No Fun No Glory Project, April 17 2018
+* Department of Developmental Psychology - Tilburg University, Sociomarker paper, April 16 2018
+* Social studies - Hanze University of Applied Sciences, on anhedonia and the No Fun No Glory Project, 2017
+* Nursing - Hanze University of Applied Sciences, on anhedonia and the No Fun No Glory Project, 2017
+* Adolescent Cognition and Emotion (ACE) Lab - Seattle Pacific University (USA), on anhedoniaand the No Fun No Glory Project, July 2015
 
-**Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , *GGzet Wetenschappelijk*, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
-
-Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: *GGzet Wetenschappelijk*, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
-  
-  
-### Media appearances 
-#### Regarding to first authored work (4)
-04-12-2017, People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch) (NWO)
-
-09-12-2017, [People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch)](https://neurosciencenews.com/ahedonia-pleasure-8150/) (Neuroscience news)
-
-22-05-2017, [The Netherlands Research Integrity Network News](https://www.nrin.nl/news/masterclass-john-ioannidis/)
-
-2018, Ziekten.nl, [Wetenschappelijk nieuws](https://www.ziekten.nl/mensen-met-anhedonie-ervaren-ook-plezier/)
-  
-  
-#### Regarding the "No Fun, No Glory"-Project I was part of (8)
-17-01-2017, Maar jij lacht toch altijd? (AD)
-
-30-11-2016, Plezier van parachutesprong duurt maar kort (Volkskrant)
-
-19-11-2016, Parachutesprong maakt niet gelukkiger (Dagblad v/h Noorden)
-
-16-11-2016, UMCG zet parachutesprong in bij onderzoek (Nationale Zorggids)
-
-11-09-2015, Anhedonie is te genezen (Radio 1, Nieuwe Feiten, Belgische Openbare Omroep)
-
-29-08-2015, Sprong voor vreugde (Volkskrant)
-
-01-09-2013, Pleasure research: An interview with Tineke Oldehinkel (BCN Newsletter 92)
-
-06-02-2013, Weer plezier door een bungeejump (KennisInZicht)
-  
   
 ## Scientific awards and nominations 
 ### Total amount approximately €57.000,-
@@ -188,16 +161,6 @@ The Hannie Schaft award is awarded every two years to students who have written 
 * Teaching Assistent for "Statistics 1B"
 * Teaching Assistent for "Statistics 1A"
 
-## Invited talks
-* Interdisciplinary Center Psychopathology and Emotion regulation (ICPE) - University Medical Centre Groningen, on Rmarkdown, June 6 2019 
-* Department of Developmental Psychology - Tilburg University, every child is different project, February 12 2019
-* Contextual Psychiatry - Leuven University, on the signature of anhedonia, April 23 2018
-* Quantitative Psychology and Individual Differences - Leuven University, on anhedonia and the No Fun No Glory Project, April 17 2018
-* Department of Developmental Psychology - Tilburg University, Sociomarker paper, April 16 2018
-* Social studies - Hanze University of Applied Sciences, on anhedonia and the No Fun No Glory Project, 2017
-* Nursing - Hanze University of Applied Sciences, on anhedonia and the No Fun No Glory Project, 2017
-* Adolescent Cognition and Emotion (ACE) Lab - Seattle Pacific University (USA), on anhedoniaand the No Fun No Glory Project, July 2015
-
 
 ## Membership board councils and committees
 September 2019 - Present  
@@ -243,6 +206,44 @@ I performed review activities for the following journals:
 * PLoS ONE
 * Journal of Child Psychology and Psychiatry (JCPP)
 * Anxiety, Stress, & Coping; and Psychological Bulletin
+
+## Valorization
+### Popular science articles (3)
+**Heininga, V.E.**, van Roekel, E., Vrijen, C., Masselink, M., Oldehinkel, A.J. (accepted). Emotions, depression and (loss of) pleasure in daily life [translated from Dutch]. In-Mind. https://nl.in-mind.org/ 
+
+**Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , *GGzet Wetenschappelijk*, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
+
+Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: *GGzet Wetenschappelijk*, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
+  
+  
+### Media appearances 
+#### Regarding to first authored work (4)
+04-12-2017, People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch) (NWO)
+
+09-12-2017, [People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch)](https://neurosciencenews.com/ahedonia-pleasure-8150/) (Neuroscience news)
+
+22-05-2017, [The Netherlands Research Integrity Network News](https://www.nrin.nl/news/masterclass-john-ioannidis/)
+
+2018, Ziekten.nl, [Wetenschappelijk nieuws](https://www.ziekten.nl/mensen-met-anhedonie-ervaren-ook-plezier/)
+  
+  
+#### Regarding the "No Fun, No Glory"-Project I was part of (8)
+17-01-2017, Maar jij lacht toch altijd? (AD)
+
+30-11-2016, Plezier van parachutesprong duurt maar kort (Volkskrant)
+
+19-11-2016, Parachutesprong maakt niet gelukkiger (Dagblad v/h Noorden)
+
+16-11-2016, UMCG zet parachutesprong in bij onderzoek (Nationale Zorggids)
+
+11-09-2015, Anhedonie is te genezen (Radio 1, Nieuwe Feiten, Belgische Openbare Omroep)
+
+29-08-2015, Sprong voor vreugde (Volkskrant)
+
+01-09-2013, Pleasure research: An interview with Tineke Oldehinkel (BCN Newsletter 92)
+
+06-02-2013, Weer plezier door een bungeejump (KennisInZicht)
+  
 
 ## Conferences
 S=Organized Symposium; P=Poster; and O=Oral presentation. International conferences only.
