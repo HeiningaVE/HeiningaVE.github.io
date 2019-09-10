@@ -245,7 +245,8 @@ I performed review activities for the following journals:
 * Collabra
 * PLoS ONE
 * Journal of Child Psychology and Psychiatry (JCPP)
-* Anxiety, Stress, & Coping; and Psychological Bulletin
+* Anxiety, Stress, & Coping; and 
+* Psychological Bulletin
 
 
 
