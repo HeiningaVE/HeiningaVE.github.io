@@ -135,6 +135,7 @@ Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het 
 ## Invited talks (8)
 * Interdisciplinary Center Psychopathology and Emotion regulation (ICPE) - University Medical Centre Groningen, on Rmarkdown, June 6 2019 
 * Department of Developmental Psychology - Tilburg University, every child is different project, February 12 2019
+* Quantitative Psychology and Individual Differences - Leuven University, on every child is different project, January 8 2019
 * Contextual Psychiatry - Leuven University, on the signature of anhedonia, April 23 2018
 * Quantitative Psychology and Individual Differences - Leuven University, on anhedonia and the No Fun No Glory Project, April 17 2018
 * Department of Developmental Psychology - Tilburg University, Sociomarker paper, April 16 2018
