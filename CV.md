@@ -78,11 +78,13 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 * DOI Preprint: [10.31219/osf.io/bu7z5](https://doi.org/10.31219/osf.io/bu7z5)
 
 ## Work in preparation, but not yet submitted/preprint (5)
-**Heininga, V. E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.  
+**Heininga, V. E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.
 
 **Heininga, V. E.**, van Roekel, E., & Oldehinkel, A. J. (in preparation) Loss of pleasure in daily life [translated from Dutch]. In preparation for submission in De Psycholoog.
 
 **Heininga, V.E.**, de Jonge, P. (in preparation) Psychosocial well-being across adulthood. In preparation for submission in Developmental Psychology.  
+
+Wessel, I., Albers, C.J., **Heininga, V.E.**, Zandstra, A.R.E. (in preparation) A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-Think task.
 
 > to be added: Meta-analysis childhood trauma by immunogetic SNPs on depression.
 
