@@ -242,7 +242,8 @@ KU Leuven - University of Leuven, Belgium
 * Organizer of interdiscplinary events within the Behavioral and Social Sciences faculty Groningen.
 * Organizer of "Weekend van de Wetenschap" Groningen, "Weekend van de Wetenschap" is a popular, large-scale national event that is intended to introduce people to science and attract a large audience.
 
-## Peer-review activities for academic journals
+## Peer-review activities for academic journals  
+### Note: I signed the [DORA declaration](https://sfdora.org/)
 I performed review activities for the following journals: 
 * Collabra
 * PLoS ONE
