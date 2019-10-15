@@ -8,7 +8,7 @@ subtitle: A not-so-short introduction
 
 - Mental health
 - Well-being
-- Affective disorders/ mood disorders (e.g., depression)
+- Depression
 
 My long-term goal is to draw together sociology, psychology, public health, pedagogy and epidemiology to unravel the psychosocial and behavioural mechanisms that underlie the promotion of mental health and wellbeing. My research focuses on how strengthening positive mental health (pleasure, happiness and satisfaction) can prevent and aleviate depressive feelings.
 
