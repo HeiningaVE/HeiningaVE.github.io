@@ -9,8 +9,6 @@ subtitle: A not-so-short introduction
 - Mental health
 - Well-being
 - Affective disorders/ mood disorders (e.g., depression)
-- Anhedonia (decreased ability to experience pleasure)
-- Experience Sampling Methods
 
 My long-term goal is to draw together sociology, psychology, public health, pedagogy and epidemiology to unravel the psychosocial and behavioural mechanisms that underlie the promotion of mental health and wellbeing. My research focuses on how strengthening positive mental health (pleasure, happiness and satisfaction) can prevent and aleviate depressive feelings.
 
@@ -22,7 +20,7 @@ Currently, I am an interdisciplinary postdoc with a focus on Deficits, Distress,
 
 ### Research into anhedonia
 
-Between 2013 and 2017, I was part of a biopsychosocial study into anhedonia. Together with the ‘No Fun No Glory’ research team, I collected survey data among nearly 3000 young adults; set out Ecological Momentary Assessment study (EMA) in which we sampled subjective experiences for multiple times a day for multiple days; and developed an EMA-based intervention te regain pleasure in daily life.  
+Between 2013 and 2017, I was part of a biopsychosocial study into anhedonia, one of the two core symptoms of depression. Together with the ‘No Fun No Glory’ research team, I collected survey data among nearly 3000 young adults; set out Ecological Momentary Assessment study (EMA) in which we sampled subjective experiences for multiple times a day for multiple days; and developed an EMA-based intervention te regain pleasure in daily life.  
 
 In the EMA-based intervention, participants got personalized advice based on their daily life pleasure associations. For example, if the associations showed that more physical exercise was related to higher levels of levels of PA for that particular participants, and there was room for improvement, participants would be advised to become more physically active. How the behavioral changes were implemented in the participants' daily life was made more specific in close consultation with the participant, and tailored to their personal needs. In addition to lifestyle advice, we investigated whether an intense experience that would elicit strong positive responses could help to implement the recommended lifestyle changes (i.e., a skydive). In our Randomized Controlled Trial, the personalized lifestyle advice proved helpful, but a skydive did not amplify the intervention-effect
 (see: [van Roekel, Vrijen, Heininga, Masselink, Bos, & Oldehinkel, 2017](https://reader.elsevier.com/reader/sd/pii/S0005789416300843?token=4DB2AB00A05A0B08D18A5EC89899EFB039AE3038804A19F1AEAF15776D09D10B089602592A3D60E7C1B9DC258FFDEAF6)).
