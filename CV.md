@@ -103,8 +103,26 @@ Wessel, I., Albers, C.J., **Heininga, V.E.**, Zandstra, A.R.E. (in preparation) 
 
 Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: *GGzet Wetenschappelijk*, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
   
-  
+## Talks
+Grote GMW Quiz  
+Klaas Veen, van (Speaker), Vera Heininga (Speaker)  
+5-Sep-2019  
+Talk or presentation › Popular
+
+Ieder kind is anders  
+Anne Margit Reitsema (Speaker), Bertus Jeronimus (Speaker), Vera Heininga (Speaker)  
+5-Sep-2019  
+Talk or presentation › Popular
+
+Every Child is Different: Do you feel what I feel?  
+Anne Margit Reitsema (Speaker), Vera Heininga (Speaker), Bertus Jeronimus (Speaker)  
+21-Aug-2019
+
 ### Media appearances 
+15-10-2019, [Cheerleaders van de wetenschap](https://www.ukrant.nl/magazine/cheerleaders-van-de-wetenschap/)
+
+07-10-2019, [RUG heeft enige alfa-faculteit tijdens Weekend van de Wetenschap](https://www.youtube.com/watch?v=Ipkc3bwuz-E) (OogTV)
+
 #### Regarding to first authored work (4)
 04-12-2017, People with Anhedonia Do Experience Pleasure, Just Not As Often (in Dutch) (NWO)
 
@@ -135,6 +153,7 @@ Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het 
 
 
 ## Invited talks (8)
+* Symposium Open Science research practices - Groningen University, October 22 2019
 * Interdisciplinary Center Psychopathology and Emotion regulation (ICPE) - University Medical Centre Groningen, on Rmarkdown, June 6 2019 
 * Department of Developmental Psychology - Tilburg University, every child is different project, February 12 2019
 * Quantitative Psychology and Individual Differences - Leuven University, on every child is different project, January 8 2019
@@ -238,9 +257,9 @@ Member of the Educational Committee Master of Psychology: Theory and Research
 KU Leuven - University of Leuven, Belgium
 
 ## Other academic activities 
-* Main founder the Open Science Community Groningen.  
+* Chair and co-founder of the Open Science Community Groningen.  
 * Organizer of interdiscplinary events within the Behavioral and Social Sciences faculty Groningen.
-* Organizer of "Weekend van de Wetenschap" Groningen, "Weekend van de Wetenschap" is a popular, large-scale national event that is intended to introduce people to science and attract a large audience.
+* Co-organizer of "Weekend van de Wetenschap" Groningen, "Weekend van de Wetenschap" is a popular, large-scale national event that is intended to introduce people to science and attract a large audience.
 
 ## Peer-review activities for academic journals  
 ### Note: I signed the [DORA declaration](https://sfdora.org/)
