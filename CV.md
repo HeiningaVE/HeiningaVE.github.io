@@ -280,7 +280,7 @@ S=Organized Symposium; P=Poster; and O=Oral presentation.
 | **2019** |  Society Ambulatory Assessment (SAA) conference; Syracuse, NY	 |   | x | x |
 |      | Society for Improvement of Psychological Science (SIPS); NL	 	 |   |   |   |
 |      | Winter School on Interdisciplinary Behavioural & Social Science; NL	 |   |   |   |
-|      | Emotions Tilburg; NL							 |   |   |   |
+|      | Emotions Tilburg; NL							 |   | x |   |
 |      | 									 |   |   |   |
 |**2018**| 2nd Perspectives Scientific Error Workshop (*PSE2*), Groningen, NL    |   |   | x |
 |      | The Consortium of European Research on emotion (CERE); Glasgow          |   | x |   |
