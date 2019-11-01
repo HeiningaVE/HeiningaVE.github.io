@@ -84,7 +84,7 @@ Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Subm
 
 **Heininga, V.E.**, de Jonge, P. (in preparation) Psychosocial well-being across adulthood. In preparation for submission in Developmental Psychology.  
 
-Wessel, I., Albers, C.J., **Heininga, V.E.**, Zandstra, A.R.E. (in preparation) A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-Think task.
+Wessel, I., Albers, C.J., Zandstra, A.R.E., **Heininga, V.E.** (in preparation) A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-Think task.
 
 > to be added: Meta-analysis childhood trauma by immunogetic SNPs on depression.
 
