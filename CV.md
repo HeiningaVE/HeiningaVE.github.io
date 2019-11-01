@@ -23,7 +23,7 @@ ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 
 * Postdoctoral research fellow, Quantitative Psychology and Individual Differences, University of Leuven
 
-## Peer-reviewed publications (8); chronological order
+## Peer-reviewed publications; chronological order
 
 **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5); 
 * DOI Preprint: [10.31234/osf.io/cfkts](https://doi.org/10.31234/osf.io/cfkts) 
@@ -103,7 +103,7 @@ Wessel, I., Albers, C.J., **Heininga, V.E.**, Zandstra, A.R.E. (in preparation) 
 
 Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: *GGzet Wetenschappelijk*, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
   
-## Talks
+## Valorization: Talks (3)
 Grote GMW Quiz  
 Klaas Veen, van (Speaker), Vera Heininga (Speaker)  
 5-Sep-2019  
@@ -118,7 +118,7 @@ Every Child is Different: Do you feel what I feel?
 Anne Margit Reitsema (Speaker), Vera Heininga (Speaker), Bertus Jeronimus (Speaker)  
 21-Aug-2019
 
-### Media appearances 
+### Media appearances (2)
 15-10-2019, [Cheerleaders van de wetenschap](https://www.ukrant.nl/magazine/cheerleaders-van-de-wetenschap/)
 
 07-10-2019, [RUG heeft enige alfa-faculteit tijdens Weekend van de Wetenschap](https://www.youtube.com/watch?v=Ipkc3bwuz-E) (OogTV)
@@ -167,7 +167,7 @@ Anne Margit Reitsema (Speaker), Vera Heininga (Speaker), Bertus Jeronimus (Speak
   
 ## Scientific awards and nominations (9)
 ### Total amount approximately €57.000,-
-### All personal, main applicant grants; Ordered by size
+#### All personal, main applicant grants; Ordered by size
 
 #### Post Doctoral Mandate
 03-2017; **_€32.350,-_**  
