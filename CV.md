@@ -338,3 +338,5 @@ Hanze University of Applied Sciences
 * Mplus
 * R
 * Rmarkdown
+* JSON
+* Ruby
