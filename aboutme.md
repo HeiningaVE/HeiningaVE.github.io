@@ -5,13 +5,15 @@ subtitle: A not-so-short introduction
 ---
 
 ### Research interests/ Expertise
-
-- Adolescent well-being and mental health
+- Positive emotions dynamics
+- Mental health and well-being
 - Depression
+- Open Science
 
-My long-term goal is to draw together sociology, psychology, public health, pedagogy and epidemiology to unravel the psychosocial and behavioural mechanisms that underlie the promotion of mental health and wellbeing.
+I combine insights from psychology,  sociology, pedagogics, educational science, and psychometrics to investigate the role of positive emotion dynamics (i.e., patterns and regularities with which positive emotions change over time) in mental health, wellbeing, and mood disorders.
 
-I am a great fan of Open Science, meaning that I: love research transparency; pre-register my confirmatory analyses a priori (e.g., on OSF); use Open Workflow Tools (e.g., R Markdown); publish in Open Access journals; make my data and annotated syntaxes publicly available (e.g., via Code Ocean), and stimulate the implementation of open access publishing within my faculty.
+I aim for robust and reproducible findings, meaning that I: love research transparency; pre-register my confirmatory analyses a priori (e.g., on OSF); use Open Workflow Tools (e.g., R Markdown); publish in Open Access journals; make my data and annotated syntaxes publicly available (e.g., via Code Ocean), and stimulate the implementation of open access publishing within my faculty.
+
 
 ### Interdisciplinary
 
