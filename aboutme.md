@@ -4,6 +4,8 @@ title: About Me
 subtitle: A not-so-short introduction
 ---
 
+![Me](/img/Picture2.png "Me")
+
 ### Research interests/ Expertise
 - Positive emotions dynamics
 - Mental health and well-being
