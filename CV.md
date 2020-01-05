@@ -4,8 +4,6 @@ title: CV
 subtitle: Curriculum vitae
 ---
 
-![Me](/img/Picture2.png "Me")
-
 ## Contact information 
 Dr. Vera E. Heininga  
 Faculty of Behavioural and Social Sciences  
