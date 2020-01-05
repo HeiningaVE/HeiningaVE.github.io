@@ -5,7 +5,7 @@ subtitle: Curriculum vitae
 ---
 
 ## Contact information 
-Dr. Vera E. Heininga  
+Vera E. Heininga, PhD
 Faculty of Behavioural and Social Sciences  
 Developmental Psychology — Department Developmental Psychology  
 Grote Kruisstraat 2/1, 9712 TS Groningen  
@@ -95,7 +95,7 @@ Wessel, I., Albers, C.J., Zandstra, A.R.E., **Heininga, V.E.** (in preparation) 
 
 ## Valorization
 ### Popular science articles (3)
-**Heininga, V.E.**, van Roekel, E., Vrijen, C., Masselink, M., Oldehinkel, A.J. (accepted). Emoties, depressie en (verlies van) plezier in het dagelijks leven [Emotions, depression and (loss of) pleasure in daily life]. In-Mind Nederland, 4.https://nl.in-mind.org/article/emoties-depressie-en-(verlies-van)-plezier-in-het-dagelijks-leven
+**Heininga, V.E.**, van Roekel, E., Vrijen, C., Masselink, M., Oldehinkel, A.J. (2019). Emoties, depressie en (verlies van) plezier in het dagelijks leven [Emotions, depression and (loss of) pleasure in daily life]. In-Mind Nederland, 4. https://nl.in-mind.org/article/emoties-depressie-en-verlies-van-plezier-in-het-dagelijks-leven
 
 **Heininga V.E.** (2017). The happy, the sad, and the anhedonic: op weg naar het begrijpen van veranderd beloningsgerelateerd functioneren vanuit een micro-niveau perspectief. In: , *GGzet Wetenschappelijk*, (pp. 38-40) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
 
