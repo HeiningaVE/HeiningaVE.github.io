@@ -5,7 +5,7 @@ subtitle: Curriculum vitae
 ---
 
 ## Contact information 
-Vera E. Heininga, PhD
+Vera E. Heininga, PhD  
 Faculty of Behavioural and Social Sciences  
 Developmental Psychology — Department Developmental Psychology  
 Grote Kruisstraat 2/1, 9712 TS Groningen  
