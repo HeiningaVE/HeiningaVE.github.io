@@ -2,6 +2,8 @@ Working at the Behavioural and Social Sciences faculty at the University of Gron
 
 [Register now!](https://docs.google.com/forms/d/e/1FAIpQLSfbSeR0jDoU4hPfR7ism-33ORAv2V4cu7AyUGsBx3wGOvKj5g/viewform)
 
+![INTERDISCIPLINARYINSPIRATION](http://HeiningaVE.github.io/img/INTERDISCIPLINARYINSPIRATION.jpg)
+
 Why?
 
 We have another new year ahead, hopefully with many new opportunities for interdisciplinary cooperation!
