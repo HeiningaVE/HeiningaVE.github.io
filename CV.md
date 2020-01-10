@@ -20,7 +20,7 @@ ResearchGate: [RG](https://www.researchgate.net/profile/Vera_Heininga)
 Publons: [Publons](https://publons.com/researcher/3311436/vera-heininga/)  
 
 <div class="github-card" data-github="HeiningaVE" data-width="400" data-height="150" data-theme="default"></div>
-
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>  
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-0889-8524" href="https://orcid.org/0000-0003-0889-8524" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-0889-8524</a></div>
 
