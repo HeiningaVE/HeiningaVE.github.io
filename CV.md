@@ -340,11 +340,11 @@ E-mail: v.e.heininga@rug.nl
 
 
 ### My online profiles
-LinkedIN: <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="heiningave"><a class="LI-simple-link" href='https://nl.linkedin.com/in/heiningave?trk=profile-badge'>Vera E. Heininga, PhD</a></div>  
-University page: [MePa](http://www.rug.nl/staff/v.e.heininga/)  
-OSF:	[osf.io/7n4qu](https://osf.io/7n4qu/)    
-Twitter: [@HeiningaVE](https://twitter.com/HeiningaVE)  
-Scholar: [Google](http://scholar.google.com/citations?hl=en&user=MG0xQD8AAAAJ)  
-ResearchGate: [RG](https://www.researchgate.net/profile/Vera_Heininga)  
-Publons: [Publons](https://publons.com/researcher/3311436/vera-heininga/)  
-Git: [Github](https://github.com/HeiningaVE)  
+[LinkedIN](https://www.linkedin.com/in/heiningave/)
+[University page](http://www.rug.nl/staff/v.e.heininga/)  
+[OSF](https://osf.io/7n4qu/)    
+[Twitter](https://twitter.com/HeiningaVE)  
+[GoogleScholar](http://scholar.google.com/citations?hl=en&user=MG0xQD8AAAAJ)  
+[ResearchGate](https://www.researchgate.net/profile/Vera_Heininga)  
+[Publons](https://publons.com/researcher/3311436/vera-heininga/)  
+[Github](https://github.com/HeiningaVE)  
