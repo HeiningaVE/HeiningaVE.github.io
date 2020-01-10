@@ -10,8 +10,7 @@ subtitle: Curriculum vitae
 
 * Postdoctoral research fellow, Quantitative Psychology and Individual Differences, University of Leuven
 
-## Peer-reviewed publications (8) 
-### chronological order
+## Peer-reviewed publications (8; chronological order)
 
 **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5); 
 * DOI Preprint: [10.31234/osf.io/cfkts](https://doi.org/10.31234/osf.io/cfkts) 
