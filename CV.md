@@ -15,6 +15,8 @@ E-mail: v.e.heininga@rug.nl
 OSF ID:	[osf.io/7n4qu](https://osf.io/7n4qu/)  
 ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-0889-8524" href="https://orcid.org/0000-0003-0889-8524" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-0889-8524</a></div>
+
 ## Current positions
 
 * Interdisciplinary postdoctoral researcher with a focus on Deficits, Distress, and Disorders, University of Groningen
