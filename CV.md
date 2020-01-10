@@ -12,10 +12,19 @@ Grote Kruisstraat 2/1, 9712 TS Groningen
 The Netherlands  
 E-mail: v.e.heininga@rug.nl
 
-OSF ID:	[osf.io/7n4qu](https://osf.io/7n4qu/)  
-ORCID ID: [0000-0003-0889-8524](https://orcid.org/0000-0003-0889-8524)
+University page: [MePa](http://www.rug.nl/staff/v.e.heininga/)  
+OSF:	[osf.io/7n4qu](https://osf.io/7n4qu/)    
+Twitter: [@HeiningaVE](https://twitter.com/HeiningaVE)  
+Scholar: [Google](http://scholar.google.com/citations?hl=en&user=MG0xQD8AAAAJ)  
+ResearchGate: [RG](https://www.researchgate.net/profile/Vera_Heininga)  
+Publons: [Publons](https://publons.com/researcher/3311436/vera-heininga/)  
+
+<div class="github-card" data-github="HeiningaVE" data-width="400" data-height="150" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-0889-8524" href="https://orcid.org/0000-0003-0889-8524" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-0889-8524</a></div>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="heiningave"><a class="LI-simple-link" href='https://nl.linkedin.com/in/heiningave?trk=profile-badge'>Vera E. Heininga, PhD</a></div>
 
 ## Current positions
 
