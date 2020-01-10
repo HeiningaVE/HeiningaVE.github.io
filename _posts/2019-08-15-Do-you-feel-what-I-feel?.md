@@ -1,6 +1,6 @@
 In Dutch: *Voel jij wat ik voel?*
 
-😄 ! 😢 ? 🥺 ! 🤣 ? 🥳! 
+😄 ! 😢 ? 🤣 ! 
 
 Doe mee met “[Ieder Kind Is Anders](http://iederkindisanders.nl)” op 21 augustus 2019 van 14:00-17:00 in de Horatio Tent op 
 @noorderzonnl Groningen!
