@@ -2,7 +2,7 @@ In Dutch: *Voel jij wat ik voel?*
 
 😄 ! 😢 ? 🤣 ! 
 
-![CodeVoorGeluk](
+![CodeVoorGeluk](http://HeiningaVE.github.io/img/CodeVoorGeluk.jpg)
 
 Doe mee met “[Ieder Kind Is Anders](http://iederkindisanders.nl)” op 21 augustus 2019 van 14:00-17:00 in de Horatio Tent op 
 @noorderzonnl Groningen!
