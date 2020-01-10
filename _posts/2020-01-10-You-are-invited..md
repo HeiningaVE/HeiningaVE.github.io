@@ -36,7 +36,6 @@ The program looks as follows:
 16:45 – 18:00                Best poster award,   
 17:00– 18:00                 Drinks (free), a great opportunity to network and connect to future collaborators.
 
-
 [Register now!](https://docs.google.com/forms/d/e/1FAIpQLSfbSeR0jDoU4hPfR7ism-33ORAv2V4cu7AyUGsBx3wGOvKj5g/viewform)
 
 Questions or suggestions? Please email: InterdisciplinaryResearchBSS@rug.nl
