@@ -8,29 +8,29 @@ Why?
 
 We have another new year ahead, hopefully with many new opportunities for interdisciplinary cooperation!
 
-To kick-start new interdisciplinary co-operations within our faculty, we invite you to the Behavioural and Social Sciences Symposium for INTERDISCIPLINARY INSPIRATION on January 21, from 13:00-17:00, Nieuwe Kerk, Groningen. Participation is free, but registration is required.
+To kick-start new interdisciplinary co-operations within our faculty, we invite you to the Behavioural and Social Sciences Symposium for INTERDISCIPLINARY INSPIRATION on January 21, from 13:00-17:00, Nieuwe Kerk, Groningen. Participation is free, but [registration is required](https://docs.google.com/forms/d/e/1FAIpQLSfbSeR0jDoU4hPfR7ism-33ORAv2V4cu7AyUGsBx3wGOvKj5g/viewform).
 
 The program looks as follows:  
-12:00 – 13:00                Lunch (free), have lunch with colleagues while enjoying the beautiful ambience of the church.
-13:00 – 13:05                Opening, by Rita Landeweerd
-13:05 – 13:45                Keynote lecture: Managing risk in multidisciplinary research, by SCP-editor Sjoerd Beugelsdijk
+12:00 – 13:00                Lunch (free), have lunch with colleagues while enjoying the beautiful ambience of the church.  
+13:00 – 13:05                Opening, by [Rita Landeweerd](https://www.rug.nl/staff/r.j.landeweerd/)
+13:05 – 13:45                Keynote lecture: Managing risk in multidisciplinary research, by SCP-editor [Sjoerd Beugelsdijk](https://www.rug.nl/staff/s.beugelsdijk/)  
 
 *What typifies the Netherlands and the Dutch? What is Dutch identity exactly? We are happy to welcome Sjoerd Beugelsdijk, one of the editors of the multidisciplinary report "Thinking of the Netherlands” (“Denkend aan Nederland" in Dutch) of the Netherlands Institute for Social Research (SCP). Based on a large-scale survey study and focus group research, this report is a collection of analyses, thematic studies, and essays on Dutch identity, combining different disciplinary perspectives (sociology, history, philosophy). Sjoerd Beugelsdijk will use this report as a case study to reflect on the challenges, risks and added value of interdisciplinary research.*
 
 13:45 – 14:45                Talks, round 1:  
 
-1.     The corporate closet: contextual and interactional factors in sexual identity disclosure decisions, by Ole Gmelin
-2.     Do the social sciences need genetics?, by Tina Kretschmer
-3.     Application of network diagnostics to monitor and tackle bullying and victimization, by Tessa Kaufman
-4.     Education-based status: What do excellent students really learn?, by Toon Kuppens
+1.     The corporate closet: contextual and interactional factors in sexual identity disclosure decisions, by [Ole Gmelin](https://www.rug.nl/staff/j.h.gmelin/)
+2.     Do the social sciences need genetics?, by [Tina Kretschmer](https://www.rug.nl/staff/t.kretschmer/)
+3.     Application of network diagnostics to monitor and tackle bullying and victimization, by [Tessa Kaufman](https://www.rug.nl/staff/t.m.l.kaufman/)
+4.     Education-based status: What do excellent students really learn?, by [Toon Kuppens](https://www.rug.nl/staff/t.kuppens/)
 
 14:45 – 15:15                Poster session 1  
 15:15 – 16:15                Talks, round 2:  
 
-1.     Training a realistic perspective on tolerance, by Marloes Huis
-2.     The u-can-act Platform: A tool to study intra-individual processes, by Mandy van der Gaag  
-3.     The effect of publication bias on replication success in science across disciplines, by Jasmine Muradchanian
-4.     Interdisciplinary research in health care professions, by Jasperina Brouwer  
+1.     Training a realistic perspective on tolerance, by [Marloes Huis](https://www.rug.nl/staff/m.a.huis/)
+2.     The u-can-act Platform: A tool to study intra-individual processes, by [Mandy van der Gaag](https://www.rug.nl/staff/m.a.e.van.der.gaag/) 
+3.     The effect of publication bias on replication success in science across disciplines, by [Jasmine Muradchanian](https://www.rug.nl/staff/h.muradchanian/)
+4.     Interdisciplinary research in health care professions, by [Jasperina Brouwer](https://www.rug.nl/staff/jasperina.brouwer/)
 
 16:15 – 16:45                Poster session 2  
 16:45 – 18:00                Best poster award,   
