@@ -1,3 +1,5 @@
+What data shoiuld we collect? Think along!
+
 Under the condition that you pre-register your research plans before April 1st with us (and later on 
 @OSFramework), we are willing to include your instrument (s) in our data collection*
 
