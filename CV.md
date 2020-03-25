@@ -53,29 +53,36 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 
 
 
-## Preprints (3)
-**Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (preprint) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion. 
+## Preprints/ work under review (4)
+
+**Heininga, V.E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (Submitted) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion. 
+
 * DOI Preprint: [10.31234/osf.io/3nkfj](https://psyarxiv.com/3nkfj/)
 
-**Heininga V.E.**, Dejonckheere E., Houben M., Kuppens P. (preprint) Sociomarkers of anhedonia in Major Depressive Disorder.  
+**Heininga, V.E.**, Dejonckheere E., Houben M., Kuppens P. (Submitted) Sociomarkers of anhedonia in Major Depressive Disorder.  
 * DOI Preregistration: https://osf.io/zbekw.  
 * DOI Preprint: [10.31234/osf.io/t2j7p](https://psyarxiv.com/t2j7p).
 
-Masselink M., van Roekel E., **Heininga V.E.**, Vrijen C., Oldehinkel A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains
+Masselink, M., van Roekel, E., **Heininga, V.E.**, Vrijen, C., Oldehinkel, A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains
+
 * DOI Preprint: [10.31219/osf.io/bu7z5](https://doi.org/10.31219/osf.io/bu7z5)
 
-## Work in preparation, but not yet submitted/preprint (5)
-**Heininga, V. E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.
+Wessel, I., Albers, C.J., Zandstra, A.R.E., **Heininga, V.E.** (Submitted) A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-Think task.
 
-**Heininga, V. E.**, van Roekel, E., & Oldehinkel, A. J. (in preparation) Loss of pleasure in daily life [translated from Dutch]. In preparation for submission in De Psycholoog.
+* DOI Preregistration: osf.io/mcs8r/
+* DOI Preprint: will follow soon
 
-**Heininga, V.E.**, de Jonge, P. (in preparation) Psychosocial well-being across adulthood. In preparation for submission in Developmental Psychology.  
+## Work in preparation, but not yet preprint (5)
 
-Wessel, I., Albers, C.J., Zandstra, A.R.E., **Heininga, V.E.** (in preparation) A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-Think task.
+**Heininga, V.E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.
 
-> to be added: Meta-analysis childhood trauma by immunogetic SNPs on depression.
+**Heininga, V.E.**, van Roekel, E., & Oldehinkel, A. J. (in preparation) Loss of pleasure in daily life [translated from Dutch]. In preparation for submission in De Psycholoog.
 
-> to be added: NFNG Tilburg?
+Schmitter, M., van Roekel, E., **Heininga, V.E.**, Oldehinkel, A.J. (Submitted) Personalized Lifestyle Advice Alters Affective Reactivity to Negative Events in Anhedonic Young Adults.
+
+**Heininga, V.E.**, Jonker, N., Jeronimus, B., de Jonge, P. (preprint) Relative contributions of risk and protective lifestyle factors to positive and negative mood states in daily life. In preparation for submission in Developmental Psychology. 
+
+Cohen-Woods, S., (...) **Heininga, V.E.** (...) (in preparation). Meta-analysis childhood trauma by immunogetic SNPs on depression.
 
 
 ## Research stays abroad (1)
