@@ -55,22 +55,22 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 
 ## Preprints/ work under review (4)
 
-**Heininga, V.E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (Submitted) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion. 
+**Heininga, V. E.**, Nederhof, E., Van Roekel, E., Laceulle, O. M., & Oldehinkel, A. J. (Submitted) Emotion-Based learning by Iowa and Bangor Gambling Tasks: Similar but not the same? In preparation for submission in Cognition and Emotion. 
 
 * DOI Preprint: [10.31234/osf.io/3nkfj](https://psyarxiv.com/3nkfj/)
 
-**Heininga, V.E.**, Dejonckheere E., Houben M., Kuppens P. (Submitted) Sociomarkers of anhedonia in Major Depressive Disorder.  
+**Heininga, V. E.**, Dejonckheere E., Houben M., Kuppens P. (Submitted) Sociomarkers of anhedonia in Major Depressive Disorder.  
 * DOI Preregistration: https://osf.io/zbekw.  
 * DOI Preprint: [10.31234/osf.io/t2j7p](https://psyarxiv.com/t2j7p).
 
-Masselink, M., van Roekel, E., **Heininga, V.E.**, Vrijen, C., Oldehinkel, A.J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains
+Masselink, M., van Roekel, E., **Heininga, V. E.**, Vrijen, C., Oldehinkel, A. J. (Submitted) Domains Of Pleasure Scale (DOPS): assessing pleasure across domains
 
 * DOI Preprint: [10.31219/osf.io/bu7z5](https://doi.org/10.31219/osf.io/bu7z5)
 
-Wessel, I., Albers, C.J., Zandstra, A.R.E., **Heininga, V.E.** (Submitted) A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-Think task.
+Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020, March 27). A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-think Task. 
 
 * DOI Preregistration: osf.io/mcs8r/
-* DOI Preprint: will follow soon
+* DOI Preprint: https://doi.org/10.31234/osf.io/2dr9e
 
 ## Work in preparation, but not yet preprint (5)
 
@@ -78,7 +78,7 @@ Wessel, I., Albers, C.J., Zandstra, A.R.E., **Heininga, V.E.** (Submitted) A Mul
 
 **Heininga, V.E.**, van Roekel, E., & Oldehinkel, A. J. (in preparation) Loss of pleasure in daily life [translated from Dutch]. In preparation for submission in De Psycholoog.
 
-Schmitter, M., van Roekel, E., **Heininga, V.E.**, Oldehinkel, A.J. (Submitted) Personalized Lifestyle Advice Alters Affective Reactivity to Negative Events in Anhedonic Young Adults.
+Schmitter, M., van Roekel, E., **Heininga, V.E.**, Oldehinkel, A. J. (Submitted) Personalized Lifestyle Advice Alters Affective Reactivity to Negative Events in Anhedonic Young Adults.
 
 **Heininga, V.E.**, Jonker, N., Jeronimus, B., de Jonge, P. (preprint) Relative contributions of risk and protective lifestyle factors to positive and negative mood states in daily life. In preparation for submission in Developmental Psychology. 
 
