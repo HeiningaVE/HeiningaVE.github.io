@@ -66,7 +66,11 @@ Masselink, M., van Roekel, E., **Heininga, V. E.**, Vrijen, C., & Oldehinkel, A.
 
 **Heininga, V. E.**, Nederhof, E., van Roekel, E., Laceulle, O., & Oldehinkel, A. (2019, September 2). Emotion-Based Learning by Iowa and Bangor Gambling Tasks: Similar but not the same?.
 
-* DOI Preprint: [10.31234/osf.io/3nkfj](https://psyarxiv.com/3nkfj/)
+* DOI Preprint: [10.31234/osf.io/3nkfj](https://psyarxiv.com/3nkfj)
+
+Nosek, B. A., Corker, K. S., Krall, T., Grasty, F. L., Brooks, R. E., III, Mellor, D. T., … **Heininga, V. E.**, … Susi, T. (2020, January 30). NSF 19-501 AccelNet Proposal: Community of Open Scholarship Grassroots Networks (COSGN). 
+
+* DOI Preprint: [10.31222/osf.io/d7mwk](https://doi.org/10.31222/osf.io/d7mwk)
 
 Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020, March 27). A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-think Task. 
 
