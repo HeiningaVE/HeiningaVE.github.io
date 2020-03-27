@@ -117,7 +117,14 @@ Every Child is Different: Do you feel what I feel?
 Anne Margit Reitsema (Speaker), Vera Heininga (Speaker), Bertus Jeronimus (Speaker)  
 21-Aug-2019
 
-### Media appearances (2)
+### Media coverage or appearances 
+
+#### General(4)
+
+26-02-2020, [Too much work, too little time: The laborious transition to open access](https://www.ukrant.nl/the-laborious-transition-to-open-access-2/?lang=en)
+
+11-02-2020, [In love with a colleague: No kissing in the workplace](https://www.ukrant.nl/magazine/no-kissing-in-the-workplace/?lang=en)
+
 15-10-2019, [Cheerleaders van de wetenschap](https://www.ukrant.nl/magazine/cheerleaders-van-de-wetenschap/)
 
 07-10-2019, [RUG heeft enige alfa-faculteit tijdens Weekend van de Wetenschap](https://www.youtube.com/watch?v=Ipkc3bwuz-E) (OogTV)
