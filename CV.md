@@ -70,7 +70,7 @@ Masselink, M., van Roekel, E., **Heininga, V. E.**, Vrijen, C., Oldehinkel, A. J
 Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020, March 27). A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-think Task. 
 
 * DOI Preregistration: osf.io/mcs8r/
-* DOI Preprint: https://doi.org/10.31234/osf.io/2dr9e
+* DOI Preprint: [10.31234/osf.io/2dr9e](https://doi.org/10.31234/osf.io/2dr9e)
 
 ## Work in preparation, but not yet preprint (5)
 
