@@ -7,12 +7,12 @@ subtitle: A not-so-short introduction
 ![Me](/img/Picture2.png "Me")
 
 ### Research interests/ Expertise
-- Positive emotions dynamics
 - Mental health and well-being
-- Depression
+- Emotion dynamics (i.e., fluctuations in emotions, measured mutliple times a day)
+- Depressive symptoms
 - Open Science
 
-I combine insights from psychology,  sociology, pedagogics, educational science, and psychometrics to investigate the role of positive emotion dynamics (i.e., patterns and regularities with which positive emotions change over time) in mental health, wellbeing, and mood disorders.
+I combine insights from psychology,  sociology, pedagogics, educational science, and psychometrics to investigate mechanisms underlying mental health, wellbeing, and symptoms of mood disorders.
 
 I aim for robust and reproducible findings, meaning that I: love research transparency; pre-register my confirmatory analyses a priori (e.g., on OSF); use Open Workflow Tools (e.g., R Markdown); publish in Open Access journals; make my data and annotated syntaxes publicly available (e.g., via Code Ocean), and stimulate the implementation of open access publishing within my faculty.
 
