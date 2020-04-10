@@ -12,12 +12,11 @@ subtitle: A not-so-short introduction
 - Depressive symptoms
 - Open Science
 
-I combine insights from psychology,  sociology, pedagogics, educational science, and psychometrics to investigate mechanisms underlying mental health, wellbeing, and symptoms of mood disorders.
+I combine insights from psychology, sociology, pedagogics, educational science, and psychometrics to investigate mechanisms underlying mental health, wellbeing, and core symptoms of mood disorders.
 
-I aim for robust and reproducible findings, meaning that I: love research transparency; pre-register my confirmatory analyses a priori (e.g., on OSF); use Open Workflow Tools (e.g., R Markdown); publish in Open Access journals; make my data and annotated syntaxes publicly available (e.g., via Code Ocean), and stimulate the implementation of open access publishing within my faculty.
+Because I think it is important that others are able to verify and check my results, and to distinguish exploratory research from confirmatory research, I pre-register my confirmatory analyses a priori (e.g., on OSF); use Open Workflow Tools (e.g., R Markdown); publish in Open Access journals; make my data and annotated syntaxes publicly available (e.g., via Code Ocean) as much as possible.
 
-
-### Interdisciplinary
+### Interdisciplinary research into mental health and well-being
 
 Currently, I am an interdisciplinary postdoc with a focus on Deficits, Distress, and Disorders. That is, I combine insights from among others, sociology, psychology, pedagogics, educational science, and psychometrics to investigate the causal mechanisms of psychopathological disorders, and their effects on everyday functioning. In order to improve interdisciplinary cooperation within the faculty of social and behavioral sciences of the University of Groningen, I organize events. For example, I organized a hack-a-thon event during which I invited faculty staff to think along with the large interdisciplinary national crowdsourcing study among youth (aged 8-18) I am currently involved in (see also: [Recent Projects](https://heiningave.github.io/projects/)).
 
@@ -30,9 +29,6 @@ In the EMA-based intervention, participants got personalized advice based on the
 
 In my Ph.D. thesis, I was the first to examine reward functioning in anhedonic individuals' daily lives. That is, I compare anhedonic to non-anhedonic individuals in their ability to 1) pursue, 3) experience, and 3) learn about pleasure in daily life. These three components of reward functioning are typically investigated in the laboratory (e.g., by using tasks or brain scanner). Using EMA, I confirmed some laboratory findings, but not all. For example, individuals with anhedonia typically show a blunted reaction to rewarding laboratory stimuli. Yet, using an EMA design, I was able to show that the reward reactivity in individuals with anhedonia was anything but blunted. Intrigued by this conundrum, and passionate to solve it, I was awarded a KNAW Academy Ter Meulen Grant and the Post Doctoral Mandate of the KU Leuven internal fund to tackle this puzzle together with prof. Peter Kuppens in Belgium.
 
-### Research into research reproducibility
-
-My interest in research reproducibility arose while writing a paper called [“I just ran a thousand analyses”](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0125383&type=printable). In this paper, we showed that there were 2160 ways to operationalize one single hypothesis within one dataset, and argued that transparently testing them all could be a novel approach to address inconsistencies in a field of research.  
 
 ### More info
 
