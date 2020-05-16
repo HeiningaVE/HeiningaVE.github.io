@@ -53,7 +53,7 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 
 
 
-## Preprints/ work under review (5)
+## Preprints/ work under review (6)
 
 **Heininga, V. E.**, Dejonckheere, E., Houben, M., & Kuppens, P. (2019, April 14). Sociomarkers of anhedonia in MDD. 
 
@@ -77,7 +77,8 @@ Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020, March 2
 * DOI Preregistration: osf.io/mcs8r/
 * DOI Preprint: [10.31234/osf.io/2dr9e](https://doi.org/10.31234/osf.io/2dr9e)
 
-## Work in preparation, but not yet preprint (5)
+
+## Work in preparation, but not yet preprint (6)
 
 **Heininga, V.E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.
 
@@ -85,12 +86,14 @@ Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020, March 2
 
 Cohen-Woods, S., (...) **Heininga, V.E.** (...) (in preparation). Meta-analysis childhood trauma by immunogetic SNPs on depression.
 
-Schmitter, M., van Roekel, E., **Heininga, V.E.**, Oldehinkel, A. J. (Submitted) Personalized Lifestyle Advice Alters Affective Reactivity to Negative Events in Anhedonic Young Adults.
+Schmitter, M., van Roekel, E., **Heininga, V.E.**, Oldehinkel, A. J. (Submitted) Personalized Lifestyle Advice Alters Affective Reactivity to Negative Events in Anhedonic Young Adults. 
 
-**Heininga, V.E.**, Jonker, N., Jeronimus, B., de Jonge, P. (preprint) Relative contributions of risk and protective lifestyle factors to positive and negative mood states in daily life. In preparation for submission in Developmental Psychology. 
+**Heininga, V.E.**, Jonker, N., Jeronimus, B., de Jonge, P. (preregistration) Relative contributions of risk and protective lifestyle factors to positive and negative mood states in daily life. In preparation for submission in Developmental Psychology.
+
+**Heininga, V.E.**, Kuppens, P. (in preparation) Positive emotions/psychopathology. In preparation for submission in Current Opinion in Behavioral Sciences
 
 
-## Research stays abroad (1)
+## Research stays abroad
 - Four week visit to the [Adolescent Cognition and Emotion (A.C.E.)](https://spu.edu/academics/school-of-psychology-family-community/labs-and-research/faculty-research-lab-programs/ace-lab) lab of prof. [Mezulis](https://spu.edu/academics/school-of-psychology-family-community/faculty-and-staff/amy-mezulis-profile), Seattle Pacific University.  
 **Seattle, United States of America (USA)** 
 
