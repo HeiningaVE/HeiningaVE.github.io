@@ -78,7 +78,7 @@ Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020, March 2
 * DOI Preprint: [10.31234/osf.io/2dr9e](https://doi.org/10.31234/osf.io/2dr9e)
 
 
-## Work in preparation, but not yet preprint (6)
+## Work in preparation, but not yet preprint (7)
 
 **Heininga, V.E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.
 
@@ -91,6 +91,8 @@ Schmitter, M., van Roekel, E., **Heininga, V.E.**, Oldehinkel, A. J. (Submitted)
 **Heininga, V.E.**, Jonker, N., Jeronimus, B., de Jonge, P. (preregistration) Relative contributions of risk and protective lifestyle factors to positive and negative mood states in daily life. In preparation for submission in Developmental Psychology.
 
 **Heininga, V.E.**, Kuppens, P. (in preparation) Positive emotions/psychopathology. In preparation for submission in Current Opinion in Behavioral Sciences
+
+Armenia, Brinkman, Eerland, Fijtend, **Heininga**, Masselink, Sarafogloug, Schettinoh, Sjoerdsi, Akker, van 't Veer, Zurita-Millak (in prep) Towards Wide-scale Adoption of Open Science Practices: The Role of Bottom-up Open Science Communities
 
 
 ## Research stays abroad
