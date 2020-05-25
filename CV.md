@@ -130,6 +130,8 @@ Anne Margit Reitsema (Speaker), Vera Heininga (Speaker), Bertus Jeronimus (Speak
 
 11-02-2020, [In love with a colleague: No kissing in the workplace](https://www.ukrant.nl/magazine/no-kissing-in-the-workplace/?lang=en)
 
+12-12-2019, [Maatschappelijke problemen vragen geïntegreerde oplossingen](https://www.rug.nl/gmw/magazine/nl_winter2019_gmw_magazine.pdf)
+
 15-10-2019, [Cheerleaders van de wetenschap](https://www.ukrant.nl/magazine/cheerleaders-van-de-wetenschap/)
 
 07-10-2019, [RUG heeft enige alfa-faculteit tijdens Weekend van de Wetenschap](https://www.youtube.com/watch?v=Ipkc3bwuz-E) (OogTV)
