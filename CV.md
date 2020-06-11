@@ -13,36 +13,35 @@ subtitle: Curriculum vitae
 ## Peer-reviewed publications (9)
 
 **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5); 
-* DOI Preprint: [10.31234/osf.io/cfkts](https://doi.org/10.31234/osf.io/cfkts) 
-* DOI Data and Code: [10.17605/OSF.IO/8GXRW](https://doi.org/10.17605/OSF.IO/8GXRW)
+* [See preprint](https://doi.org/10.31234/osf.io/cfkts) 
+* [See Data and Code](https://doi.org/10.17605/OSF.IO/8GXRW)
 * High Altmetric Attention Score compared to outputs of the same age (90th percentile), calculated on Sept 3 (2019).
 
 Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. (2019) Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
-* DOI Preprint: [10.31234/osf.io/tdnws](https://psyarxiv.com/tdnws/).  
+* [See preprint](https://psyarxiv.com/tdnws/).  
 * High Altmetric Attention Score compared to outputs of the same age (84th percentile), calculated on Sept 3 (2019).
 
-**Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. PLoS ONE 12(10): e0180753.  
-* DOI: [10.1371/journal.pone.0180753](https://doi.org/10.1371/journal.pone.0180753).  
-* DOI Data and Code [10.17605/OSF.IO/WDZS6](https://osf.io/wdzs6/).  
+**Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. PLoS ONE 12(10): e0180753. [10.1371/journal.pone.0180753](https://doi.org/10.1371/journal.pone.0180753).  
+* [See Data and Code](https://osf.io/wdzs6/).  
 * Good Attention Score compared to outputs of the same age (79th percentile), calculated on Sept 3 (2019).
 
-**Heininga, V.E.**, van Roekel, E., Ahles J., Oldehinkel A., Mezulis, A. (2017). Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted. Journal of Affective Disorders, 218, 437445. DOI [10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).
-* Data and Code: [DOI 10.17605/OSF.IO/YFESJ](https://osf.io/yfesj/).  
+**Heininga, V.E.**, van Roekel, E., Ahles J., Oldehinkel A., Mezulis, A. (2017). Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted. Journal of Affective Disorders, 218, 437445. DOI: [10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).
+* [See Data and Code](https://osf.io/yfesj/).  
 * High Attention Score compared to outputs of the same age and source (82nd percentile), calculated on Sept 3 (2019).
 
 van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehinkel, A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96. DOI: [10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).
-* DOI Preprint: [10.31234/osf.io/b94sy](https://doi.org/10.31234/osf.io/b94sy).  
-* DOI Data and Code: [https://osf.io/k7rfu/](https://osf.io/k7rfu/).  
+* [See preprint](https://doi.org/10.31234/osf.io/b94sy).  
+* [See Data and Code](https://osf.io/k7rfu/).  
 * High Altmetric Attention Score compared to outputs of the same age (81st percentile), calculated on Sept 3 (2019).
 
 van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z).   
 * High Altmetric Attention Score compared to outputs of the same age (87th percentile), calculated on Sept 3 (2019).
 
-**Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0. DOI:[10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).   
+**Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0. DOI:[10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).
 * High Attention Score compared to outputs of the same age (80th percentile), calculated on Sept 3 (2019).
 
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0. DOI: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100).  
- 
+
   
 
 > *Altmetric Attention Score*: compares the attention score with other output of the same age. A score in the 93rd percentile, for example, means that 93% of its publications scored the same or lower than it. Altmetrics data is provided by Altmetric.com, a research metrics company who track and collect the online conversations around millions of scholarly outputs.  
@@ -57,12 +56,12 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 
 **Heininga, V. E.**, Dejonckheere, E., Houben, M., & Kuppens, P. (2019, April 14). Sociomarkers of anhedonia in MDD. 
 
-* DOI Preregistration: https://osf.io/zbekw.  
-* DOI Preprint: [10.31234/osf.io/t2j7p](https://psyarxiv.com/t2j7p).
+* [See preregistration](https://osf.io/zbekw)  
+* [See preprint](https://psyarxiv.com/t2j7p)
 
 Masselink, M., van Roekel, E., **Heininga, V. E.**, Vrijen, C., & Oldehinkel, A. (2019, June 13). Domains Of Pleasure Scale (DOPS): assessing pleasure across domains. https://doi.org/10.31219/osf.io/bu7z5
 
-* DOI Preprint: [10.31219/osf.io/bu7z5](https://doi.org/10.31219/osf.io/bu7z5)
+* [See preprint](https://doi.org/10.31219/osf.io/bu7z5)
 
 **Heininga, V. E.**, Nederhof, E., van Roekel, E., Laceulle, O., & Oldehinkel, A. (2019, September 2). Emotion-Based Learning by Iowa and Bangor Gambling Tasks: Similar but not the same?.
 
@@ -72,13 +71,15 @@ Nosek, B. A., Corker, K. S., Krall, T., Grasty, F. L., Brooks, R. E., III, Mello
 
 * DOI Preprint: [10.31222/osf.io/d7mwk](https://doi.org/10.31222/osf.io/d7mwk)
 
+Schmitter, M., van Roekel, E., **Heininga, V.E.**, Oldehinkel, A. J. (Submitted) Personalized Lifestyle Advice Alters Affective Reactivity to Negative Events in Anhedonic Young Adults.
+
 Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020, March 27). A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-think Task. 
 
-* DOI Preregistration: osf.io/mcs8r/
-* DOI Preprint: [10.31234/osf.io/2dr9e](https://doi.org/10.31234/osf.io/2dr9e)
+* See Preregistration: https://doi.org/10.17605/OSF.IO/MCS8R
+* See Preprint: [10.31234/osf.io/2dr9e](https://doi.org/10.31234/osf.io/2dr9e)
 
 
-## Work in preparation, but not yet preprint (7)
+## Work in preparation (i.e., not yet preprint) (6)
 
 **Heininga, V.E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.
 
@@ -86,9 +87,10 @@ Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020, March 2
 
 Cohen-Woods, S., (...) **Heininga, V.E.** (...) (in preparation). Meta-analysis childhood trauma by immunogetic SNPs on depression.
 
-Schmitter, M., van Roekel, E., **Heininga, V.E.**, Oldehinkel, A. J. (Submitted) Personalized Lifestyle Advice Alters Affective Reactivity to Negative Events in Anhedonic Young Adults. 
-
 **Heininga, V.E.**, Jonker, N., Jeronimus, B., de Jonge, P. (preregistration) Relative contributions of risk and protective lifestyle factors to positive and negative mood states in daily life. In preparation for submission in Developmental Psychology.
+
+
+* DOI Preregistration: https://doi.org/10.17605/OSF.IO/8N54H
 
 **Heininga, V.E.**, Kuppens, P. (in preparation) Positive emotions/psychopathology. In preparation for submission in Current Opinion in Behavioral Sciences
 
