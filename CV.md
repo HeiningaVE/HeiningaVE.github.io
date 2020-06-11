@@ -275,7 +275,8 @@ KU Leuven - University of Leuven, Belgium
 * Co-organizer of "Weekend van de Wetenschap" Groningen, "Weekend van de Wetenschap" is a popular, large-scale national event that is intended to introduce people to science and attract a large audience.
 
 ## Peer-review activities for academic journals  
-### Note: I signed the [DORA declaration](https://sfdora.org/)
+### Note: I believe strongly in the value of openness and transparency, and signed the Peer Reviewers’ Openness (PRO) Initiative, meaning that I only review papers that meet the standards of the PRO Initiative (see: https://opennessinitiative.org/).
+
 I performed review activities for the following journals: 
 * Collabra
 * PLoS ONE
