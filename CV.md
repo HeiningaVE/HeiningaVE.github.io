@@ -18,20 +18,20 @@ subtitle: Curriculum vitae
 * High Altmetric Attention Score compared to outputs of the same age (90th percentile), calculated on Sept 3 (2019).
 
 Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. (2019) Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
-* [See preprint](https://psyarxiv.com/tdnws/).  
+* [See preprint](https://psyarxiv.com/tdnws/)
 * High Altmetric Attention Score compared to outputs of the same age (84th percentile), calculated on Sept 3 (2019).
 
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. PLoS ONE 12(10): e0180753. [10.1371/journal.pone.0180753](https://doi.org/10.1371/journal.pone.0180753).  
-* [See Data and Code](https://osf.io/wdzs6/).  
+* [See Data and Code](https://osf.io/wdzs6/)
 * Good Attention Score compared to outputs of the same age (79th percentile), calculated on Sept 3 (2019).
 
 **Heininga, V.E.**, van Roekel, E., Ahles J., Oldehinkel A., Mezulis, A. (2017). Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted. Journal of Affective Disorders, 218, 437445. DOI: [10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).
-* [See Data and Code](https://osf.io/yfesj/).  
+* [See Data and Code](https://osf.io/yfesj/)
 * High Attention Score compared to outputs of the same age and source (82nd percentile), calculated on Sept 3 (2019).
 
 van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehinkel, A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96. DOI: [10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).
-* [See preprint](https://doi.org/10.31234/osf.io/b94sy).  
-* [See Data and Code](https://osf.io/k7rfu/).  
+* [See preprint](https://doi.org/10.31234/osf.io/b94sy)
+* [See Data and Code](https://osf.io/k7rfu/)
 * High Altmetric Attention Score compared to outputs of the same age (81st percentile), calculated on Sept 3 (2019).
 
 van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z).   
@@ -65,18 +65,18 @@ Masselink, M., van Roekel, E., **Heininga, V. E.**, Vrijen, C., & Oldehinkel, A.
 
 **Heininga, V. E.**, Nederhof, E., van Roekel, E., Laceulle, O., & Oldehinkel, A. (2019, September 2). Emotion-Based Learning by Iowa and Bangor Gambling Tasks: Similar but not the same?.
 
-* DOI Preprint: [10.31234/osf.io/3nkfj](https://psyarxiv.com/3nkfj)
+* [See preprint](https://psyarxiv.com/3nkfj)
 
 Nosek, B. A., Corker, K. S., Krall, T., Grasty, F. L., Brooks, R. E., III, Mellor, D. T., … **Heininga, V. E.**, … Susi, T. (2020, January 30). NSF 19-501 AccelNet Proposal: Community of Open Scholarship Grassroots Networks (COSGN). 
 
-* DOI Preprint: [10.31222/osf.io/d7mwk](https://doi.org/10.31222/osf.io/d7mwk)
+* [See preprint](https://doi.org/10.31222/osf.io/d7mwk)
 
 Schmitter, M., van Roekel, E., **Heininga, V.E.**, Oldehinkel, A. J. (Submitted) Personalized Lifestyle Advice Alters Affective Reactivity to Negative Events in Anhedonic Young Adults.
 
 Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020, March 27). A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-think Task. 
 
-* See Preregistration: https://doi.org/10.17605/OSF.IO/MCS8R
-* See Preprint: [10.31234/osf.io/2dr9e](https://doi.org/10.31234/osf.io/2dr9e)
+* [See preregistration](https://doi.org/10.17605/OSF.IO/MCS8R)
+* [See preprint](https://doi.org/10.31234/osf.io/2dr9e)
 
 
 ## Work in preparation (i.e., not yet preprint) (6)
@@ -90,7 +90,7 @@ Cohen-Woods, S., (...) **Heininga, V.E.** (...) (in preparation). Meta-analysis 
 **Heininga, V.E.**, Jonker, N., Jeronimus, B., de Jonge, P. (preregistration) Relative contributions of risk and protective lifestyle factors to positive and negative mood states in daily life. In preparation for submission in Developmental Psychology.
 
 
-* DOI Preregistration: https://doi.org/10.17605/OSF.IO/8N54H
+* [See preregistration](https://doi.org/10.17605/OSF.IO/8N54H)
 
 **Heininga, V.E.**, Kuppens, P. (in preparation) Positive emotions/psychopathology. In preparation for submission in Current Opinion in Behavioral Sciences
 
