@@ -17,7 +17,7 @@ To distinguish exploratory research from confirmatory research, I pre-register m
 
 ### Interdisciplinary approach
 
-Currently, I am an interdisciplinary postdoc with a focus on Deficits, Distress, and Disorders. That is, in order to improve interdisciplinary cooperation within the faculty of Behavioral and Social Sciences of the University of Groningen, I organize events. For example, I organized a hack-a-thon event during which I invited faculty staff to think along with the large interdisciplinary national crowdsourcing study among youth (aged 8-18) I am currently involved in (see also: [Recent Projects](https://heiningave.github.io/projects/)), and a [large symposium on interdisciplinary inspiration]().
+Currently, I am an interdisciplinary postdoc with a focus on Deficits, Distress, and Disorders. That is, in order to improve interdisciplinary cooperation within the faculty of Behavioral and Social Sciences of the University of Groningen, I organize events. For example, I organized a hack-a-thon event during which I invited faculty staff to think along with the large interdisciplinary national crowdsourcing study among youth (aged 8-18) I am currently involved in (see also: [Recent Projects](https://heiningave.github.io/projects/)), and a [large symposium on interdisciplinary inspiration](https://heiningave.github.io/2020-02-25-BSS-symposium-Interdisciplinary-Inspiration-was-a-great-succes!!/).
 
 ### Psychopathology
 
