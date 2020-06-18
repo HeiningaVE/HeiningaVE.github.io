@@ -15,7 +15,7 @@ subtitle: Curriculum vitae
 **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. *BMC Psychiatry*. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5).
 
 <details>
-  <summary>Details and its impact </summary>
+  <summary>Details and impact </summary>
 	
   ### About the study
   * We were the first to provide a complete overview of anhedonia in the daily lives of MDD patients in terms of hourly fluctuations in pleasure, increase in positive emotions as a function of events, and getting back to baseline in depressed patients with anhedonia.
@@ -28,11 +28,8 @@ subtitle: Curriculum vitae
   ### Related documents
   * [See preprint](https://doi.org/10.31234/osf.io/cfkts) 
   * [See Data and Code](https://doi.org/10.17605/OSF.IO/8GXRW)
-
-
-
-
 	</details>
+
 
 Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. (2019) Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
 * [See preprint](https://psyarxiv.com/tdnws/)
