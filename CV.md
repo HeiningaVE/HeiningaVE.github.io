@@ -13,7 +13,7 @@ subtitle: Curriculum vitae
 
 ### Peer-reviewed publications (9)
 
-* Total citations = 71 (according to google 123)
+* Total citations = 71 (according to Google Scholar = 123)
 * Median citations per paper = 9
 * Median Field Citation Ratio = 4.1 (1 = average)
 
