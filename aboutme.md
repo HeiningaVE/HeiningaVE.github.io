@@ -9,7 +9,6 @@ subtitle: A not-so-short introduction
 ### Research interests/ Expertise
 - Affect
 - Psychopathology
-- Depressive symptoms
 - Open Science
 
 I combine insights from psychology, sociology, pedagogics, educational science, and psychometrics to unravel psychosocial and behavioral mechanisms underlying psychopathological disorders.
