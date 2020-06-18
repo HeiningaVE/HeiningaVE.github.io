@@ -12,7 +12,7 @@ subtitle: Curriculum vitae
 
 ## Peer-reviewed publications (9)
 
-1. **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. *BMC Psychiatry*. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5).
+**Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. *BMC Psychiatry*. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5).
 
 * [See preprint](https://doi.org/10.31234/osf.io/cfkts) 
 * [See Data and Code](https://doi.org/10.17605/OSF.IO/8GXRW)
@@ -21,7 +21,7 @@ subtitle: Curriculum vitae
 * High Altmetric Attention Score compared to outputs of the same age (90th percentile), calculated on Sept 3 (2019).
 * Field Citation Ratio (FCR) are only computed for article more than 2 years old.
 
-2. Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. (2019) Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
+Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. (2019) Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
 * [See preprint](https://psyarxiv.com/tdnws/)
 * We showed how depressive symptoms affect each other over time in people with and without anhedonia.
 * High Altmetric Attention Score compared to outputs of the same age (84th percentile), calculated on Sept 3 (2019).
