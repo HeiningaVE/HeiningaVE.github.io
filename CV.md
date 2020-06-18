@@ -35,46 +35,131 @@ High Altmetric Attention Score compared to outputs of the same age (90th percent
 
 
 Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. (2019) Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
-* [See preprint](https://psyarxiv.com/tdnws/)
-* We showed how depressive symptoms affect each other over time in people with and without anhedonia.
-* High Altmetric Attention Score compared to outputs of the same age (84th percentile), calculated on Sept 3 (2019).
-* Field Citation Ratio (FCR) are only computed for article more than 2 years old.
+
+<details>
+  <summary>About </summary>
+	
+We showed how depressive symptoms affect each other over time in people with and without anhedonia.
+	</details>
+	
+<details>
+  <summary>Impact </summary>
+High Altmetric Attention Score compared to outputs of the same age (84th percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) are only computed for article more than 2 years old.
+	</details>
+
+<details>
+  <summary>Preregistration, preprint, data and code </summary>
+Preprint: https://psyarxiv.com/tdnws/
+	</details>
+
 
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. [10.1371/journal.pone.0180753](https://doi.org/10.1371/journal.pone.0180753).  
-* [See Data and Code](https://osf.io/wdzs6/)
-* We explored deviations in learning processes in the daily lives of people with anhedonia using diary studies.
-* Until recently, reward and punishment learning processes were exclusively studied by means of laboratory tasks, which makes this study a highly innovative and important contribution to clinical and experimental psychology
-* Field Citation Ratio (FCR) = 1.9 (1 = average) = 4.04
+
+<details>
+  <summary>About </summary>
+
+We explored deviations in learning processes in the daily lives of people with anhedonia using diary studies.
+	</details>
+	
+<details>
+  <summary>Impact </summary>
+	
+Until recently, reward and punishment learning processes were exclusively studied by means of laboratory tasks, which makes this study a highly innovative and important contribution to clinical and experimental psychology. Field Citation Ratio (FCR) = 1.9 (1 = average).
+	</details>
+
+
+<details>
+  <summary>Preregistration, preprint, data and code </summary>
+
+Data and Code: https://osf.io/wdzs6/
+</details>
+
 
 **Heininga, V.E.**, van Roekel, E., Ahles J., Oldehinkel A., Mezulis, A. (2017). Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted. Journal of Affective Disorders, 218, 437445. DOI: [10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).
-* [See Data and Code](https://osf.io/yfesj/)
-* We were the first to employ experience-sampling methods to compare within-person pleasure experiencebetween individuals with and without anhedonia. Contrary to general assumptions, we showed thatpeople with anhedonia are still able to experience pleasure.
-* Its impact in the field is evidenced by its citations, and High Attention Score compared to outputs of the same age and source (82nd percentile), calculated on Sept 3 (2019).
-* Field Citation Ratio (FCR) = 4.76 (1 = average) 
+
+<details>
+  <summary>About </summary>
+	
+We were the first to employ experience-sampling methods to compare within-person pleasure experiencebetween individuals with and without anhedonia. Contrary to general assumptions, we showed thatpeople with anhedonia are still able to experience pleasure.
+	</details>
+	
+<details>
+  <summary>Impact </summary>
+
+Its impact in the field is evidenced by its citations, and High Attention Score compared to outputs of the same age and source (82nd percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 4.76 (1 = average).
+	</details>
+
+
+<details>
+  <summary>Preregistration, preprint, data and code </summary>
+	
+Data and Code: https://osf.io/yfesj/
+</details>
 
 van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehinkel, A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96. DOI: [10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).
-* [See preprint](https://doi.org/10.31234/osf.io/b94sy)
-* [See Data and Code](https://osf.io/k7rfu/)
-* Together, we developed and executed an intervention for anhedonic young adults: personalized lifestyle advice, which is advice tailored to one’s personal situation. Based on a month of diary study, statistical analyses were performed for each person separately to investigate which lifestyle factors were associated with pleasure.
-* The study attracted large national media coverage on the radio (e.g., Radio 1), and newspapers (e.g., by Algemeen Dagblad; Dagblad van het Noorden; Volkskrant).
-* High Altmetric Attention Score compared to outputs of the same age (81st percentile), calculated on Sept 3 (2019).
-* Field Citation Ratio (FCR) = 5.71 (1 = average). 
+<details>
+  <summary>About </summary>
+	
+Together, we developed and executed an intervention for anhedonic young adults: personalized lifestyle advice, which is advice tailored to one’s personal situation. Based on a month of diary study, statistical analyses were performed for each person separately to investigate which lifestyle factors were associated with pleasure.
+	</details>
+	
+<details>
+  <summary>Impact </summary>
+	
+The study attracted large national media coverage on the radio (e.g., Radio 1), and newspapers (e.g., by Algemeen Dagblad; Dagblad van het Noorden; Volkskrant). High Altmetric Attention Score compared to outputs of the same age (81st percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 5.71 (1 = average). 
+	</details>
 
-van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z).   
-* Together, we collected rich and unique data, consisting of a cross-sectional survey (N=3000), a diary study (N=138), monthly blood sampling, and saliva sampling.To stimulate data reuse, I created codebooks for all our data and made them available on Open Science Framework.
-* High Altmetric Attention Score compared to outputs of the same age (87th percentile), calculated on Sept 3 (2019).
-* Field Citation Ratio (FCR) = 3.96 (1 = average).
+
+<details>
+  <summary>Preregistration, preprint, data and code </summary>
+	
+Preprint: https://doi.org/10.31234/osf.io/b94sy; Data and Code: https://osf.io/k7rfu/
+</details>
+
+van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z). 
+
+<details>
+  <summary>About </summary>
+	
+Together, we collected rich and unique data, consisting of a cross-sectional survey (N=3000), a diary study (N=138), monthly blood sampling, and saliva sampling. To stimulate data reuse, we created codebooks for all our data and made them available on Open Science Framework.
+	</details>
+	
+<details>
+  <summary>Impact </summary>
+	
+High Altmetric Attention Score compared to outputs of the same age (87th percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 3.96 (1 = average).
+	</details>
+
+<details>
+  <summary>Preregistration, preprint, data and code </summary>
+</details>
+
 
 **Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0. DOI:[10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).
 
-* To improve understanding of inconsistent findings, in particular in the field of psychiatric genetics, I transparently tested all possible analytic options and evaluated whether inconsistent evidence in a field is more likely due to methodological differences or chance capitalization.
-* Methodological differences across studies were a likely reason for the inconsistent findings with regard to 5HTTLPR-Childhood adversity interaction on depression, but chance capitalization was at least equally plausible.
-* The novel model multiverse approach is important to all fields of science that use statistics to test their hypotheses, because they all deal with variable and model selection.
-* High Altmetrics Attention Score compared to outputs of the same age (80th percentile), calculated on Sept 3 (2019).
-* Field Citation Ratio (FCR) = 4.04 (1 = average).
+<details>
+  <summary>About </summary>
+	
+To improve understanding of inconsistent findings, in particular in the field of psychiatric genetics, I transparently tested all possible analytic options and evaluated whether inconsistent evidence in a field is more likely due to methodological differences or chance capitalization. Methodological differences across studies were a likely reason for the inconsistent findings with regard to 5HTTLPR-Childhood adversity interaction on depression, but chance capitalization was at least equally plausible. The novel model multiverse approach is important to all fields of science that use statistics to test their hypotheses, because they all deal with variable and model selection.
+	</details>
+	
+<details>
+  <summary>Impact </summary>
+	
+High Altmetrics Attention Score compared to outputs of the same age (80th percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 4.04 (1 = average).
+	</details>
 
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0. DOI: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100).  
-* We developed a new instrument to measure forensic treatment progression
+
+<details>
+  <summary>About </summary>
+	
+We developed a new instrument to measure forensic treatment progression
+	</details>
+	
+<details>
+  <summary>Impact </summary>
+	</details>
 
 > *Altmetric Attention Score*: The Altmetric Score is an automatically calculated, weighted count of all of the attention a research output has received online. ![](/img/altmetric.jpg) Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
 
