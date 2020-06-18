@@ -14,7 +14,7 @@ subtitle: A not-so-short introduction
 
 I combine insights from psychology, sociology, pedagogics, educational science, and psychometrics to unravel psychosocial and behavioral mechanisms underlying psychopathological disorders.
 
-Because I think it is important that others are able to verify and check my results, and to distinguish exploratory research from confirmatory research, I pre-register my confirmatory analyses a priori (e.g., on OSF); use Open Workflow Tools (e.g., R Markdown); publish in Open Access journals; make my data and annotated syntaxes publicly available (e.g., via Code Ocean) as much as possible.
+To distinguish exploratory research from confirmatory research, I pre-register my analyses a priori (e.g., on OSF). I write my manuscripts using Open Workflow Tools (e.g., R Markdown), publish Open Access, and make my data and annotated syntaxes publicly available (e.g., via Code Ocean) as much as possible.
 
 ### Interdisciplinary approach
 
