@@ -12,37 +12,48 @@ subtitle: Curriculum vitae
 
 ## Peer-reviewed publications (9)
 
-**Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. BMC Psychiatry. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5).
+**Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. *BMC Psychiatry*. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5).
 * [See preprint](https://doi.org/10.31234/osf.io/cfkts) 
 * [See Data and Code](https://doi.org/10.17605/OSF.IO/8GXRW)
 * High Altmetric Attention Score compared to outputs of the same age (90th percentile), calculated on Sept 3 (2019).
+* We were the first to provide a complete overview of anhedonia in the daily lives of MDD patients in terms of hourly fluctuations in pleasure, increase in positive emotions as a function of events, and getting back to baseline in depressed patients with anhedonia.
+* The new insights are important to psychology and clinical practice 1 out of 5 young adults experience anhedonia and circa 70% of all depressed patients suffer from anhedonia. Depression affects 300 million people worldwide - about 5% of all people.
 
 Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. (2019) Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
 * [See preprint](https://psyarxiv.com/tdnws/)
 * High Altmetric Attention Score compared to outputs of the same age (84th percentile), calculated on Sept 3 (2019).
+* We showed how depressive symptoms affect each other over time in people with and without anhedonia.
 
-**Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. PLoS ONE 12(10): e0180753. [10.1371/journal.pone.0180753](https://doi.org/10.1371/journal.pone.0180753).  
+**Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. [10.1371/journal.pone.0180753](https://doi.org/10.1371/journal.pone.0180753).  
 * [See Data and Code](https://osf.io/wdzs6/)
-* Good Attention Score compared to outputs of the same age (79th percentile), calculated on Sept 3 (2019).
+* We explored deviations in learning processes in the daily lives of people with anhedonia using diary studies.
+* Until recently, reward and punishment learning processes were exclusively studied by means of laboratory tasks, which makes this study a highly innovative and important contribution to clinical and experimental psychology
 
 **Heininga, V.E.**, van Roekel, E., Ahles J., Oldehinkel A., Mezulis, A. (2017). Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted. Journal of Affective Disorders, 218, 437445. DOI: [10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).
 * [See Data and Code](https://osf.io/yfesj/)
 * High Attention Score compared to outputs of the same age and source (82nd percentile), calculated on Sept 3 (2019).
+* I was the first to employ experience-sampling methods to compare within-person pleasure experiencebetween individuals with and without anhedonia. Contrary to general assumptions, I showed thatpeople with anhedonia are still able to experience pleasure.
+* Its impact in the field is evidenced by its citations, and Good Attention Score compared to outputs of the same age (79th percentile), calculated on Sept 3 (2019).
 
 van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehinkel, A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96. DOI: [10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).
 * [See preprint](https://doi.org/10.31234/osf.io/b94sy)
 * [See Data and Code](https://osf.io/k7rfu/)
 * High Altmetric Attention Score compared to outputs of the same age (81st percentile), calculated on Sept 3 (2019).
+* Together, we developed and executed an intervention for anhedonic young adults: personalized lifestyle advice, which is advice tailored to one’s personal situation. Based on a month of diary study, statistical analyses were performed for each person separately to investigate which lifestyle factors were associated with pleasure.
+* The study attracted large national media coverage on the radio (e.g., Radio 1), and newspapers (e.g., by Algemeen Dagblad; Dagblad van het Noorden; Volkskrant).
 
 van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z).   
 * High Altmetric Attention Score compared to outputs of the same age (87th percentile), calculated on Sept 3 (2019).
+* Together, we collected rich and unique data, consisting of a cross-sectional survey (N=3000), a diary study (N=138), monthly blood sampling, and saliva sampling.To stimulate data reuse, I created codebooks for all our data and made them available on Open Science Framework.
 
 **Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0. DOI:[10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).
 * High Attention Score compared to outputs of the same age (80th percentile), calculated on Sept 3 (2019).
+* To improve understanding of inconsistent findings, in particular in the field of psychiatric genetics, I transparently tested all possible analytic options and evaluated whether inconsistent evidence in a field is more likely due to methodological differences or chance capitalization.
+* Methodological differences across studies were a likely reason for the inconsistent findings with regard to 5HTTLPR-Childhood adversity interaction on depression, but chance capitalization was at least equally plausible.
+* The novel model multiverse approach is important to all fields of science that use statistics to test their hypotheses, because they all deal with variable and model selection.
 
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0. DOI: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100).  
-
-  
+* We developed a new instrument to measure forensic treatment progression
 
 > *Altmetric Attention Score*: compares the attention score with other output of the same age. A score in the 93rd percentile, for example, means that 93% of its publications scored the same or lower than it. Altmetrics data is provided by Altmetric.com, a research metrics company who track and collect the online conversations around millions of scholarly outputs.  
 ![](/img/altmetric.jpg) Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
@@ -58,6 +69,9 @@ Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Pr
 
 * [See preregistration](https://osf.io/zbekw)  
 * [See preprint](https://psyarxiv.com/t2j7p)
+* We identified two lifestyle-based risk factors for anhedonia in in the daily life of depressed patients: low relationship quality and fear of abandonment.
+* Important to the fiel of clinical psychology, because literature on factors that can influence momentary anhedonia on an hourly time-scale are scarce.
+* Relevant for clinical practice, because clinical practitioners that aim to reduce depressed patients’ anhedonia may benefit from targeting the social stressors in their therapies/ interventions.
 
 Masselink, M., van Roekel, E., **Heininga, V. E.**, Vrijen, C., & Oldehinkel, A. (2019, June 13). Domains Of Pleasure Scale (DOPS): assessing pleasure across domains. https://doi.org/10.31219/osf.io/bu7z5
 
@@ -66,6 +80,9 @@ Masselink, M., van Roekel, E., **Heininga, V. E.**, Vrijen, C., & Oldehinkel, A.
 **Heininga, V. E.**, Nederhof, E., van Roekel, E., Laceulle, O., & Oldehinkel, A. (2019, September 2). Emotion-Based Learning by Iowa and Bangor Gambling Tasks: Similar but not the same?.
 
 * [See preprint](https://psyarxiv.com/3nkfj)
+* We critically discuss a novel, simplified version of a primary emotion-based decision-making task.
+* Adds to experimental psychology research, because our findings suggest that both tasks are unsuited for test-retest purposes.
+* Important for clinical practice, because the simplified paradigm differs conceptually from the original, thereby casting doubt on the authors’ plea to use the easier-to-administer-task in patients with, for example, brain injuries.
 
 Nosek, B. A., Corker, K. S., Krall, T., Grasty, F. L., Brooks, R. E., III, Mellor, D. T., … **Heininga, V. E.**, … Susi, T. (2020, January 30). NSF 19-501 AccelNet Proposal: Community of Open Scholarship Grassroots Networks (COSGN). 
 
