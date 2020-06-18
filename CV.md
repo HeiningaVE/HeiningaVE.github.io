@@ -17,17 +17,17 @@ subtitle: Curriculum vitae
 <details>
   <summary>Details and its impact </summary>
 	
-### About the study
-* We were the first to provide a complete overview of anhedonia in the daily lives of MDD patients in terms of hourly fluctuations in pleasure, increase in positive emotions as a function of events, and getting back to baseline in depressed patients with anhedonia.
-* The new insights are important to psychology and clinical practice 1 out of 5 young adults experience anhedonia and circa 70% of all depressed patients suffer from anhedonia. Depression affects 300 million people worldwide - about 5% of all people.
+  ### About the study
+  * We were the first to provide a complete overview of anhedonia in the daily lives of MDD patients in terms of hourly fluctuations in pleasure, increase in positive emotions as a function of events, and getting back to baseline in depressed patients with anhedonia.
+  * The new insights are important to psychology and clinical practice 1 out of 5 young adults experience anhedonia and circa 70% of all depressed patients suffer from anhedonia. Depression affects 300 million people worldwide - about 5% of all people.
 
-### Impact
-* High Altmetric Attention Score compared to outputs of the same age (90th percentile), calculated on Sept 3 (2019).
-* Field Citation Ratio (FCR) are only computed for article more than 2 years old.
+  ### Impact
+  * High Altmetric Attention Score compared to outputs of the same age (90th percentile), calculated on Sept 3 (2019).
+  * Field Citation Ratio (FCR) are only computed for article more than 2 years old.
 
-### Related documents
-* [See preprint](https://doi.org/10.31234/osf.io/cfkts) 
-* [See Data and Code](https://doi.org/10.17605/OSF.IO/8GXRW)
+  ### Related documents
+  * [See preprint](https://doi.org/10.31234/osf.io/cfkts) 
+  * [See Data and Code](https://doi.org/10.17605/OSF.IO/8GXRW)
 
 
 
