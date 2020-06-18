@@ -12,7 +12,8 @@ subtitle: Curriculum vitae
 
 ## Peer-reviewed publications (9)
 
-**Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. *BMC Psychiatry*. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5).
+### **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. *BMC Psychiatry*. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5).
+
 * [See preprint](https://doi.org/10.31234/osf.io/cfkts) 
 * [See Data and Code](https://doi.org/10.17605/OSF.IO/8GXRW)
 * High Altmetric Attention Score compared to outputs of the same age (90th percentile), calculated on Sept 3 (2019).
