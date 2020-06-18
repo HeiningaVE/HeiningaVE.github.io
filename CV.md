@@ -161,6 +161,8 @@ We developed a new instrument to measure forensic treatment progression
   <summary>Impact </summary>
 	</details>
 
+
+
 > *Altmetric Attention Score*: The Altmetric Score is an automatically calculated, weighted count of all of the attention a research output has received online. ![](/img/altmetric.jpg) Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
 
 > *Open Science score*: 88% of your research is free to read online. This level of availability puts you in the top 2% of researchers accroding to https://profiles.impactstory.org/. Moreover, 35% of my papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). This important because Open Science is critical to accelerating the way we discover knowledge, and research funders are able to more quickly and efficiently maximize their return on investment.
