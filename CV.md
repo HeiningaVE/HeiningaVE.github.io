@@ -29,8 +29,8 @@ High Altmetric Attention Score compared to outputs of the same age (90th percent
 <details>
   <summary>Preregistration, preprint, data and code </summary>
 	
-  * [See preprint](https://doi.org/10.31234/osf.io/cfkts) 
-  * [See Data and Code](https://doi.org/10.17605/OSF.IO/8GXRW)
+  * Preprint: https://doi.org/10.31234/osf.io/cfkts) 
+  * Data and Code:https://doi.org/10.17605/OSF.IO/8GXRW
 </details>
 
 
