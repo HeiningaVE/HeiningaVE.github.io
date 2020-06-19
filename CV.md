@@ -14,8 +14,11 @@ subtitle: Curriculum vitae
 ### Peer-reviewed publications (9)
 
 > Total citations = 71 (according to Google Scholar = 123)
+
 > Median citations per paper = 9
+
 > Median Field Citation Ratio = 4.1 (average = 1)
+
 > Open Science score: 88% of your research is free to read online. This level of availability puts me in the top 2% of researchers accroding to https://profiles.impactstory.org/. This important because Open Science is critical to accelerating the way we discover knowledge.
 
 **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. *BMC Psychiatry*. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5).
