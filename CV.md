@@ -10,7 +10,7 @@ subtitle: Curriculum vitae
 
 * Postdoctoral research fellow, Quantitative Psychology and Individual Differences, University of Leuven
 
-## Summary of research output
+## Summary of research output (2016 > now)
 
 * Total citations = [71](https://plantmodelling.shinyapps.io/meaningful_cv/)  (according to Google Scholar = [123](https://scholar.google.com/citations?user=X6Yol74AAAAJ&hl=en))
 
