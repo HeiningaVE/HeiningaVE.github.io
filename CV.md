@@ -468,12 +468,13 @@ S=Organized Symposium; P=Poster; and O=Oral presentation.
 2013 – 2017		PhD candidate Psychiatry    
 University Medical Center Groningen (UMCG)
 
-PhD Thesis:  
-**Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective. [PhD Thesis: University of Groningen](http://hdl.handle.net/11370/809469ab-4c9b-468b-a9b1-be97af42b493).
+> PhD Thesis: **Heininga V.E.** (2017).The happy, the sad, and the anhedonic: Towards understanding altered reward function from a micro-level perspective. [PhD Thesis: University of Groningen](http://hdl.handle.net/11370/809469ab-4c9b-468b-a9b1-be97af42b493).
 		
 2011 – 2013	 	Research Master Behavioural and Social Science    
 Interuniversity Centre Social Sciences & Methodology (ICS)     	
 Specialization: Sociology
+
+> Master thesis: Dopaminergic and serotonergic differential susceptibility to antisocial and prosocial peer behavior
 
 2010 – 2011		Pre-master programme BSc Sociology    
 University of Groningen (RUG)
@@ -483,6 +484,8 @@ University of Groningen (RUG)
 
 2006 – 2010		BSc Social Work     
 Hanze University of Applied Sciences
+
+> Specialization: Forensic psychiatrics
 
 ## Language proficiencies
 * Dutch: Native or bilingual proficiency
