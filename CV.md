@@ -15,7 +15,7 @@ subtitle: Curriculum vitae
 
 * Total citations = 71 (according to Google Scholar = 123)
 * Median citations per paper = 9
-* Median Field Citation Ratio = 4.1 (1 = average)
+* Median Field Citation Ratio = 4.1 (average = 1)
 
 **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. *BMC Psychiatry*. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5).
 
@@ -91,7 +91,7 @@ We were the first to employ experience-sampling methods to compare within-person
 <details>
   <summary>Impact </summary>
 
-Its impact in the field is evidenced by its citations, and High Attention Score compared to outputs of the same age and source (82nd percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 4.76 (1 = average).
+Its impact in the field is evidenced by its citations, and High Attention Score compared to outputs of the same age and source (82nd percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 4.76 (average =  1).
 	</details>
 
 
@@ -111,7 +111,7 @@ Together, we developed and executed an intervention for anhedonic young adults: 
 <details>
   <summary>Impact </summary>
 	
-The study attracted large national media coverage on the radio (e.g., Radio 1), and newspapers (e.g., by Algemeen Dagblad; Dagblad van het Noorden; Volkskrant). High Altmetric Attention Score compared to outputs of the same age (81st percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 5.71 (1 = average). 
+The study attracted large national media coverage on the radio (e.g., Radio 1), and newspapers (e.g., by Algemeen Dagblad; Dagblad van het Noorden; Volkskrant). High Altmetric Attention Score compared to outputs of the same age (81st percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 5.71 (average =  1). 
 	</details>
 
 
@@ -132,7 +132,7 @@ Together, we collected rich and unique data, consisting of a cross-sectional sur
 <details>
   <summary>Impact </summary>
 	
-High Altmetric Attention Score compared to outputs of the same age (87th percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 3.96 (1 = average).
+High Altmetric Attention Score compared to outputs of the same age (87th percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 3.96 (average =  1).
 	</details>
 
 <details>
@@ -151,7 +151,7 @@ To improve understanding of inconsistent findings, in particular in the field of
 <details>
   <summary>Impact </summary>
 	
-High Altmetrics Attention Score compared to outputs of the same age (80th percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 4.04 (1 = average).
+High Altmetrics Attention Score compared to outputs of the same age (80th percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 4.04 (average =  1).
 	</details>
 
 Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0. DOI: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100).  
@@ -169,6 +169,8 @@ We developed a new instrument to measure forensic treatment progression
 
 
 > *Altmetric Attention Score*: The Altmetric Score is an automatically calculated, weighted count of all of the attention a research output has received online. ![](/img/altmetric.jpg) Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
+
+> Median citations, and Median Field Citation Ratio are calculated using https://plantmodelling.shinyapps.io/meaningful_cv/ (want to read more on how to make a meaningful CV, see: https://ecrlife.org/fighting-the-impact-factor-one-cv-at-a-time/)
 
 > *Open Science score*: 88% of your research is free to read online. This level of availability puts you in the top 2% of researchers accroding to https://profiles.impactstory.org/. Moreover, 35% of my papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). This important because Open Science is critical to accelerating the way we discover knowledge, and research funders are able to more quickly and efficiently maximize their return on investment.
 
