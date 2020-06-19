@@ -18,7 +18,7 @@ subtitle: Curriculum vitae
 
 * Median Field Citation Ratio = [4.1](https://plantmodelling.shinyapps.io/meaningful_cv/) (average = 1)
 
-* Open Science score: 88% of your research is free to read online. This level of availability puts me in the **top 2%** of researchers according to https://profiles.impactstory.org/. This important because Open Science is critical to accelerating the way we discover knowledge.
+* Open Science score: 88% of my research is free to read online. This level of availability puts me in the **top 2%** of researchers according to https://profiles.impactstory.org/. This important because Open Science is critical to accelerating the way we discover knowledge.
 
 ### Peer-reviewed publications (9)
 
