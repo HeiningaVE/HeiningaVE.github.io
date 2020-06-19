@@ -10,6 +10,8 @@ subtitle: Curriculum vitae
 
 * Postdoctoral research fellow, Quantitative Psychology and Individual Differences, University of Leuven
 
+
+
 ## Summary of research output (2016 > now)
 
 * Total citations = [71](https://plantmodelling.shinyapps.io/meaningful_cv/)  (according to Google Scholar = [123](https://scholar.google.com/citations?user=X6Yol74AAAAJ&hl=en))
@@ -19,6 +21,8 @@ subtitle: Curriculum vitae
 * Median Field Citation Ratio = [4.1](https://plantmodelling.shinyapps.io/meaningful_cv/) (average = 1)
 
 * Open Science score: **88% of my research is free to read online**. This level of availability puts me in the **[top 2%](https://profiles.impactstory.org/)** of researchers. This important because Open Science is critical to accelerating the way we discover knowledge.
+
+
 
 ### Peer-reviewed publications (9)
 
