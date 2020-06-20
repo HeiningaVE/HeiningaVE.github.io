@@ -11,7 +11,7 @@ subtitle: A not-so-short introduction
 - Psychopathology
 - Open Science
 
-I combine insights from psychology, sociology, pedagogics, and psychometrics to unravel psychosocial and behavioral mechanisms underlying the onset and maintenance of psychological disorders.
+I combine insights from psychology, sociology, pedagogics, and psychometrics to unravel psychosocial and behavioral mechanisms underlying the onset and maintenance of mental disorders.
 
 Open Science is critical to accelerating the way we discover knowledge. Therefore, I pre-register my analyses (e.g., on Open Science Framework); use Open Workflow Tools (e.g., R Markdown); publish Open Access; and make my data & code publicly available (e.g., via Code Ocean) as much as possible.
 
