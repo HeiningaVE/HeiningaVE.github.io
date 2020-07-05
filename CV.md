@@ -14,7 +14,7 @@ subtitle: Curriculum vitae
 
 ## Summary of research output (2016 > now)
 
-* Total citations = [123](https://scholar.google.com/citations?user=X6Yol74AAAAJ&hl=en) according to Google Scholar
+* Total citations = [121](https://scholar.google.com/citations?user=X6Yol74AAAAJ&hl=en) according to Google Scholar
 * Median citations per paper = [9](https://plantmodelling.shinyapps.io/meaningful_cv/) 
 * Median Field Citation Ratio = [4.1](https://plantmodelling.shinyapps.io/meaningful_cv/) (average = 1)
 * Open Science score: **88% of my research is free to read online**. This level of availability puts me in the **[top 2%](https://profiles.impactstory.org/)** of researchers. This important because Open Science is critical to accelerating the way we discover knowledge.
@@ -246,7 +246,7 @@ Armenia, Brinkman, Eerland, Fijtend, **Heininga**, Masselink, Sarafogloug, Schet
 
 Schuringa E., **Heininga V.E.**, Spreen M. (2011). De N=1 statistiek achter het patiënt volgsysteem in het FPC Dr. S. van Mesdag. In: *GGzet Wetenschappelijk*, (pp. 70-77) Lentis voorheen Stichting GGz Groningen, Zuidlaren.
   
-## Valorization: Talks (3)
+### Talks (3)
 Grote GMW Quiz  
 Klaas Veen, van (Speaker), Vera Heininga (Speaker)  
 5-Sep-2019  
@@ -260,6 +260,12 @@ Talk or presentation › Popular
 Every Child is Different: Do you feel what I feel?  
 Anne Margit Reitsema (Speaker), Vera Heininga (Speaker), Bertus Jeronimus (Speaker)  
 21-Aug-2019
+
+### Other
+
+01-07-2020, BLOG: [Open Research Award: Celebrating openness … and randomness?](https://openscience-groningen.nl/blog-open-research-award-celebrating-openness-and-randomness/) (Together with Maurits Masselink)
+
+19-06-2019, [ORCID Interview](https://www.youtube.com/watch?v=IkmYlZ3z7H8&t=40s)
 
 ### Media coverage or appearances 
 
