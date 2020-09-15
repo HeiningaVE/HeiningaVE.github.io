@@ -14,10 +14,10 @@ subtitle: Curriculum vitae
 
 ## Summary of research output (2016 > now)
 
-* Total citations = [121](https://scholar.google.com/citations?user=X6Yol74AAAAJ&hl=en) according to Google Scholar
+* Total citations = [121](https://scholar.google.com/citations?user=X6Yol74AAAAJ&hl=en) (Google Scholar)
 * Median citations per paper = [9](https://plantmodelling.shinyapps.io/meaningful_cv/) 
 * Median Field Citation Ratio = [4.1](https://plantmodelling.shinyapps.io/meaningful_cv/) (average = 1)
-* Open Science score: **88% of my research is free to read online**. This level of availability puts me in the **[top 2%](https://profiles.impactstory.org/)** of researchers. This important because Open Science is critical to accelerating the way we discover knowledge.
+* Open Science score: **88% of my research is free to read online**. This level of availability puts me in the [top 2%](https://profiles.impactstory.org/) of researchers. This important because Open Science is critical to accelerating the way we discover knowledge.
 
 
 
