@@ -231,7 +231,9 @@ Cohen-Woods, S., (...) **Heininga, V.E.** (...) (in preparation). Meta-analysis 
 
 **Heininga, V.E.**, Kuppens, P. (in preparation) Positive emotions/psychopathology. In preparation for submission in Current Opinion in Behavioral Sciences
 
-Armenia, Brinkman, Eerland, Fijtend, **Heininga**, Masselink, Sarafogloug, Schettinoh, Sjoerdsi, Akker, van 't Veer, Zurita-Millak (in prep) Towards Wide-scale Adoption of Open Science Practices: The Role of Bottom-up Open Science Communities
+Armeni, Brinkman, Eerland, Fijten, **Heininga**, Masselink, Sarafoglou, Schettino, Sjoerds, Akker, van 't Veer, Zurita-Milla (in prep) Towards Wide-scale Adoption of Open Science Practices: The Role of Bottom-up Open Science Communities
+
+Brinkman, Schettino, Zurita-Milla, Eerland, Zormpa, Schwamm, **Heininga**, Sjoerds (in prep) OSC Starter Kit. https://osf.io/e2s7x/
 
 
 ## Research stays abroad
