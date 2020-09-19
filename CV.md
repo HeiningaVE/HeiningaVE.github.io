@@ -210,7 +210,7 @@ We developed a new instrument to measure forensic treatment progression
 
 
 
-## Preprints/ work under review (6)
+## Preprints/ work under review (5)
 
 **Heininga, V. E.**, Dejonckheere, E., Houben, M., & Kuppens, P. (2019, April 14). Sociomarkers of anhedonia in MDD. 
 
