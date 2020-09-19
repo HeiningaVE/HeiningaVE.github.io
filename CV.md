@@ -21,7 +21,34 @@ subtitle: Curriculum vitae
 
 
 
-### Peer-reviewed publications (9)
+### Peer-reviewed publications (10)
+
+Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020, March 27). A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-think Task. *Memory*. DOI: [10.1080/09658211.2020.1797095](https://doi.org/10.1080/09658211.2020.1797095).
+
+<details>
+  <summary>About </summary>
+
+In 2001, Anderson and Green showed memory suppression using a novel Think/No-think (TNT) task. When participants attempted to prevent studied words from entering awareness, they reported fewer of those words than baseline words in subsequent cued recall (i.e., suppression effect). The TNT literature contains predominantly positive findings and few null-results. Therefore we report unpublished replications conducted in the 2000s (N = 49; N = 36). As the features of the data obtained with the TNT task call for a variety of plausible solutions, we report parallel “universes” of data-analyses (i.e., multiverse analysis) testing the suppression effect. Two published studies were reanalysed in a similar fashion. For recall probed with studied cues (Same Probes, SP), some tests (sample 3) or all (samples 2 and 4) showed statistically significant suppression effects, whereas in sample 1, only one test showed significance. Recall probed with novel cues (Independent Probes, IP) predominantly rendered non-significant results. The absence of statistically significant IP suppression effects raises problems for inhibition theory and its implication that repression is a viable mechanism of forgetting.
+
+</details>
+
+<details>
+  <summary>Impact </summary>
+	
+Across four samples, our multiverse analysis yielded a mixed pattern of results for the forgetting of targets when recall was tested with familiar cues (i.e., SP test), suggesting that it seems prudent to refrain from interpreting suppression induced forgetting as evidence for inhibition.
+
+</details>
+
+<details>
+  <summary>Preregistration, preprint, data and code </summary>
+	
+  * Preregistration: https://doi.org/10.17605/OSF.IO/MCS8R
+  * Preprint: https://doi.org/10.31234/osf.io/2dr9e
+  * Data and Code: https://osf.io/qgcy5/
+</details>
+
+
+
 
 **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. *BMC Psychiatry*. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5).
 
@@ -209,11 +236,6 @@ Nosek, B. A., Corker, K. S., Krall, T., Grasty, F. L., Brooks, R. E., III, Mello
 * [See preprint](https://doi.org/10.31222/osf.io/d7mwk)
 
 Schmitter, M., van Roekel, E., **Heininga, V.E.**, Oldehinkel, A. J. (Submitted) Personalized Lifestyle Advice Alters Affective Reactivity to Negative Events in Anhedonic Young Adults.
-
-Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020, March 27). A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-think Task. 
-
-* [See preregistration](https://doi.org/10.17605/OSF.IO/MCS8R)
-* [See preprint](https://doi.org/10.31234/osf.io/2dr9e)
 
 
 ## Work in preparation (i.e., not yet preprint) (6)
