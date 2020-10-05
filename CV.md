@@ -210,7 +210,11 @@ We developed a new instrument to measure forensic treatment progression
 
 
 
-## Preprints/ work under review (5)
+## Preprints/ work under review (6)
+
+**Heininga, V.E.**, Kuppens, P. (under review; 2020, October 1) Psychopathology and positive emotions in daily life. Current Opinion in Behavioral Sciences.
+
+* [See preprint](https://psyarxiv.com/yse56)
 
 **Heininga, V. E.**, Dejonckheere, E., Houben, M., & Kuppens, P. (2019, April 14). Sociomarkers of anhedonia in MDD. 
 
@@ -219,6 +223,8 @@ We developed a new instrument to measure forensic treatment progression
 * We identified two lifestyle-based risk factors for anhedonia in in the daily life of depressed patients: low relationship quality and fear of abandonment.
 * Important to the fiel of clinical psychology, because literature on factors that can influence momentary anhedonia on an hourly time-scale are scarce.
 * Relevant for clinical practice, because clinical practitioners that aim to reduce depressed patients’ anhedonia may benefit from targeting the social stressors in their therapies/ interventions.
+
+Schmitter, M., van Roekel, E., **Heininga, V.E.**, Oldehinkel, A. J. (Under review) Personalized Lifestyle Advice Alters Affective Reactivity to Negative Events in Anhedonic Young Adults.
 
 Masselink, M., van Roekel, E., **Heininga, V. E.**, Vrijen, C., & Oldehinkel, A. (2019, June 13). Domains Of Pleasure Scale (DOPS): assessing pleasure across domains. https://doi.org/10.31219/osf.io/bu7z5
 
@@ -235,10 +241,9 @@ Nosek, B. A., Corker, K. S., Krall, T., Grasty, F. L., Brooks, R. E., III, Mello
 
 * [See preprint](https://doi.org/10.31222/osf.io/d7mwk)
 
-Schmitter, M., van Roekel, E., **Heininga, V.E.**, Oldehinkel, A. J. (Submitted) Personalized Lifestyle Advice Alters Affective Reactivity to Negative Events in Anhedonic Young Adults.
 
 
-## Work in preparation (i.e., not yet preprint) (6)
+## Work in preparation (i.e., not yet preprint) (5)
 
 **Heininga, V.E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.
 
@@ -250,8 +255,6 @@ Cohen-Woods, S., (...) **Heininga, V.E.** (...) (in preparation). Meta-analysis 
 
 
 * [See preregistration](https://doi.org/10.17605/OSF.IO/8N54H)
-
-**Heininga, V.E.**, Kuppens, P. (in preparation) Positive emotions/psychopathology. In preparation for submission in Current Opinion in Behavioral Sciences
 
 Armeni, Brinkman, Eerland, Fijten, **Heininga**, Masselink, Sarafoglou, Schettino, Sjoerds, Akker, van 't Veer, Zurita-Milla (in prep) Towards Wide-scale Adoption of Open Science Practices: The Role of Bottom-up Open Science Communities
 
