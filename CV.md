@@ -210,7 +210,11 @@ We developed a new instrument to measure forensic treatment progression
 
 
 
-## Preprints/ work under review (6)
+## Preprints/ work under review (7)
+
+Armeni, K., Brinkman, L., Carlsson, R., Eerland, A., Fijten, R., Fondberg, R., **Heininga, V.E.**, Masselink, M., Sarafoglou, Schettino, Sjoerds, Akker, van 't Veer, Zurita-Milla, R. (2020, October 6). Towards wide-scale adoption of open science practices: The role of open science communities.
+
+* [See preprint](https://doi.org/10.31222/osf.io/7gct9)
 
 **Heininga, V.E.**, Kuppens, P. (under review; 2020, October 1) Psychopathology and positive emotions in daily life. Current Opinion in Behavioral Sciences.
 
@@ -255,8 +259,6 @@ Cohen-Woods, S., (...) **Heininga, V.E.** (...) (in preparation). Meta-analysis 
 
 
 * [See preregistration](https://doi.org/10.17605/OSF.IO/8N54H)
-
-Armeni, Brinkman, Eerland, Fijten, **Heininga**, Masselink, Sarafoglou, Schettino, Sjoerds, Akker, van 't Veer, Zurita-Milla (in prep) Towards Wide-scale Adoption of Open Science Practices: The Role of Bottom-up Open Science Communities
 
 Brinkman, Schettino, Zurita-Milla, Eerland, Zormpa, Schwamm, **Heininga**, Sjoerds (in prep) OSC Starter Kit. https://osf.io/e2s7x/
 
