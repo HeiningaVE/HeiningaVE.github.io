@@ -22,7 +22,7 @@ subtitle: Curriculum vitae
 
 
 ### Peer-reviewed publications (10) 
-### + 7 preprints/ work under review (see below)
+#### + 7 preprints/ work under review (see below)
 
 Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020). A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-think Task. *Memory*. DOI: [10.1080/09658211.2020.1797095](https://doi.org/10.1080/09658211.2020.1797095).
 
