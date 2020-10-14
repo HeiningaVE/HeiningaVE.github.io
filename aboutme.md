@@ -7,13 +7,14 @@ subtitle: A not-so-short introduction
 ![Me](/img/Picture2.png "Me")
 
 ### Research interests/ Expertise
-- Affect and affective disorders
-- Depresive symptoms
-- Open Science
+The aim of my research is to contribute to the understanding of mood and mood disorders (eg Depression) and how to prevent them.
 
-I combine insights from psychology, sociology, and psychometrics to unravel biopsychosocial mechanisms underlying the onset and maintenance of depressive symptoms.
+As an interdisciplinary postdoctoral researcher, I combine insights from psychology, sociology and psychometrics to unravel biopsychosocial mechanisms that underlie the development and maintenance of depressive symptoms.
 
-Open Science is critical to accelerating the way we discover knowledge. Therefore, I pre-register my analyses (e.g., on Open Science Framework); use Open Workflow Tools (e.g., R Markdown); publish Open Access; and make my data & code publicly available (e.g., via Code Ocean) as much as possible.
+Expertise:
+- Mood and mood disorders
+- Depressive symptoms
+- Emotion dynamics (fluctuations over time)
 
 ### Interdisciplinary approach
 
@@ -33,6 +34,9 @@ In the EMA-based intervention, participants got personalized advice based on the
 I was the first to examine affective reward functioning in anhedonic individuals' daily lives. That is, I compare anhedonic to non-anhedonic individuals in their ability to 1) pursue, 3) experience, and 3) learn about pleasure in daily life. These three components of reward functioning are typically investigated in the laboratory (e.g., by using tasks or brain scanner). Using EMA, I confirmed some laboratory findings, but not all. For example, individuals with anhedonia typically show a blunted reaction to rewarding laboratory stimuli. Yet, using an EMA design, I was able to show that the reward reactivity in individuals with anhedonia was anything but blunted. Intrigued by this conundrum, and passionate to solve it, I was awarded a KNAW Academy Ter Meulen Grant and the Post Doctoral Mandate of the KU Leuven internal fund to tackle this puzzle together with prof. Peter Kuppens in Belgium.
 
 
+### Open Science
+Open Science is critical to accelerating the way we discover knowledge. Therefore, I pre-register my confirmatory analyses; use Open Workflow Tools (e.g., R Markdown); publish in Open Access journals; make my annotated code publicly available, and co-founded the [Open Science Community Groningen](https://openscience-groningen.nl/) (OSCG).
+
 ### More info
 
-For more information, please see my [recent projects](https://heiningave.github.io/projects/), [full Curriculum Vitae](https://heiningave.github.io/CV/), or email me: v.e.heininga@rug.nl!
+For more information, please see my [recent projects](https://heiningave.github.io/projects/), [full Curriculum Vitae](https://heiningave.github.io/CV/), or email me: v.e.heininga [at] gmail.nl!
