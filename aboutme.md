@@ -11,7 +11,7 @@ subtitle: A not-so-short introduction
 - Psychopathology
 - Open Science
 
-I combine insights from psychology, sociology, pedagogics, and psychometrics to unravel psychosocial and behavioral mechanisms underlying the onset and maintenance of mental disorders.
+I combine insights from psychology, sociology, and psychometrics to unravel bio-psycho-social mechanisms underlying the onset and maintenance of depressive symptoms.
 
 Open Science is critical to accelerating the way we discover knowledge. Therefore, I pre-register my analyses (e.g., on Open Science Framework); use Open Workflow Tools (e.g., R Markdown); publish Open Access; and make my data & code publicly available (e.g., via Code Ocean) as much as possible.
 
@@ -19,9 +19,9 @@ Open Science is critical to accelerating the way we discover knowledge. Therefor
 
 Currently, I am an interdisciplinary postdoc with a focus on Deficits, Distress, and Disorders. That is, in order to improve interdisciplinary cooperation within the faculty of Behavioral and Social Sciences of the University of Groningen, I organize events. For example, I organized a hack-a-thon event during which I invited faculty staff to think along with the large interdisciplinary national crowdsourcing study among youth (aged 8-18) I am currently involved in (see also: [Recent Projects](https://heiningave.github.io/projects/)), and a [large symposium on interdisciplinary inspiration](https://heiningave.github.io/2020-02-25-BSS-symposium-Interdisciplinary-Inspiration-was-a-great-succes!!/).
 
-### Psychopathology
+### Biopsychosocial study into anhedonia
 
-Between 2013 and 2017, I was part of a biopsychosocial study into anhedonia (i.e., markedly diminished interest or pleasure). Together with the ‘No Fun No Glory’ research team, I collected survey data among nearly 3000 young adults; set out Ecological Momentary Assessment study (EMA) in which we sampled subjective experiences for multiple times a day for multiple days; and developed an EMA-based intervention te regain pleasure in daily life.
+Between 2013 and 2017, I was part of a biopsychosocial study into anhedonia (i.e., markedly diminished interest or pleasure; see: [recent projects](https://heiningave.github.io/projects/)). Together with the ‘No Fun No Glory’ research team, I collected survey data among nearly 3000 young adults; set out Ecological Momentary Assessment study (EMA) in which we sampled subjective experiences for multiple times a day for multiple days; and developed an EMA-based intervention te regain pleasure in daily life.
 
 #### EMA intervention
 
