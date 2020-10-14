@@ -21,7 +21,7 @@ Currently, I am an interdisciplinary postdoc with a focus on Deficits, Distress,
 
 ### Biopsychosocial study into anhedonia
 
-Between 2013 and 2017, I was part of a biopsychosocial study into anhedonia (i.e., markedly diminished interest or pleasure; see: [recent projects](https://heiningave.github.io/projects/)). Together with the ‘No Fun No Glory’ research team, I collected survey data among nearly 3000 young adults; set out Ecological Momentary Assessment study (EMA) in which we sampled subjective experiences for multiple times a day for multiple days; and developed an EMA-based intervention te regain pleasure in daily life.
+Between 2013 and 2017, I was part of a biopsychosocial study into anhedonia (i.e., markedly diminished interest or pleasure; see: [recent projects](https://heiningave.github.io/projects/)). Together with the ‘No Fun No Glory’ research team, I collected survey data among nearly 3000 young adults; set out Ecological Momentary Assessment study (EMA) in which we sampled subjective experiences for multiple times a day for multiple days; and developed an EMA-based intervention to regain pleasure in daily life.
 
 #### EMA intervention
 
