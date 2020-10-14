@@ -19,6 +19,6 @@ Gaining a better understanding of human deficits, psychological distress, and ps
 
 This study aims to investigate emotion dynamics in clinically depressed people and controls with the help of Experience Sampling Methods (ESM), in order to gain more insight into micro-mechanisms of anhedonia and its consequences for future well-being.
 
-### No fun no glory: a biopsychosocial investigation of how adolescents lose the ability to experience pleasure and may gain it back again. 
+### Biopsychosocial study into anhedonia: ‘No Fun, No Glory’
 #### [2013-2017 | PhD project](https://www.nwo.nl/en/research-and-results/research-projects/i/79/9579.html)
-This study is a biological psychological and behavioral study into anhedonia (decreased capability to experience pleasure). Anhedonia is a core symptom of depression, yet not fully understood. This study was set out to 1) Better understand which lifestyle factors play a part in loss of pleasure; 2) Investigate whether personalized lifestyle advice can help people with anhedonia to regain pleasure; 3) See if a tandem skydive can help people with anhedonia to carry out the lifestyle advice in their daily lives.
+This study is a biological psychological and behavioral investigation of how adolescents lose the ability to experience pleasure and may gain it back again.  Anhedonia (decreased capability to experience pleasure) is a core symptom of depression, yet not fully understood. This study was set out to 1) Better understand which lifestyle factors play a part in loss of pleasure; 2) Investigate whether personalized lifestyle advice can help people with anhedonia to regain pleasure; 3) See if a tandem skydive can help people with anhedonia to carry out the lifestyle advice in their daily lives.
