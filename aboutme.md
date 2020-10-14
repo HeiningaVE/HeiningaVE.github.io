@@ -8,7 +8,7 @@ subtitle: A not-so-short introduction
 
 ### Research interests/ Expertise
 - Affect and affective disorders
-- Psychopathology
+- Depresive symptoms
 - Open Science
 
 I combine insights from psychology, sociology, and psychometrics to unravel biopsychosocial mechanisms underlying the onset and maintenance of depressive symptoms.
