@@ -14,15 +14,29 @@ subtitle: Curriculum vitae
 
 ## Summary of research output (2016 > now)
 
-* Total citations = [137](https://scholar.google.com/citations?user=X6Yol74AAAAJ&hl=en) (Google Scholar)
+* Total citations = [142](https://scholar.google.com/citations?user=X6Yol74AAAAJ&hl=en) (Google Scholar)
 * Median citations per paper = [9](https://plantmodelling.shinyapps.io/meaningful_cv/) 
 * Median Field Citation Ratio = [4.1](https://plantmodelling.shinyapps.io/meaningful_cv/) (average = 1)
 * Open Science score: **88% of my research is free to read online**. This level of availability puts me in the [top 2%](https://profiles.impactstory.org/) of researchers. This important because Open Science is critical to accelerating the way we discover knowledge.
 
 
 
-### Peer-reviewed publications (10) 
-#### + 7 preprints/ work under review (see below)
+### Peer-reviewed publications (11 in total) 
+#### + 6 preprints/ work under review (see below)
+
+**Heininga, V.E.**, Kuppens, P. (Accepted) Psychopathology and positive emotions in daily life. Current Opinion in Behavioral Sciences.
+
+<details>
+  <summary>About </summary>
+
+In this short review, we describe recent trends from Ecological Momentary Assessment (EMA) research investigating positive affect (PA) in relation to mood disorders. Aside from notable exceptions (e.g., mania), most mood disorders involve relatively lower levels of PA in daily life, often combined with a larger level of variability in PA. In reaction to positive events, studies show a puzzling “mood brightening” effect in individuals with mood disorder symptoms that suggests hyper responsiveness to real-life rewards. Studies into anhedonia (i.e., lack of, or lower levels of PA) suggest that high-arousal PA and anticipatory PA are potential targets for intervention. Despite PA-focused EMA-interventions bear promises of greater therapeutic effectiveness, so far, these promises have not materialized yet.
+</details>
+
+<details>
+  <summary>Preprint</summary>
+
+  * Preprint: https://psyarxiv.com/yse56
+</details>
 
 Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020). A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-think Task. *Memory*. DOI: [10.1080/09658211.2020.1797095](https://doi.org/10.1080/09658211.2020.1797095).
 
@@ -217,10 +231,6 @@ Armeni, K., Brinkman, L., Carlsson, R., Eerland, A., Fijten, R., Fondberg, R., *
 
 * [See preprint](https://doi.org/10.31222/osf.io/7gct9)
 
-**Heininga, V.E.**, Kuppens, P. (under review; 2020, October 1) Psychopathology and positive emotions in daily life. Current Opinion in Behavioral Sciences.
-
-* [See preprint](https://psyarxiv.com/yse56)
-
 **Heininga, V. E.**, Dejonckheere, E., Houben, M., & Kuppens, P. (2019, April 14). Sociomarkers of anhedonia in MDD. 
 
 * [See preregistration](https://osf.io/zbekw)  
@@ -246,9 +256,11 @@ Nosek, B. A., Corker, K. S., Krall, T., Grasty, F. L., Brooks, R. E., III, Mello
 
 * [See preprint](https://doi.org/10.31222/osf.io/d7mwk)
 
+Brinkman, Schettino, Zurita-Milla, Eerland, Zormpa, Schwamm, **Heininga**, Sjoerds (2020, September) OSC Starter Kit. https://doi.org/10.17605/OSF.IO/7VEZ3
+ 
 
 
-## Work in preparation (i.e., not yet preprint) (5)
+## Work in preparation (i.e., not yet preprint) (4)
 
 **Heininga, V.E.**, Stuijfzand, B., Bastiaansen, J.A.C.J., Oldehinkel, A.J., Vanpaemel, W, Tuerlinckx, F., Artner, R., Mason, A., & Munafò, M. (in preparation) Dealing with the Analytical Multiverse Using Cross-Classified Modeling. In preparation for submission in Collabra.
 
@@ -258,10 +270,9 @@ Cohen-Woods, S., (...) **Heininga, V.E.** (...) (in preparation). Meta-analysis 
 
 **Heininga, V.E.**, Jonker, N., Jeronimus, B., de Jonge, P. (preregistration) Relative contributions of risk and protective lifestyle factors to positive and negative mood states in daily life. In preparation for submission in Developmental Psychology.
 
-
 * [See preregistration](https://doi.org/10.17605/OSF.IO/8N54H)
 
-Brinkman, Schettino, Zurita-Milla, Eerland, Zormpa, Schwamm, **Heininga**, Sjoerds (in prep) OSC Starter Kit. https://osf.io/e2s7x/
+
 
 
 ## Research stays abroad
