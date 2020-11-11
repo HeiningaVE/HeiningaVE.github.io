@@ -22,7 +22,7 @@ subtitle: Curriculum vitae
 
 
 ### Peer-reviewed publications (11 in total) 
-#### + 6 preprints/ work under review (see below)
+#### + 7 preprints/ work under review (see below)
 
 **Heininga, V.E.**, Kuppens, P. (Accepted) Psychopathology and positive emotions in daily life. Current Opinion in Behavioral Sciences.
 
