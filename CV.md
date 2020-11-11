@@ -25,7 +25,7 @@ subtitle: Curriculum vitae
 #### + 7 preprints/ work under review (see below)
 
 <details>
-  <summary>[11] Psychopathology and positive emotions in daily life.</summary>
+  <summary>10. Psychopathology and positive emotions in daily life.</summary>
 In this short review, we describe recent trends from Ecological Momentary Assessment (EMA) research investigating positive affect (PA) in relation to mood disorders. Aside from notable exceptions (e.g., mania), most mood disorders involve relatively lower levels of PA in daily life, often combined with a larger level of variability in PA. In reaction to positive events, studies show a puzzling “mood brightening” effect in individuals with mood disorder symptoms that suggests hyper responsiveness to real-life rewards. Studies into anhedonia (i.e., lack of, or lower levels of PA) suggest that high-arousal PA and anticipatory PA are potential targets for intervention. Despite PA-focused EMA-interventions bear promises of greater therapeutic effectiveness, so far, these promises have not materialized yet.
 	
 
@@ -37,7 +37,7 @@ In this short review, we describe recent trends from Ecological Momentary Assess
 
 
 <details>
-  <summary>A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-think Task.</summary>
+  <summary>9. A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-think Task.</summary>
 In 2001, Anderson and Green showed memory suppression using a novel Think/No-think (TNT) task. When participants attempted to prevent studied words from entering awareness, they reported fewer of those words than baseline words in subsequent cued recall (i.e., suppression effect). The TNT literature contains predominantly positive findings and few null-results. Therefore we report unpublished replications conducted in the 2000s (N = 49; N = 36). As the features of the data obtained with the TNT task call for a variety of plausible solutions, we report parallel “universes” of data-analyses (i.e., multiverse analysis) testing the suppression effect. Two published studies were reanalysed in a similar fashion. For recall probed with studied cues (Same Probes, SP), some tests (sample 3) or all (samples 2 and 4) showed statistically significant suppression effects, whereas in sample 1, only one test showed significance. Recall probed with novel cues (Independent Probes, IP) predominantly rendered non-significant results. The absence of statistically significant IP suppression effects raises problems for inhibition theory and its implication that repression is a viable mechanism of forgetting.
 
 
@@ -51,7 +51,7 @@ Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020). A Mult
 
 
 <details>
-  <summary>The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. </summary>
+  <summary>8. The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. </summary>
 
 We were the first to provide a complete overview of anhedonia in the daily lives of MDD patients in terms of hourly fluctuations in pleasure, increase in positive emotions as a function of events, and getting back to baseline in depressed patients with anhedonia. The overview is a valuable addition of knowledge as 20% of young adults experience anhedonia and circa 70% of all depressed patients suffer from anhedonia. Depression affects 300 million people worldwide - about 5% of all people.
 
@@ -66,7 +66,7 @@ We were the first to provide a complete overview of anhedonia in the daily lives
  
 
 <details>
-  <summary>Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. </summary>
+  <summary>7. Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. </summary>
 	
 We showed how depressive symptoms affect each other over time in people with and without anhedonia.
 
@@ -80,7 +80,7 @@ Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J.
 
 
 <details>
-  <summary>Reward and punishment learning in daily life: A replication study. </summary>
+  <summary>6. Reward and punishment learning in daily life: A replication study. </summary>
 
 We explored deviations in learning processes in the daily lives of people with anhedonia using diary studies.
 
@@ -93,7 +93,7 @@ We explored deviations in learning processes in the daily lives of people with a
 	
 	
 <details>
-  <summary>Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted.</summary>
+  <summary>5. Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted.</summary>
 	
 We were the first to employ experience-sampling methods to compare within-person pleasure experiencebetween individuals with and without anhedonia. Contrary to general assumptions, we showed thatpeople with anhedonia are still able to experience pleasure.
 
@@ -105,7 +105,7 @@ We were the first to employ experience-sampling methods to compare within-person
 	
 
 <details>
-  <summary>An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia.  </summary>
+  <summary>4. An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia.  </summary>
 	
 Together, we developed and executed an intervention for anhedonic young adults: personalized lifestyle advice, which is advice tailored to one’s personal situation. Based on a month of diary study, statistical analyses were performed for each person separately to investigate which lifestyle factors were associated with pleasure.
 
@@ -119,7 +119,7 @@ van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehink
 
 
 <details>
-  <summary>Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. </summary>
+  <summary>3. Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. </summary>
 	
 Together, we collected rich and unique data, consisting of a cross-sectional survey (N=3000), a diary study (N=138), monthly blood sampling, and saliva sampling. To stimulate data reuse, we created codebooks for all our data and made them available on Open Science Framework.
 
@@ -132,7 +132,7 @@ van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof,
 
 
 <details>
-  <summary>I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. </summary>
+  <summary>2. I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. </summary>
 	
 To improve understanding of inconsistent findings, in particular in the field of psychiatric genetics, I transparently tested all possible analytic options and evaluated whether inconsistent evidence in a field is more likely due to methodological differences or chance capitalization. Methodological differences across studies were a likely reason for the inconsistent findings with regard to 5HTTLPR-Childhood adversity interaction on depression, but chance capitalization was at least equally plausible. The novel model multiverse approach is important to all fields of science that use statistics to test their hypotheses, because they all deal with variable and model selection.
 
@@ -146,7 +146,7 @@ To improve understanding of inconsistent findings, in particular in the field of
 
 
 <details>
-  <summary>Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation.  </summary>
+  <summary>1. Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation.  </summary>
 	
 We developed a new instrument to measure forensic treatment progression
 
