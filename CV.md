@@ -26,10 +26,11 @@ subtitle: Curriculum vitae
 
 <details>
   <summary>Psychopathology and positive emotions in daily life.</summary>
-.
 In this short review, we describe recent trends from Ecological Momentary Assessment (EMA) research investigating positive affect (PA) in relation to mood disorders. Aside from notable exceptions (e.g., mania), most mood disorders involve relatively lower levels of PA in daily life, often combined with a larger level of variability in PA. In reaction to positive events, studies show a puzzling “mood brightening” effect in individuals with mood disorder symptoms that suggests hyper responsiveness to real-life rewards. Studies into anhedonia (i.e., lack of, or lower levels of PA) suggest that high-arousal PA and anticipatory PA are potential targets for intervention. Despite PA-focused EMA-interventions bear promises of greater therapeutic effectiveness, so far, these promises have not materialized yet.
+	
 
 *Citation*:
+
 **Heininga, V. E.**, & Kuppens, P. (Accepted). Psychopathology and positive emotions in daily life. Current Opinion in Behavioral Sciences
 
 </details>
@@ -37,8 +38,8 @@ In this short review, we describe recent trends from Ecological Momentary Assess
 
 <details>
   <summary>A Multiverse Analysis of Early Attempts to Replicate Memory Suppression with the Think/No-think Task.</summary>
-.
 In 2001, Anderson and Green showed memory suppression using a novel Think/No-think (TNT) task. When participants attempted to prevent studied words from entering awareness, they reported fewer of those words than baseline words in subsequent cued recall (i.e., suppression effect). The TNT literature contains predominantly positive findings and few null-results. Therefore we report unpublished replications conducted in the 2000s (N = 49; N = 36). As the features of the data obtained with the TNT task call for a variety of plausible solutions, we report parallel “universes” of data-analyses (i.e., multiverse analysis) testing the suppression effect. Two published studies were reanalysed in a similar fashion. For recall probed with studied cues (Same Probes, SP), some tests (sample 3) or all (samples 2 and 4) showed statistically significant suppression effects, whereas in sample 1, only one test showed significance. Recall probed with novel cues (Independent Probes, IP) predominantly rendered non-significant results. The absence of statistically significant IP suppression effects raises problems for inhibition theory and its implication that repression is a viable mechanism of forgetting.
+
 
 *Citation*:
 
@@ -46,174 +47,111 @@ Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020). A Mult
 
 </details>
 
-<details>
-  <summary>Impact </summary>
-	
-Across four samples, our multiverse analysis yielded a mixed pattern of results for the forgetting of targets when recall was tested with familiar cues (i.e., SP test), suggesting that it seems prudent to refrain from interpreting suppression induced forgetting as evidence for inhibition.
 
-</details>
+
 
 <details>
-  <summary>Preregistration, preprint, data and code </summary>
-	
-  * Preregistration: https://doi.org/10.17605/OSF.IO/MCS8R
-  * Preprint: https://doi.org/10.31234/osf.io/2dr9e
-  * Data and Code: https://osf.io/qgcy5/
-</details>
+  <summary>The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. </summary>
 
+We were the first to provide a complete overview of anhedonia in the daily lives of MDD patients in terms of hourly fluctuations in pleasure, increase in positive emotions as a function of events, and getting back to baseline in depressed patients with anhedonia. The overview is a valuable addition of knowledge as 20% of young adults experience anhedonia and circa 70% of all depressed patients suffer from anhedonia. Depression affects 300 million people worldwide - about 5% of all people.
 
-
+*Citation*:
 
 **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. *BMC Psychiatry*. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5).
 
-<details>
-  <summary>About </summary>
-
-We were the first to provide a complete overview of anhedonia in the daily lives of MDD patients in terms of hourly fluctuations in pleasure, increase in positive emotions as a function of events, and getting back to baseline in depressed patients with anhedonia. The overview is a valuable addition of knowledge as 20% of young adults experience anhedonia and circa 70% of all depressed patients suffer from anhedonia. Depression affects 300 million people worldwide - about 5% of all people. 
-</details>
-
-<details>
-  <summary>Impact </summary>
-	
-High Altmetric Attention Score compared to outputs of the same age (90th percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) are only computed for article more than 2 years old.
-</details>
-
-<details>
-  <summary>Preregistration, preprint, data and code </summary>
-	
-  * Preprint: https://doi.org/10.31234/osf.io/cfkts) 
-  * Data and Code:https://doi.org/10.17605/OSF.IO/8GXRW
 </details>
 
 
-Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. (2019) Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424).  
+ 
 
 <details>
-  <summary>About </summary>
+  <summary>Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. </summary>
 	
 We showed how depressive symptoms affect each other over time in people with and without anhedonia.
-	</details>
-	
-<details>
-  <summary>Impact </summary>
-High Altmetric Attention Score compared to outputs of the same age (84th percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) are only computed for article more than 2 years old.
+
+
+*Citation*:
+
+Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. (2019) Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424). 
+
 	</details>
 
-<details>
-  <summary>Preregistration, preprint, data and code </summary>
-Preprint: https://psyarxiv.com/tdnws/
-	</details>
 
+
+<details>
+  <summary>Reward and punishment learning in daily life: A replication study. </summary>
+
+We explored deviations in learning processes in the daily lives of people with anhedonia using diary studies.
+
+*Citation*:
 
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. [10.1371/journal.pone.0180753](https://doi.org/10.1371/journal.pone.0180753).  
 
-<details>
-  <summary>About </summary>
-
-We explored deviations in learning processes in the daily lives of people with anhedonia using diary studies.
 	</details>
 	
-<details>
-  <summary>Impact </summary>
 	
-Until recently, reward and punishment learning processes were exclusively studied by means of laboratory tasks, which makes this study a highly innovative and important contribution to clinical and experimental psychology. Field Citation Ratio (FCR) = 1.9 (1 = average).
-	</details>
-
-
 <details>
-  <summary>Preregistration, preprint, data and code </summary>
+  <summary>Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted.</summary>
+	
+We were the first to employ experience-sampling methods to compare within-person pleasure experiencebetween individuals with and without anhedonia. Contrary to general assumptions, we showed thatpeople with anhedonia are still able to experience pleasure.
 
-Data and Code: https://osf.io/wdzs6/
-</details>
-
+*Citation*:
 
 **Heininga, V.E.**, van Roekel, E., Ahles J., Oldehinkel A., Mezulis, A. (2017). Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted. Journal of Affective Disorders, 218, 437445. DOI: [10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).
 
-<details>
-  <summary>About </summary>
-	
-We were the first to employ experience-sampling methods to compare within-person pleasure experiencebetween individuals with and without anhedonia. Contrary to general assumptions, we showed thatpeople with anhedonia are still able to experience pleasure.
 	</details>
 	
-<details>
-  <summary>Impact </summary>
-
-Its impact in the field is evidenced by its citations, and High Attention Score compared to outputs of the same age and source (82nd percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 4.76 (average =  1).
-	</details>
-
 
 <details>
-  <summary>Preregistration, preprint, data and code </summary>
-	
-Data and Code: https://osf.io/yfesj/
-</details>
-
-van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehinkel, A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96. DOI: [10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).
-<details>
-  <summary>About </summary>
+  <summary>An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia.  </summary>
 	
 Together, we developed and executed an intervention for anhedonic young adults: personalized lifestyle advice, which is advice tailored to one’s personal situation. Based on a month of diary study, statistical analyses were performed for each person separately to investigate which lifestyle factors were associated with pleasure.
+
+
+*Citation*:
+
+van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehinkel, A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96. DOI: [10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).
 	</details>
 	
-<details>
-  <summary>Impact </summary>
-	
-The study attracted large national media coverage on the radio (e.g., Radio 1), and newspapers (e.g., by Algemeen Dagblad; Dagblad van het Noorden; Volkskrant). High Altmetric Attention Score compared to outputs of the same age (81st percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 5.71 (average =  1). 
-	</details>
 
 
 <details>
-  <summary>Preregistration, preprint, data and code </summary>
-	
-Preprint: https://doi.org/10.31234/osf.io/b94sy; Data and Code: https://osf.io/k7rfu/
-</details>
-
-van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z). 
-
-<details>
-  <summary>About </summary>
+  <summary>Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. </summary>
 	
 Together, we collected rich and unique data, consisting of a cross-sectional survey (N=3000), a diary study (N=138), monthly blood sampling, and saliva sampling. To stimulate data reuse, we created codebooks for all our data and made them available on Open Science Framework.
+
+
+*Citation*:
+
+van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z). 
 	</details>
 	
-<details>
-  <summary>Impact </summary>
-	
-High Altmetric Attention Score compared to outputs of the same age (87th percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 3.96 (average =  1).
-	</details>
+
 
 <details>
-  <summary>Preregistration, preprint, data and code </summary>
-</details>
-
-
-**Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0. DOI:[10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).
-
-<details>
-  <summary>About </summary>
+  <summary>I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. </summary>
 	
 To improve understanding of inconsistent findings, in particular in the field of psychiatric genetics, I transparently tested all possible analytic options and evaluated whether inconsistent evidence in a field is more likely due to methodological differences or chance capitalization. Methodological differences across studies were a likely reason for the inconsistent findings with regard to 5HTTLPR-Childhood adversity interaction on depression, but chance capitalization was at least equally plausible. The novel model multiverse approach is important to all fields of science that use statistics to test their hypotheses, because they all deal with variable and model selection.
+
+
+*Citation*:
+
+**Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0. DOI:[10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).
 	</details>
 	
-<details>
-  <summary>Impact </summary>
-	
-High Altmetrics Attention Score compared to outputs of the same age (80th percentile), calculated on Sept 3 (2019). Field Citation Ratio (FCR) = 4.04 (average =  1).
-	</details>
 
-Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0. DOI: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100).  
+
 
 <details>
-  <summary>About </summary>
+  <summary>Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation.  </summary>
 	
 We developed a new instrument to measure forensic treatment progression
-	</details>
-	
-<details>
-  <summary>Impact </summary>
-	</details>
 
 
+*Citation*:
+
+Schuringa E., **Heininga V.E**, Spreen M., Bogaerts S. (2016). Concurrent and Predictive Validity of the Instrument for Forensic Treatment Evaluation: From Risk Assessment to Routine, Multidisciplinary Treatment Evaluation. *International Journal of Offender Therapy and Comparative Criminology*, 1 (19), 0-0. DOI: [10.1177/0306624x16676100](https://journals.sagepub.com/doi/abs/10.1177/0306624X16676100).  
+	</details>
 
 > *Altmetric Attention Score*: The Altmetric Score is an automatically calculated, weighted count of all of the attention a research output has received online. ![](/img/altmetric.jpg) Further information about how the Altmetric Attention Score is calculated is available [here](https://www.altmetric.com/about-altmetrics/the-donut-and-score/).
 
