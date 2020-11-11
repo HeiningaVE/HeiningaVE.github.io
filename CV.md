@@ -258,7 +258,7 @@ Nosek, B. A., Corker, K. S., Krall, T., Grasty, F. L., Brooks, R. E., III, Mello
 
 Brinkman, Schettino, Zurita-Milla, Eerland, Zormpa, Schwamm, **Heininga**, Sjoerds (2020, September) OSC Starter Kit. https://doi.org/10.17605/OSF.IO/7VEZ3
  
-
+* [See web apllication](https://inosc-starter-kit.netlify.app/)
 
 ## Work in preparation (i.e., not yet preprint) (4)
 
