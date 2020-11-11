@@ -55,6 +55,7 @@ Wessel, I., Albers, C. J., Zandstra, A. E., & **Heininga, V. E.** (2020). A Mult
 
 We were the first to provide a complete overview of anhedonia in the daily lives of MDD patients in terms of hourly fluctuations in pleasure, increase in positive emotions as a function of events, and getting back to baseline in depressed patients with anhedonia. The overview is a valuable addition of knowledge as 20% of young adults experience anhedonia and circa 70% of all depressed patients suffer from anhedonia. Depression affects 300 million people worldwide - about 5% of all people.
 
+
 *Citation*:
 
 **Heininga, V.E.**, Dejonckheere, E., Houben, M., Obbels, J., Sienaert, P., Leroy, B., Van Roy, J., Kuppens, P. (2019) The dynamical signature of anhedonia in Major Depressive Disorder: Positive emotion dynamics, reactivity, and recovery. *BMC Psychiatry*. DOI: [10.1186/s12888-018-1983-5](https://doi.org/10.1186/s12888-018-1983-5).
@@ -74,7 +75,7 @@ We showed how depressive symptoms affect each other over time in people with and
 
 Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J. (2019) Reciprocal associations between positive emotions and motivation in daily life: Network analyses in anhedonic individuals and healthy controls. *Emotion*, 19(2), 292. DOI: [10.1037/emo0000424](http://dx.doi.org/10.1037/emo0000424). 
 
-	</details>
+</details>
 
 
 
@@ -83,11 +84,12 @@ Van Roekel, E., **Heininga, V. E.**, Vrijen, C., Snippe, E., & Oldehinkel, A. J.
 
 We explored deviations in learning processes in the daily lives of people with anhedonia using diary studies.
 
+
 *Citation*:
 
 **Heininga V.E.**, van Roekel E., Wichers M., Oldehinkel A.J. (2017) Reward and punishment learning in daily life: A replication study. [10.1371/journal.pone.0180753](https://doi.org/10.1371/journal.pone.0180753).  
 
-	</details>
+</details>
 	
 	
 <details>
@@ -99,7 +101,7 @@ We were the first to employ experience-sampling methods to compare within-person
 
 **Heininga, V.E.**, van Roekel, E., Ahles J., Oldehinkel A., Mezulis, A. (2017). Positive affective functioning in anhedonic individuals’ daily life: Anything but flat and blunted. Journal of Affective Disorders, 218, 437445. DOI: [10.1016/j.jad.2017.04.029](https://doi.org/10.1016/j.jad.2017.04.029).
 
-	</details>
+</details>
 	
 
 <details>
@@ -111,7 +113,8 @@ Together, we developed and executed an intervention for anhedonic young adults: 
 *Citation*:
 
 van Roekel, E., Vrijen, C., **Heininga, V.E.**, Masselink, M., Bos, E., Oldehinkel, A.J. (2017). An Exploratory Randomized Controlled Trial of Personalized Lifestyle Advice and Tandem Skydives as a Means to Reduce Anhedonia. Behavior Therapy, 48 (1), 76-96. DOI: [10.1016/j.beth.2016.09.009](https://doi.org/10.1016/j.beth.2016.09.009).
-	</details>
+
+</details>
 	
 
 
@@ -124,7 +127,7 @@ Together, we collected rich and unique data, consisting of a cross-sectional sur
 *Citation*:
 
 van Roekel, E., Masselink, M., Vrijen, C., **Heininga V.E.**, Bak, T., Nederhof, E., & Oldehinkel, A. J. (2016). Study protocol for a randomized controlled trial to explore the effects of personalized lifestyle advices and tandem skydives on pleasure in anhedonic young adults. BMC psychiatry, 16(1), 182. DOI: [10.1186/s12888-016-0880-z](https://doi.org/10.1186/s12888-016-0880-z). 
-	</details>
+</details>
 	
 
 
@@ -137,7 +140,7 @@ To improve understanding of inconsistent findings, in particular in the field of
 *Citation*:
 
 **Heininga V.E.**, Oldehinkel A.J., Veenstra R., Nederhof E. (2015). I Just Ran a Thousand Analyses: Benefits of Multiple Testing in Understanding Equivocal Evidence on Gene-Environment Interactions. PLoS One, 10 (5), 0-0. DOI:[10.1371/journal.pone.0125383](https://doi.org/10.1371/journal.pone.0125383).
-	</details>
+</details>
 	
 
 
