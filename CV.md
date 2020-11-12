@@ -21,8 +21,7 @@ subtitle: Curriculum vitae
 
 
 
-### Peer-reviewed publications (11 in total) 
-#### + 7 preprints/ work under review (see below)
+### Peer-reviewed publications
 
 <details>
   <summary>10. Psychopathology and positive emotions in daily life.</summary>
